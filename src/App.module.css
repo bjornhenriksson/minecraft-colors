@@ -1,0 +1,8 @@
+.block {
+  width: 30vw;
+  height: 30vw;
+}
+
+img.block {
+  image-rendering: pixelated;
+}
