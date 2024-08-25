@@ -1,0 +1,6 @@
+.blocks {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  height: fit-content;
+  gap: 1rem;
+}

@@ -1,0 +1,35 @@
+.block {
+  position: relative;
+  display: inline-block;
+}
+
+.block img {
+  display: block;
+  width: 100%;
+  transition: all 0.1s ease;
+}
+
+.block:hover img {
+  filter: brightness(50%);
+  background-color: black;
+}
+
+.block span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: white;
+
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-size: 0.75rem;
+  font-weight: bold;
+}

@@ -1,25 +1,5 @@
 [
   {
-    "name": "acacia_door_bottom",
-    "rgba": [
-      163,
-      91,
-      57,
-      183
-    ],
-    "image": "acacia_door_bottom.png"
-  },
-  {
-    "name": "acacia_door_top",
-    "rgba": [
-      167,
-      94,
-      61,
-      183
-    ],
-    "image": "acacia_door_top.png"
-  },
-  {
     "name": "acacia_leaves",
     "rgba": [
       149,
@@ -27,17 +7,12 @@
       149,
       147
     ],
-    "image": "acacia_leaves.png"
-  },
-  {
-    "name": "acacia_log",
-    "rgba": [
-      103,
-      97,
-      87,
-      255
+    "hsl": [
+      0,
+      0,
+      58.43137254901961
     ],
-    "image": "acacia_log.png"
+    "image": "acacia_leaves.png"
   },
   {
     "name": "acacia_log_top",
@@ -47,7 +22,27 @@
       55,
       255
     ],
+    "hsl": [
+      21.249999999999993,
+      31.57894736842105,
+      40.3921568627451
+    ],
     "image": "acacia_log_top.png"
+  },
+  {
+    "name": "acacia_log",
+    "rgba": [
+      103,
+      97,
+      87,
+      255
+    ],
+    "hsl": [
+      37.49999999999997,
+      8.421052631578947,
+      37.254901960784316
+    ],
+    "image": "acacia_log.png"
   },
   {
     "name": "acacia_planks",
@@ -57,57 +52,12 @@
       50,
       255
     ],
+    "hsl": [
+      20.33898305084746,
+      40.41095890410959,
+      42.745098039215684
+    ],
     "image": "acacia_planks.png"
-  },
-  {
-    "name": "acacia_sapling",
-    "rgba": [
-      119,
-      117,
-      22,
-      111
-    ],
-    "image": "acacia_sapling.png"
-  },
-  {
-    "name": "acacia_trapdoor",
-    "rgba": [
-      156,
-      87,
-      51,
-      195
-    ],
-    "image": "acacia_trapdoor.png"
-  },
-  {
-    "name": "activator_rail",
-    "rgba": [
-      115,
-      87,
-      74,
-      155
-    ],
-    "image": "activator_rail.png"
-  },
-  {
-    "name": "activator_rail_on",
-    "rgba": [
-      143,
-      87,
-      74,
-      155
-    ],
-    "image": "activator_rail_on.png"
-  },
-  {
-    "name": "allium",
-    "rgba": [
-      161,
-      134,
-      181,
-      38
-    ],
-    "image": "allium.png"
   },
   {
     "name": "amethyst_block",
@@ -117,27 +67,12 @@
       191,
       255
     ],
+    "hsl": [
+      263.22580645161287,
+      42.0814479638009,
+      56.666666666666664
+    ],
     "image": "amethyst_block.png"
-  },
-  {
-    "name": "amethyst_cluster",
-    "rgba": [
-      163,
-      125,
-      207,
-      140
-    ],
-    "image": "amethyst_cluster.png"
-  },
-  {
-    "name": "ancient_debris_side",
-    "rgba": [
-      96,
-      64,
-      56,
-      255
-    ],
-    "image": "ancient_debris_side.png"
   },
   {
     "name": "ancient_debris_top",
@@ -147,7 +82,27 @@
       58,
       255
     ],
+    "hsl": [
+      14.594594594594598,
+      24.183006535947715,
+      30
+    ],
     "image": "ancient_debris_top.png"
+  },
+  {
+    "name": "ancient_debris_side",
+    "rgba": [
+      96,
+      64,
+      56,
+      255
+    ],
+    "hsl": [
+      12,
+      26.31578947368421,
+      29.80392156862745
+    ],
+    "image": "ancient_debris_side.png"
   },
   {
     "name": "andesite",
@@ -157,47 +112,12 @@
       137,
       255
     ],
+    "hsl": [
+      240,
+      0.4219409282700407,
+      53.529411764705884
+    ],
     "image": "andesite.png"
-  },
-  {
-    "name": "anvil",
-    "rgba": [
-      68,
-      68,
-      68,
-      255
-    ],
-    "image": "anvil.png"
-  },
-  {
-    "name": "anvil_top",
-    "rgba": [
-      72,
-      72,
-      72,
-      159
-    ],
-    "image": "anvil_top.png"
-  },
-  {
-    "name": "attached_melon_stem",
-    "rgba": [
-      139,
-      139,
-      139,
-      33
-    ],
-    "image": "attached_melon_stem.png"
-  },
-  {
-    "name": "attached_pumpkin_stem",
-    "rgba": [
-      139,
-      139,
-      139,
-      33
-    ],
-    "image": "attached_pumpkin_stem.png"
   },
   {
     "name": "azalea_leaves",
@@ -207,57 +127,12 @@
       44,
       196
     ],
+    "hsl": [
+      81.42857142857143,
+      44.30379746835443,
+      30.980392156862745
+    ],
     "image": "azalea_leaves.png"
-  },
-  {
-    "name": "azalea_plant",
-    "rgba": [
-      91,
-      109,
-      43,
-      189
-    ],
-    "image": "azalea_plant.png"
-  },
-  {
-    "name": "azalea_side",
-    "rgba": [
-      93,
-      118,
-      45,
-      153
-    ],
-    "image": "azalea_side.png"
-  },
-  {
-    "name": "azalea_top",
-    "rgba": [
-      102,
-      125,
-      48,
-      255
-    ],
-    "image": "azalea_top.png"
-  },
-  {
-    "name": "azure_bluet",
-    "rgba": [
-      166,
-      201,
-      124,
-      43
-    ],
-    "image": "azure_bluet.png"
-  },
-  {
-    "name": "bamboo_block",
-    "rgba": [
-      127,
-      144,
-      58,
-      255
-    ],
-    "image": "bamboo_block.png"
   },
   {
     "name": "bamboo_block_top",
@@ -267,77 +142,27 @@
       62,
       255
     ],
+    "hsl": [
+      62.25000000000001,
+      26.143790849673206,
+      40
+    ],
     "image": "bamboo_block_top.png"
   },
   {
-    "name": "bamboo_door_bottom",
+    "name": "bamboo_block",
     "rgba": [
-      199,
-      178,
-      85,
+      127,
+      144,
+      58,
       255
     ],
-    "image": "bamboo_door_bottom.png"
-  },
-  {
-    "name": "bamboo_door_top",
-    "rgba": [
-      190,
-      171,
-      81,
-      207
+    "hsl": [
+      71.86046511627906,
+      27.92207792207792,
+      39.6078431372549
     ],
-    "image": "bamboo_door_top.png"
-  },
-  {
-    "name": "bamboo_fence",
-    "rgba": [
-      207,
-      186,
-      90,
-      170
-    ],
-    "image": "bamboo_fence.png"
-  },
-  {
-    "name": "bamboo_fence_gate",
-    "rgba": [
-      206,
-      185,
-      86,
-      191
-    ],
-    "image": "bamboo_fence_gate.png"
-  },
-  {
-    "name": "bamboo_fence_gate_particle",
-    "rgba": [
-      207,
-      186,
-      85,
-      255
-    ],
-    "image": "bamboo_fence_gate_particle.png"
-  },
-  {
-    "name": "bamboo_fence_particle",
-    "rgba": [
-      207,
-      186,
-      85,
-      255
-    ],
-    "image": "bamboo_fence_particle.png"
-  },
-  {
-    "name": "bamboo_large_leaves",
-    "rgba": [
-      73,
-      118,
-      26,
-      185
-    ],
-    "image": "bamboo_large_leaves.png"
+    "image": "bamboo_block.png"
   },
   {
     "name": "bamboo_mosaic",
@@ -346,6 +171,11 @@
       170,
       78,
       255
+    ],
+    "hsl": [
+      49.28571428571428,
+      46.28099173553719,
+      52.54901960784314
     ],
     "image": "bamboo_mosaic.png"
   },
@@ -357,107 +187,12 @@
       80,
       255
     ],
+    "hsl": [
+      49.380530973451336,
+      47.679324894514764,
+      53.529411764705884
+    ],
     "image": "bamboo_planks.png"
-  },
-  {
-    "name": "bamboo_singleleaf",
-    "rgba": [
-      106,
-      148,
-      42,
-      12
-    ],
-    "image": "bamboo_singleleaf.png"
-  },
-  {
-    "name": "bamboo_small_leaves",
-    "rgba": [
-      70,
-      113,
-      24,
-      83
-    ],
-    "image": "bamboo_small_leaves.png"
-  },
-  {
-    "name": "bamboo_stage0",
-    "rgba": [
-      92,
-      88,
-      37,
-      55
-    ],
-    "image": "bamboo_stage0.png"
-  },
-  {
-    "name": "bamboo_stalk",
-    "rgba": [
-      94,
-      145,
-      20,
-      255
-    ],
-    "image": "bamboo_stalk.png"
-  },
-  {
-    "name": "bamboo_trapdoor",
-    "rgba": [
-      199,
-      178,
-      85,
-      211
-    ],
-    "image": "bamboo_trapdoor.png"
-  },
-  {
-    "name": "barrel_bottom",
-    "rgba": [
-      116,
-      85,
-      49,
-      255
-    ],
-    "image": "barrel_bottom.png"
-  },
-  {
-    "name": "barrel_side",
-    "rgba": [
-      108,
-      81,
-      50,
-      255
-    ],
-    "image": "barrel_side.png"
-  },
-  {
-    "name": "barrel_top",
-    "rgba": [
-      135,
-      101,
-      58,
-      255
-    ],
-    "image": "barrel_top.png"
-  },
-  {
-    "name": "barrel_top_open",
-    "rgba": [
-      93,
-      68,
-      34,
-      255
-    ],
-    "image": "barrel_top_open.png"
-  },
-  {
-    "name": "basalt_side",
-    "rgba": [
-      73,
-      73,
-      78,
-      255
-    ],
-    "image": "basalt_side.png"
   },
   {
     "name": "basalt_top",
@@ -467,17 +202,27 @@
       86,
       255
     ],
+    "hsl": [
+      227.99999999999991,
+      2.9940119760479105,
+      32.745098039215684
+    ],
     "image": "basalt_top.png"
   },
   {
-    "name": "beacon",
+    "name": "basalt_side",
     "rgba": [
-      118,
-      221,
-      215,
+      73,
+      73,
+      78,
       255
     ],
-    "image": "beacon.png"
+    "hsl": [
+      240,
+      3.3112582781457025,
+      29.607843137254903
+    ],
+    "image": "basalt_side.png"
   },
   {
     "name": "bedrock",
@@ -487,227 +232,12 @@
       85,
       255
     ],
-    "image": "bedrock.png"
-  },
-  {
-    "name": "bee_nest_bottom",
-    "rgba": [
-      161,
-      127,
-      88,
-      255
-    ],
-    "image": "bee_nest_bottom.png"
-  },
-  {
-    "name": "bee_nest_front",
-    "rgba": [
-      183,
-      142,
-      76,
-      255
-    ],
-    "image": "bee_nest_front.png"
-  },
-  {
-    "name": "bee_nest_front_honey",
-    "rgba": [
-      195,
-      152,
-      75,
-      255
-    ],
-    "image": "bee_nest_front_honey.png"
-  },
-  {
-    "name": "bee_nest_side",
-    "rgba": [
-      196,
-      151,
-      77,
-      255
-    ],
-    "image": "bee_nest_side.png"
-  },
-  {
-    "name": "bee_nest_top",
-    "rgba": [
-      202,
-      160,
-      75,
-      255
-    ],
-    "image": "bee_nest_top.png"
-  },
-  {
-    "name": "beehive_end",
-    "rgba": [
-      181,
-      146,
-      90,
-      255
-    ],
-    "image": "beehive_end.png"
-  },
-  {
-    "name": "beehive_front",
-    "rgba": [
-      159,
-      128,
-      77,
-      255
-    ],
-    "image": "beehive_front.png"
-  },
-  {
-    "name": "beehive_front_honey",
-    "rgba": [
-      167,
-      131,
-      74,
-      255
-    ],
-    "image": "beehive_front_honey.png"
-  },
-  {
-    "name": "beehive_side",
-    "rgba": [
-      157,
-      126,
-      76,
-      255
-    ],
-    "image": "beehive_side.png"
-  },
-  {
-    "name": "beetroots_stage0",
-    "rgba": [
-      68,
-      136,
-      34,
-      15
-    ],
-    "image": "beetroots_stage0.png"
-  },
-  {
-    "name": "beetroots_stage1",
-    "rgba": [
-      68,
-      136,
-      42,
-      30
-    ],
-    "image": "beetroots_stage1.png"
-  },
-  {
-    "name": "beetroots_stage2",
-    "rgba": [
-      69,
-      130,
-      40,
-      88
-    ],
-    "image": "beetroots_stage2.png"
-  },
-  {
-    "name": "beetroots_stage3",
-    "rgba": [
-      94,
-      92,
-      30,
-      116
-    ],
-    "image": "beetroots_stage3.png"
-  },
-  {
-    "name": "bell_bottom",
-    "rgba": [
-      190,
-      149,
-      40,
-      63
-    ],
-    "image": "bell_bottom.png"
-  },
-  {
-    "name": "bell_side",
-    "rgba": [
-      250,
-      228,
-      96,
-      58
-    ],
-    "image": "bell_side.png"
-  },
-  {
-    "name": "bell_top",
-    "rgba": [
-      254,
-      234,
-      109,
-      63
-    ],
-    "image": "bell_top.png"
-  },
-  {
-    "name": "big_dripleaf_side",
-    "rgba": [
-      85,
-      85,
+    "hsl": [
       0,
-      3
+      0,
+      33.33333333333333
     ],
-    "image": "big_dripleaf_side.png"
-  },
-  {
-    "name": "big_dripleaf_stem",
-    "rgba": [
-      91,
-      115,
-      45,
-      84
-    ],
-    "image": "big_dripleaf_stem.png"
-  },
-  {
-    "name": "big_dripleaf_tip",
-    "rgba": [
-      98,
-      124,
-      45,
-      39
-    ],
-    "image": "big_dripleaf_tip.png"
-  },
-  {
-    "name": "big_dripleaf_top",
-    "rgba": [
-      111,
-      141,
-      51,
-      231
-    ],
-    "image": "big_dripleaf_top.png"
-  },
-  {
-    "name": "birch_door_bottom",
-    "rgba": [
-      208,
-      194,
-      144,
-      255
-    ],
-    "image": "birch_door_bottom.png"
-  },
-  {
-    "name": "birch_door_top",
-    "rgba": [
-      220,
-      210,
-      176,
-      255
-    ],
-    "image": "birch_door_top.png"
+    "image": "bedrock.png"
   },
   {
     "name": "birch_leaves",
@@ -717,17 +247,12 @@
       129,
       144
     ],
-    "image": "birch_leaves.png"
-  },
-  {
-    "name": "birch_log",
-    "rgba": [
-      217,
-      215,
-      210,
-      255
+    "hsl": [
+      0,
+      0.799999999999997,
+      50.98039215686274
     ],
-    "image": "birch_log.png"
+    "image": "birch_leaves.png"
   },
   {
     "name": "birch_log_top",
@@ -737,7 +262,27 @@
       135,
       255
     ],
+    "hsl": [
+      45.517241379310335,
+      31.86813186813186,
+      64.31372549019608
+    ],
     "image": "birch_log_top.png"
+  },
+  {
+    "name": "birch_log",
+    "rgba": [
+      217,
+      215,
+      210,
+      255
+    ],
+    "hsl": [
+      42.857142857142925,
+      8.433734939759036,
+      83.72549019607843
+    ],
+    "image": "birch_log.png"
   },
   {
     "name": "birch_planks",
@@ -747,47 +292,42 @@
       121,
       255
     ],
+    "hsl": [
+      45.633802816901415,
+      36.04060913705584,
+      61.372549019607845
+    ],
     "image": "birch_planks.png"
   },
   {
-    "name": "birch_sapling",
+    "name": "blackstone_top",
     "rgba": [
-      127,
-      161,
-      78,
-      98
-    ],
-    "image": "birch_sapling.png"
-  },
-  {
-    "name": "birch_trapdoor",
-    "rgba": [
-      207,
-      194,
-      157,
+      42,
+      36,
+      42,
       255
     ],
-    "image": "birch_trapdoor.png"
+    "hsl": [
+      300,
+      7.692307692307692,
+      15.294117647058824
+    ],
+    "image": "blackstone_top.png"
   },
   {
-    "name": "black_candle",
+    "name": "blackstone",
     "rgba": [
-      36,
-      36,
-      60,
-      21
+      42,
+      35,
+      41,
+      255
     ],
-    "image": "black_candle.png"
-  },
-  {
-    "name": "black_candle_lit",
-    "rgba": [
-      72,
-      48,
-      48,
-      21
+    "hsl": [
+      308.57142857142856,
+      9.090909090909086,
+      15.098039215686276
     ],
-    "image": "black_candle_lit.png"
+    "image": "blackstone.png"
   },
   {
     "name": "black_concrete",
@@ -796,6 +336,11 @@
       10,
       15,
       255
+    ],
+    "hsl": [
+      222.85714285714286,
+      30.434782608695656,
+      4.509803921568627
     ],
     "image": "black_concrete.png"
   },
@@ -807,27 +352,12 @@
       32,
       255
     ],
+    "hsl": [
+      222.85714285714286,
+      12.280701754385966,
+      11.176470588235293
+    ],
     "image": "black_concrete_powder.png"
-  },
-  {
-    "name": "black_glazed_terracotta",
-    "rgba": [
-      68,
-      30,
-      32,
-      255
-    ],
-    "image": "black_glazed_terracotta.png"
-  },
-  {
-    "name": "black_shulker_box",
-    "rgba": [
-      25,
-      25,
-      30,
-      255
-    ],
-    "image": "black_shulker_box.png"
   },
   {
     "name": "black_stained_glass",
@@ -837,17 +367,12 @@
       26,
       117
     ],
-    "image": "black_stained_glass.png"
-  },
-  {
-    "name": "black_stained_glass_pane_top",
-    "rgba": [
-      26,
-      26,
-      26,
-      29
+    "hsl": [
+      0,
+      0,
+      10.196078431372548
     ],
-    "image": "black_stained_glass_pane_top.png"
+    "image": "black_stained_glass.png"
   },
   {
     "name": "black_terracotta",
@@ -856,6 +381,11 @@
       23,
       16,
       255
+    ],
+    "hsl": [
+      19.999999999999996,
+      39.62264150943396,
+      10.392156862745098
     ],
     "image": "black_terracotta.png"
   },
@@ -867,87 +397,12 @@
       26,
       255
     ],
+    "hsl": [
+      240,
+      10.638297872340424,
+      9.215686274509805
+    ],
     "image": "black_wool.png"
-  },
-  {
-    "name": "blackstone",
-    "rgba": [
-      42,
-      35,
-      41,
-      255
-    ],
-    "image": "blackstone.png"
-  },
-  {
-    "name": "blackstone_top",
-    "rgba": [
-      42,
-      36,
-      42,
-      255
-    ],
-    "image": "blackstone_top.png"
-  },
-  {
-    "name": "blast_furnace_front",
-    "rgba": [
-      107,
-      108,
-      107,
-      255
-    ],
-    "image": "blast_furnace_front.png"
-  },
-  {
-    "name": "blast_furnace_front_on",
-    "rgba": [
-      116,
-      110,
-      105,
-      255
-    ],
-    "image": "blast_furnace_front_on.png"
-  },
-  {
-    "name": "blast_furnace_side",
-    "rgba": [
-      108,
-      107,
-      108,
-      255
-    ],
-    "image": "blast_furnace_side.png"
-  },
-  {
-    "name": "blast_furnace_top",
-    "rgba": [
-      81,
-      80,
-      81,
-      255
-    ],
-    "image": "blast_furnace_top.png"
-  },
-  {
-    "name": "blue_candle",
-    "rgba": [
-      60,
-      72,
-      157,
-      21
-    ],
-    "image": "blue_candle.png"
-  },
-  {
-    "name": "blue_candle_lit",
-    "rgba": [
-      60,
-      85,
-      182,
-      21
-    ],
-    "image": "blue_candle_lit.png"
   },
   {
     "name": "blue_concrete",
@@ -956,6 +411,11 @@
       47,
       143,
       255
+    ],
+    "hsl": [
+      238.77551020408166,
+      30.43478260869565,
+      36.86274509803922
     ],
     "image": "blue_concrete.png"
   },
@@ -967,17 +427,12 @@
       167,
       255
     ],
-    "image": "blue_concrete_powder.png"
-  },
-  {
-    "name": "blue_glazed_terracotta",
-    "rgba": [
-      47,
-      65,
-      139,
-      255
+    "hsl": [
+      238.1443298969072,
+      35.53113553113553,
+      46.470588235294116
     ],
-    "image": "blue_glazed_terracotta.png"
+    "image": "blue_concrete_powder.png"
   },
   {
     "name": "blue_ice",
@@ -987,27 +442,12 @@
       253,
       255
     ],
+    "hsl": [
+      217.22627737226279,
+      97.1631205673759,
+      72.35294117647058
+    ],
     "image": "blue_ice.png"
-  },
-  {
-    "name": "blue_orchid",
-    "rgba": [
-      46,
-      162,
-      168,
-      44
-    ],
-    "image": "blue_orchid.png"
-  },
-  {
-    "name": "blue_shulker_box",
-    "rgba": [
-      44,
-      46,
-      140,
-      255
-    ],
-    "image": "blue_shulker_box.png"
   },
   {
     "name": "blue_stained_glass",
@@ -1017,17 +457,12 @@
       178,
       117
     ],
-    "image": "blue_stained_glass.png"
-  },
-  {
-    "name": "blue_stained_glass_pane_top",
-    "rgba": [
-      43,
-      70,
-      167,
-      29
+    "hsl": [
+      227.8125,
+      45.39007092198582,
+      44.705882352941174
     ],
-    "image": "blue_stained_glass_pane_top.png"
+    "image": "blue_stained_glass.png"
   },
   {
     "name": "blue_terracotta",
@@ -1036,6 +471,11 @@
       60,
       91,
       255
+    ],
+    "hsl": [
+      267.0967741935484,
+      20.529801324503314,
+      29.607843137254903
     ],
     "image": "blue_terracotta.png"
   },
@@ -1047,17 +487,12 @@
       158,
       255
     ],
-    "image": "blue_wool.png"
-  },
-  {
-    "name": "bone_block_side",
-    "rgba": [
-      229,
-      226,
-      208,
-      255
+    "hsl": [
+      237.71428571428572,
+      35.1170568561873,
+      41.372549019607845
     ],
-    "image": "bone_block_side.png"
+    "image": "blue_wool.png"
   },
   {
     "name": "bone_block_top",
@@ -1067,7 +502,42 @@
       179,
       255
     ],
+    "hsl": [
+      52.25806451612906,
+      25.6198347107438,
+      76.27450980392156
+    ],
     "image": "bone_block_top.png"
+  },
+  {
+    "name": "bone_block_side",
+    "rgba": [
+      229,
+      226,
+      208,
+      255
+    ],
+    "hsl": [
+      51.42857142857138,
+      28.76712328767126,
+      85.68627450980392
+    ],
+    "image": "bone_block_side.png"
+  },
+  {
+    "name": "oak_planks",
+    "rgba": [
+      162,
+      131,
+      79,
+      255
+    ],
+    "hsl": [
+      37.590361445783124,
+      30.85501858736059,
+      47.25490196078431
+    ],
+    "image": "oak_planks.png"
   },
   {
     "name": "bookshelf",
@@ -1077,17 +547,12 @@
       60,
       255
     ],
-    "image": "bookshelf.png"
-  },
-  {
-    "name": "brain_coral",
-    "rgba": [
-      198,
-      84,
-      152,
-      112
+    "hsl": [
+      36.842105263157904,
+      32.20338983050847,
+      34.705882352941174
     ],
-    "image": "brain_coral.png"
+    "image": "bookshelf.png"
   },
   {
     "name": "brain_coral_block",
@@ -1097,37 +562,12 @@
       159,
       255
     ],
+    "hsl": [
+      324.82758620689657,
+      54.71698113207547,
+      58.43137254901961
+    ],
     "image": "brain_coral_block.png"
-  },
-  {
-    "name": "brain_coral_fan",
-    "rgba": [
-      201,
-      83,
-      153,
-      95
-    ],
-    "image": "brain_coral_fan.png"
-  },
-  {
-    "name": "brewing_stand",
-    "rgba": [
-      122,
-      100,
-      81,
-      129
-    ],
-    "image": "brewing_stand.png"
-  },
-  {
-    "name": "brewing_stand_base",
-    "rgba": [
-      117,
-      106,
-      106,
-      255
-    ],
-    "image": "brewing_stand_base.png"
   },
   {
     "name": "bricks",
@@ -1137,27 +577,12 @@
       83,
       255
     ],
+    "hsl": [
+      13.235294117647062,
+      24.637681159420293,
+      45.88235294117647
+    ],
     "image": "bricks.png"
-  },
-  {
-    "name": "brown_candle",
-    "rgba": [
-      109,
-      72,
-      36,
-      21
-    ],
-    "image": "brown_candle.png"
-  },
-  {
-    "name": "brown_candle_lit",
-    "rgba": [
-      145,
-      97,
-      48,
-      21
-    ],
-    "image": "brown_candle_lit.png"
   },
   {
     "name": "brown_concrete",
@@ -1166,6 +591,11 @@
       60,
       32,
       255
+    ],
+    "hsl": [
+      26.25,
+      50,
+      25.098039215686274
     ],
     "image": "brown_concrete.png"
   },
@@ -1177,27 +607,12 @@
       54,
       255
     ],
+    "hsl": [
+      25.833333333333332,
+      40,
+      35.294117647058826
+    ],
     "image": "brown_concrete_powder.png"
-  },
-  {
-    "name": "brown_glazed_terracotta",
-    "rgba": [
-      120,
-      106,
-      86,
-      255
-    ],
-    "image": "brown_glazed_terracotta.png"
-  },
-  {
-    "name": "brown_mushroom",
-    "rgba": [
-      150,
-      120,
-      90,
-      34
-    ],
-    "image": "brown_mushroom.png"
   },
   {
     "name": "brown_mushroom_block",
@@ -1207,17 +622,12 @@
       81,
       255
     ],
-    "image": "brown_mushroom_block.png"
-  },
-  {
-    "name": "brown_shulker_box",
-    "rgba": [
-      106,
-      66,
-      36,
-      255
+    "hsl": [
+      27.352941176470583,
+      24.28571428571429,
+      45.09803921568628
     ],
-    "image": "brown_shulker_box.png"
+    "image": "brown_mushroom_block.png"
   },
   {
     "name": "brown_stained_glass",
@@ -1227,17 +637,12 @@
       50,
       117
     ],
-    "image": "brown_stained_glass.png"
-  },
-  {
-    "name": "brown_stained_glass_pane_top",
-    "rgba": [
-      96,
-      70,
-      43,
-      29
+    "hsl": [
+      29.999999999999996,
+      34.21052631578948,
+      29.80392156862745
     ],
-    "image": "brown_stained_glass_pane_top.png"
+    "image": "brown_stained_glass.png"
   },
   {
     "name": "brown_terracotta",
@@ -1246,6 +651,11 @@
       51,
       36,
       255
+    ],
+    "hsl": [
+      21.951219512195127,
+      36.28318584070796,
+      22.15686274509804
     ],
     "image": "brown_terracotta.png"
   },
@@ -1257,17 +667,12 @@
       41,
       255
     ],
-    "image": "brown_wool.png"
-  },
-  {
-    "name": "bubble_coral",
-    "rgba": [
-      161,
-      23,
-      159,
-      133
+    "hsl": [
+      25.479452054794518,
+      47.09677419354838,
+      30.3921568627451
     ],
-    "image": "bubble_coral.png"
+    "image": "brown_wool.png"
   },
   {
     "name": "bubble_coral_block",
@@ -1277,17 +682,12 @@
       162,
       255
     ],
-    "image": "bubble_coral_block.png"
-  },
-  {
-    "name": "bubble_coral_fan",
-    "rgba": [
-      159,
-      31,
-      159,
-      112
+    "hsl": [
+      301.294964028777,
+      43.57366771159875,
+      37.450980392156865
     ],
-    "image": "bubble_coral_fan.png"
+    "image": "bubble_coral_block.png"
   },
   {
     "name": "budding_amethyst",
@@ -1297,77 +697,12 @@
       187,
       255
     ],
+    "hsl": [
+      263.73626373626377,
+      40.08810572687224,
+      55.490196078431374
+    ],
     "image": "budding_amethyst.png"
-  },
-  {
-    "name": "cactus_bottom",
-    "rgba": [
-      143,
-      170,
-      86,
-      195
-    ],
-    "image": "cactus_bottom.png"
-  },
-  {
-    "name": "cactus_side",
-    "rgba": [
-      88,
-      130,
-      44,
-      227
-    ],
-    "image": "cactus_side.png"
-  },
-  {
-    "name": "cactus_top",
-    "rgba": [
-      86,
-      126,
-      43,
-      195
-    ],
-    "image": "cactus_top.png"
-  },
-  {
-    "name": "cake_bottom",
-    "rgba": [
-      134,
-      62,
-      32,
-      195
-    ],
-    "image": "cake_bottom.png"
-  },
-  {
-    "name": "cake_inner",
-    "rgba": [
-      134,
-      84,
-      61,
-      112
-    ],
-    "image": "cake_inner.png"
-  },
-  {
-    "name": "cake_side",
-    "rgba": [
-      202,
-      152,
-      120,
-      112
-    ],
-    "image": "cake_side.png"
-  },
-  {
-    "name": "cake_top",
-    "rgba": [
-      248,
-      222,
-      214,
-      195
-    ],
-    "image": "cake_top.png"
   },
   {
     "name": "calcite",
@@ -1377,327 +712,12 @@
       221,
       255
     ],
+    "hsl": [
+      80.00000000000001,
+      4.615384615384599,
+      87.25490196078431
+    ],
     "image": "calcite.png"
-  },
-  {
-    "name": "calibrated_sculk_sensor_amethyst",
-    "rgba": [
-      199,
-      159,
-      223,
-      64
-    ],
-    "image": "calibrated_sculk_sensor_amethyst.png"
-  },
-  {
-    "name": "calibrated_sculk_sensor_input_side",
-    "rgba": [
-      59,
-      69,
-      101,
-      128
-    ],
-    "image": "calibrated_sculk_sensor_input_side.png"
-  },
-  {
-    "name": "calibrated_sculk_sensor_top",
-    "rgba": [
-      28,
-      79,
-      101,
-      255
-    ],
-    "image": "calibrated_sculk_sensor_top.png"
-  },
-  {
-    "name": "campfire_fire",
-    "rgba": [
-      222,
-      166,
-      59,
-      124
-    ],
-    "image": "campfire_fire.png"
-  },
-  {
-    "name": "campfire_log",
-    "rgba": [
-      78,
-      73,
-      67,
-      207
-    ],
-    "image": "campfire_log.png"
-  },
-  {
-    "name": "campfire_log_lit",
-    "rgba": [
-      116,
-      92,
-      55,
-      255
-    ],
-    "image": "campfire_log_lit.png"
-  },
-  {
-    "name": "candle",
-    "rgba": [
-      230,
-      194,
-      145,
-      21
-    ],
-    "image": "candle.png"
-  },
-  {
-    "name": "candle_lit",
-    "rgba": [
-      230,
-      206,
-      170,
-      21
-    ],
-    "image": "candle_lit.png"
-  },
-  {
-    "name": "carrots_stage0",
-    "rgba": [
-      45,
-      105,
-      45,
-      17
-    ],
-    "image": "carrots_stage0.png"
-  },
-  {
-    "name": "carrots_stage1",
-    "rgba": [
-      54,
-      121,
-      42,
-      42
-    ],
-    "image": "carrots_stage1.png"
-  },
-  {
-    "name": "carrots_stage2",
-    "rgba": [
-      55,
-      111,
-      37,
-      82
-    ],
-    "image": "carrots_stage2.png"
-  },
-  {
-    "name": "carrots_stage3",
-    "rgba": [
-      81,
-      125,
-      37,
-      110
-    ],
-    "image": "carrots_stage3.png"
-  },
-  {
-    "name": "cartography_table_side1",
-    "rgba": [
-      70,
-      50,
-      34,
-      255
-    ],
-    "image": "cartography_table_side1.png"
-  },
-  {
-    "name": "cartography_table_side2",
-    "rgba": [
-      82,
-      62,
-      42,
-      255
-    ],
-    "image": "cartography_table_side2.png"
-  },
-  {
-    "name": "cartography_table_side3",
-    "rgba": [
-      68,
-      44,
-      20,
-      255
-    ],
-    "image": "cartography_table_side3.png"
-  },
-  {
-    "name": "cartography_table_top",
-    "rgba": [
-      103,
-      87,
-      67,
-      255
-    ],
-    "image": "cartography_table_top.png"
-  },
-  {
-    "name": "carved_pumpkin",
-    "rgba": [
-      150,
-      84,
-      17,
-      255
-    ],
-    "image": "carved_pumpkin.png"
-  },
-  {
-    "name": "cauldron_bottom",
-    "rgba": [
-      39,
-      39,
-      45,
-      84
-    ],
-    "image": "cauldron_bottom.png"
-  },
-  {
-    "name": "cauldron_inner",
-    "rgba": [
-      49,
-      49,
-      53,
-      255
-    ],
-    "image": "cauldron_inner.png"
-  },
-  {
-    "name": "cauldron_side",
-    "rgba": [
-      74,
-      73,
-      75,
-      255
-    ],
-    "image": "cauldron_side.png"
-  },
-  {
-    "name": "cauldron_top",
-    "rgba": [
-      74,
-      72,
-      74,
-      155
-    ],
-    "image": "cauldron_top.png"
-  },
-  {
-    "name": "cave_vines",
-    "rgba": [
-      89,
-      109,
-      41,
-      142
-    ],
-    "image": "cave_vines.png"
-  },
-  {
-    "name": "cave_vines_lit",
-    "rgba": [
-      105,
-      113,
-      41,
-      148
-    ],
-    "image": "cave_vines_lit.png"
-  },
-  {
-    "name": "cave_vines_plant",
-    "rgba": [
-      89,
-      101,
-      37,
-      143
-    ],
-    "image": "cave_vines_plant.png"
-  },
-  {
-    "name": "cave_vines_plant_lit",
-    "rgba": [
-      105,
-      107,
-      40,
-      159
-    ],
-    "image": "cave_vines_plant_lit.png"
-  },
-  {
-    "name": "chain",
-    "rgba": [
-      51,
-      60,
-      74,
-      55
-    ],
-    "image": "chain.png"
-  },
-  {
-    "name": "chain_command_block_back",
-    "rgba": [
-      130,
-      157,
-      145,
-      255
-    ],
-    "image": "chain_command_block_back.png"
-  },
-  {
-    "name": "chain_command_block_conditional",
-    "rgba": [
-      129,
-      162,
-      147,
-      255
-    ],
-    "image": "chain_command_block_conditional.png"
-  },
-  {
-    "name": "chain_command_block_front",
-    "rgba": [
-      132,
-      165,
-      151,
-      255
-    ],
-    "image": "chain_command_block_front.png"
-  },
-  {
-    "name": "chain_command_block_side",
-    "rgba": [
-      131,
-      161,
-      148,
-      255
-    ],
-    "image": "chain_command_block_side.png"
-  },
-  {
-    "name": "cherry_door_bottom",
-    "rgba": [
-      225,
-      176,
-      169,
-      253
-    ],
-    "image": "cherry_door_bottom.png"
-  },
-  {
-    "name": "cherry_door_top",
-    "rgba": [
-      223,
-      170,
-      164,
-      219
-    ],
-    "image": "cherry_door_top.png"
   },
   {
     "name": "cherry_leaves",
@@ -1707,17 +727,12 @@
       194,
       215
     ],
-    "image": "cherry_leaves.png"
-  },
-  {
-    "name": "cherry_log",
-    "rgba": [
-      55,
-      33,
-      44,
-      255
+    "hsl": [
+      337.89473684210526,
+      53.271028037383196,
+      79.01960784313727
     ],
-    "image": "cherry_log.png"
+    "image": "cherry_leaves.png"
   },
   {
     "name": "cherry_log_top",
@@ -1727,7 +742,27 @@
       137,
       255
     ],
+    "hsl": [
+      5.000000000000018,
+      25.53191489361702,
+      63.13725490196078
+    ],
     "image": "cherry_log_top.png"
+  },
+  {
+    "name": "cherry_log",
+    "rgba": [
+      55,
+      33,
+      44,
+      255
+    ],
+    "hsl": [
+      330,
+      25,
+      17.254901960784313
+    ],
+    "image": "cherry_log.png"
   },
   {
     "name": "cherry_planks",
@@ -1737,77 +772,12 @@
       173,
       255
     ],
+    "hsl": [
+      6.792452830188658,
+      47.74774774774773,
+      78.23529411764706
+    ],
     "image": "cherry_planks.png"
-  },
-  {
-    "name": "cherry_sapling",
-    "rgba": [
-      163,
-      117,
-      142,
-      122
-    ],
-    "image": "cherry_sapling.png"
-  },
-  {
-    "name": "cherry_trapdoor",
-    "rgba": [
-      227,
-      178,
-      172,
-      219
-    ],
-    "image": "cherry_trapdoor.png"
-  },
-  {
-    "name": "chipped_anvil_top",
-    "rgba": [
-      73,
-      73,
-      73,
-      159
-    ],
-    "image": "chipped_anvil_top.png"
-  },
-  {
-    "name": "chiseled_bookshelf_empty",
-    "rgba": [
-      90,
-      71,
-      42,
-      255
-    ],
-    "image": "chiseled_bookshelf_empty.png"
-  },
-  {
-    "name": "chiseled_bookshelf_occupied",
-    "rgba": [
-      121,
-      94,
-      70,
-      255
-    ],
-    "image": "chiseled_bookshelf_occupied.png"
-  },
-  {
-    "name": "chiseled_bookshelf_side",
-    "rgba": [
-      175,
-      142,
-      86,
-      255
-    ],
-    "image": "chiseled_bookshelf_side.png"
-  },
-  {
-    "name": "chiseled_bookshelf_top",
-    "rgba": [
-      178,
-      145,
-      89,
-      255
-    ],
-    "image": "chiseled_bookshelf_top.png"
   },
   {
     "name": "chiseled_deepslate",
@@ -1816,6 +786,11 @@
       54,
       55,
       255
+    ],
+    "hsl": [
+      240,
+      0.9174311926605536,
+      21.372549019607845
     ],
     "image": "chiseled_deepslate.png"
   },
@@ -1827,6 +802,11 @@
       28,
       255
     ],
+    "hsl": [
+      349.5652173913044,
+      32.3943661971831,
+      13.92156862745098
+    ],
     "image": "chiseled_nether_bricks.png"
   },
   {
@@ -1837,17 +817,12 @@
       57,
       255
     ],
-    "image": "chiseled_polished_blackstone.png"
-  },
-  {
-    "name": "chiseled_quartz_block",
-    "rgba": [
-      232,
-      227,
-      218,
-      255
+    "hsl": [
+      279.99999999999994,
+      8.571428571428577,
+      20.588235294117645
     ],
-    "image": "chiseled_quartz_block.png"
+    "image": "chiseled_polished_blackstone.png"
   },
   {
     "name": "chiseled_quartz_block_top",
@@ -1857,7 +832,42 @@
       217,
       255
     ],
+    "hsl": [
+      39.999999999999964,
+      24.590163934426233,
+      88.0392156862745
+    ],
     "image": "chiseled_quartz_block_top.png"
+  },
+  {
+    "name": "chiseled_quartz_block",
+    "rgba": [
+      232,
+      227,
+      218,
+      255
+    ],
+    "hsl": [
+      38.571428571428534,
+      23.33333333333334,
+      88.23529411764706
+    ],
+    "image": "chiseled_quartz_block.png"
+  },
+  {
+    "name": "red_sandstone_top",
+    "rgba": [
+      181,
+      98,
+      31,
+      255
+    ],
+    "hsl": [
+      26.8,
+      50.33557046979866,
+      41.568627450980394
+    ],
+    "image": "red_sandstone_top.png"
   },
   {
     "name": "chiseled_red_sandstone",
@@ -1867,7 +877,27 @@
       27,
       255
     ],
+    "hsl": [
+      26.923076923076916,
+      52,
+      41.17647058823529
+    ],
     "image": "chiseled_red_sandstone.png"
+  },
+  {
+    "name": "sandstone_top",
+    "rgba": [
+      224,
+      214,
+      170,
+      255
+    ],
+    "hsl": [
+      48.8888888888889,
+      46.551724137931025,
+      77.25490196078431
+    ],
+    "image": "sandstone_top.png"
   },
   {
     "name": "chiseled_sandstone",
@@ -1876,6 +906,11 @@
       203,
       155,
       255
+    ],
+    "hsl": [
+      47.213114754098356,
+      43.88489208633094,
+      72.74509803921568
     ],
     "image": "chiseled_sandstone.png"
   },
@@ -1887,37 +922,12 @@
       120,
       255
     ],
+    "hsl": [
+      300,
+      0.41841004184100267,
+      46.86274509803921
+    ],
     "image": "chiseled_stone_bricks.png"
-  },
-  {
-    "name": "chorus_flower",
-    "rgba": [
-      151,
-      121,
-      152,
-      255
-    ],
-    "image": "chorus_flower.png"
-  },
-  {
-    "name": "chorus_flower_dead",
-    "rgba": [
-      97,
-      61,
-      95,
-      255
-    ],
-    "image": "chorus_flower_dead.png"
-  },
-  {
-    "name": "chorus_plant",
-    "rgba": [
-      94,
-      57,
-      94,
-      255
-    ],
-    "image": "chorus_plant.png"
   },
   {
     "name": "clay",
@@ -1926,6 +936,11 @@
       166,
       179,
       255
+    ],
+    "hsl": [
+      223.3333333333333,
+      10.588235294117641,
+      66.66666666666666
     ],
     "image": "clay.png"
   },
@@ -1937,6 +952,11 @@
       16,
       255
     ],
+    "hsl": [
+      0,
+      0,
+      6.2745098039215685
+    ],
     "image": "coal_block.png"
   },
   {
@@ -1946,6 +966,11 @@
       106,
       105,
       255
+    ],
+    "hsl": [
+      60,
+      0.4739336492891046,
+      41.37254901960784
     ],
     "image": "coal_ore.png"
   },
@@ -1957,6 +982,11 @@
       59,
       255
     ],
+    "hsl": [
+      27.000000000000004,
+      33.70786516853933,
+      34.90196078431372
+    ],
     "image": "coarse_dirt.png"
   },
   {
@@ -1966,6 +996,11 @@
       77,
       81,
       255
+    ],
+    "hsl": [
+      240,
+      2.5316455696202533,
+      30.980392156862745
     ],
     "image": "cobbled_deepslate.png"
   },
@@ -1977,167 +1012,12 @@
       128,
       255
     ],
+    "hsl": [
+      300,
+      0.39215686274509665,
+      50
+    ],
     "image": "cobblestone.png"
-  },
-  {
-    "name": "cobweb",
-    "rgba": [
-      228,
-      233,
-      233,
-      105
-    ],
-    "image": "cobweb.png"
-  },
-  {
-    "name": "cocoa_stage0",
-    "rgba": [
-      130,
-      135,
-      59,
-      47
-    ],
-    "image": "cocoa_stage0.png"
-  },
-  {
-    "name": "cocoa_stage1",
-    "rgba": [
-      147,
-      110,
-      55,
-      88
-    ],
-    "image": "cocoa_stage1.png"
-  },
-  {
-    "name": "cocoa_stage2",
-    "rgba": [
-      155,
-      92,
-      40,
-      146
-    ],
-    "image": "cocoa_stage2.png"
-  },
-  {
-    "name": "command_block_back",
-    "rgba": [
-      174,
-      131,
-      107,
-      255
-    ],
-    "image": "command_block_back.png"
-  },
-  {
-    "name": "command_block_conditional",
-    "rgba": [
-      178,
-      133,
-      106,
-      255
-    ],
-    "image": "command_block_conditional.png"
-  },
-  {
-    "name": "command_block_front",
-    "rgba": [
-      181,
-      136,
-      108,
-      255
-    ],
-    "image": "command_block_front.png"
-  },
-  {
-    "name": "command_block_side",
-    "rgba": [
-      177,
-      133,
-      108,
-      255
-    ],
-    "image": "command_block_side.png"
-  },
-  {
-    "name": "comparator",
-    "rgba": [
-      166,
-      162,
-      160,
-      255
-    ],
-    "image": "comparator.png"
-  },
-  {
-    "name": "comparator_on",
-    "rgba": [
-      176,
-      160,
-      158,
-      255
-    ],
-    "image": "comparator_on.png"
-  },
-  {
-    "name": "composter_bottom",
-    "rgba": [
-      117,
-      72,
-      32,
-      255
-    ],
-    "image": "composter_bottom.png"
-  },
-  {
-    "name": "composter_compost",
-    "rgba": [
-      89,
-      62,
-      23,
-      143
-    ],
-    "image": "composter_compost.png"
-  },
-  {
-    "name": "composter_ready",
-    "rgba": [
-      117,
-      92,
-      57,
-      143
-    ],
-    "image": "composter_ready.png"
-  },
-  {
-    "name": "composter_side",
-    "rgba": [
-      112,
-      70,
-      32,
-      255
-    ],
-    "image": "composter_side.png"
-  },
-  {
-    "name": "composter_top",
-    "rgba": [
-      152,
-      97,
-      52,
-      112
-    ],
-    "image": "composter_top.png"
-  },
-  {
-    "name": "conduit",
-    "rgba": [
-      160,
-      140,
-      114,
-      143
-    ],
-    "image": "conduit.png"
   },
   {
     "name": "copper_block",
@@ -2146,6 +1026,11 @@
       107,
       80,
       255
+    ],
+    "hsl": [
+      14.464285714285715,
+      47.05882352941176,
+      53.333333333333336
     ],
     "image": "copper_block.png"
   },
@@ -2157,17 +1042,12 @@
       120,
       255
     ],
-    "image": "copper_ore.png"
-  },
-  {
-    "name": "cornflower",
-    "rgba": [
-      80,
-      123,
-      145,
-      35
+    "hsl": [
+      70.0000000000001,
+      2.4390243902439055,
+      48.23529411764706
     ],
-    "image": "cornflower.png"
+    "image": "copper_ore.png"
   },
   {
     "name": "cracked_deepslate_bricks",
@@ -2176,6 +1056,11 @@
       65,
       65,
       255
+    ],
+    "hsl": [
+      0,
+      0,
+      25.49019607843137
     ],
     "image": "cracked_deepslate_bricks.png"
   },
@@ -2187,6 +1072,11 @@
       53,
       255
     ],
+    "hsl": [
+      0,
+      0,
+      20.784313725490197
+    ],
     "image": "cracked_deepslate_tiles.png"
   },
   {
@@ -2196,6 +1086,11 @@
       20,
       24,
       255
+    ],
+    "hsl": [
+      348,
+      33.33333333333333,
+      11.76470588235294
     ],
     "image": "cracked_nether_bricks.png"
   },
@@ -2207,6 +1102,11 @@
       44,
       255
     ],
+    "hsl": [
+      300,
+      7.3170731707317085,
+      16.07843137254902
+    ],
     "image": "cracked_polished_blackstone_bricks.png"
   },
   {
@@ -2217,87 +1117,12 @@
       118,
       255
     ],
+    "hsl": [
+      0,
+      0,
+      46.27450980392157
+    ],
     "image": "cracked_stone_bricks.png"
-  },
-  {
-    "name": "crafting_table_front",
-    "rgba": [
-      129,
-      106,
-      70,
-      255
-    ],
-    "image": "crafting_table_front.png"
-  },
-  {
-    "name": "crafting_table_side",
-    "rgba": [
-      129,
-      103,
-      63,
-      255
-    ],
-    "image": "crafting_table_side.png"
-  },
-  {
-    "name": "crafting_table_top",
-    "rgba": [
-      120,
-      73,
-      42,
-      255
-    ],
-    "image": "crafting_table_top.png"
-  },
-  {
-    "name": "crimson_door_bottom",
-    "rgba": [
-      115,
-      55,
-      79,
-      255
-    ],
-    "image": "crimson_door_bottom.png"
-  },
-  {
-    "name": "crimson_door_top",
-    "rgba": [
-      114,
-      55,
-      79,
-      255
-    ],
-    "image": "crimson_door_top.png"
-  },
-  {
-    "name": "crimson_fungus",
-    "rgba": [
-      140,
-      42,
-      29,
-      60
-    ],
-    "image": "crimson_fungus.png"
-  },
-  {
-    "name": "crimson_nylium",
-    "rgba": [
-      131,
-      31,
-      31,
-      255
-    ],
-    "image": "crimson_nylium.png"
-  },
-  {
-    "name": "crimson_nylium_side",
-    "rgba": [
-      107,
-      27,
-      27,
-      255
-    ],
-    "image": "crimson_nylium_side.png"
   },
   {
     "name": "crimson_planks",
@@ -2307,37 +1132,12 @@
       70,
       255
     ],
+    "hsl": [
+      335.7692307692308,
+      34.666666666666664,
+      29.411764705882355
+    ],
     "image": "crimson_planks.png"
-  },
-  {
-    "name": "crimson_roots",
-    "rgba": [
-      126,
-      8,
-      42,
-      91
-    ],
-    "image": "crimson_roots.png"
-  },
-  {
-    "name": "crimson_roots_pot",
-    "rgba": [
-      127,
-      8,
-      42,
-      60
-    ],
-    "image": "crimson_roots_pot.png"
-  },
-  {
-    "name": "crimson_stem",
-    "rgba": [
-      93,
-      25,
-      30,
-      255
-    ],
-    "image": "crimson_stem.png"
   },
   {
     "name": "crimson_stem_top",
@@ -2347,17 +1147,12 @@
       70,
       255
     ],
-    "image": "crimson_stem_top.png"
-  },
-  {
-    "name": "crimson_trapdoor",
-    "rgba": [
-      104,
-      51,
-      72,
-      215
+    "hsl": [
+      340.95238095238096,
+      38.65030674846626,
+      31.960784313725487
     ],
-    "image": "crimson_trapdoor.png"
+    "image": "crimson_stem_top.png"
   },
   {
     "name": "crying_obsidian",
@@ -2366,6 +1161,11 @@
       10,
       60,
       255
+    ],
+    "hsl": [
+      267.6,
+      71.42857142857142,
+      13.725490196078432
     ],
     "image": "crying_obsidian.png"
   },
@@ -2377,6 +1177,11 @@
       80,
       255
     ],
+    "hsl": [
+      14.594594594594595,
+      46.44351464435147,
+      53.13725490196079
+    ],
     "image": "cut_copper.png"
   },
   {
@@ -2386,6 +1191,11 @@
       102,
       32,
       255
+    ],
+    "hsl": [
+      26.751592356687897,
+      54.325259515570934,
+      43.333333333333336
     ],
     "image": "cut_red_sandstone.png"
   },
@@ -2397,27 +1207,12 @@
       160,
       255
     ],
+    "hsl": [
+      47.58620689655174,
+      43.93939393939394,
+      74.11764705882354
+    ],
     "image": "cut_sandstone.png"
-  },
-  {
-    "name": "cyan_candle",
-    "rgba": [
-      12,
-      121,
-      121,
-      21
-    ],
-    "image": "cyan_candle.png"
-  },
-  {
-    "name": "cyan_candle_lit",
-    "rgba": [
-      36,
-      145,
-      133,
-      21
-    ],
-    "image": "cyan_candle_lit.png"
   },
   {
     "name": "cyan_concrete",
@@ -2426,6 +1221,11 @@
       119,
       136,
       255
+    ],
+    "hsl": [
+      188.8695652173913,
+      32.57790368271955,
+      30.784313725490197
     ],
     "image": "cyan_concrete.png"
   },
@@ -2437,27 +1237,12 @@
       157,
       255
     ],
+    "hsl": [
+      184.5,
+      37.974683544303794,
+      38.03921568627452
+    ],
     "image": "cyan_concrete_powder.png"
-  },
-  {
-    "name": "cyan_glazed_terracotta",
-    "rgba": [
-      52,
-      119,
-      125,
-      255
-    ],
-    "image": "cyan_glazed_terracotta.png"
-  },
-  {
-    "name": "cyan_shulker_box",
-    "rgba": [
-      20,
-      121,
-      135,
-      255
-    ],
-    "image": "cyan_shulker_box.png"
   },
   {
     "name": "cyan_stained_glass",
@@ -2467,17 +1252,12 @@
       152,
       117
     ],
-    "image": "cyan_stained_glass.png"
-  },
-  {
-    "name": "cyan_stained_glass_pane_top",
-    "rgba": [
-      70,
-      123,
-      149,
-      29
+    "hsl": [
+      198.94736842105263,
+      26.95035460992908,
+      44.705882352941174
     ],
-    "image": "cyan_stained_glass_pane_top.png"
+    "image": "cyan_stained_glass.png"
   },
   {
     "name": "cyan_terracotta",
@@ -2486,6 +1266,11 @@
       91,
       91,
       255
+    ],
+    "hsl": [
+      180,
+      2.247191011235955,
+      34.90196078431372
     ],
     "image": "cyan_terracotta.png"
   },
@@ -2497,47 +1282,12 @@
       145,
       255
     ],
+    "hsl": [
+      183.38709677419357,
+      36.04651162790697,
+      32.549019607843135
+    ],
     "image": "cyan_wool.png"
-  },
-  {
-    "name": "damaged_anvil_top",
-    "rgba": [
-      72,
-      72,
-      72,
-      159
-    ],
-    "image": "damaged_anvil_top.png"
-  },
-  {
-    "name": "dandelion",
-    "rgba": [
-      143,
-      175,
-      39,
-      32
-    ],
-    "image": "dandelion.png"
-  },
-  {
-    "name": "dark_oak_door_bottom",
-    "rgba": [
-      73,
-      49,
-      24,
-      255
-    ],
-    "image": "dark_oak_door_bottom.png"
-  },
-  {
-    "name": "dark_oak_door_top",
-    "rgba": [
-      77,
-      52,
-      25,
-      255
-    ],
-    "image": "dark_oak_door_top.png"
   },
   {
     "name": "dark_oak_leaves",
@@ -2547,17 +1297,12 @@
       150,
       178
     ],
-    "image": "dark_oak_leaves.png"
-  },
-  {
-    "name": "dark_oak_log",
-    "rgba": [
-      60,
-      47,
-      26,
-      255
+    "hsl": [
+      120,
+      0.47846889952152943,
+      59.01960784313726
     ],
-    "image": "dark_oak_log.png"
+    "image": "dark_oak_leaves.png"
   },
   {
     "name": "dark_oak_log_top",
@@ -2567,7 +1312,27 @@
       22,
       255
     ],
+    "hsl": [
+      30.000000000000007,
+      51.11111111111112,
+      17.64705882352941
+    ],
     "image": "dark_oak_log_top.png"
+  },
+  {
+    "name": "dark_oak_log",
+    "rgba": [
+      60,
+      47,
+      26,
+      255
+    ],
+    "hsl": [
+      37.058823529411775,
+      39.53488372093023,
+      16.862745098039216
+    ],
+    "image": "dark_oak_log.png"
   },
   {
     "name": "dark_oak_planks",
@@ -2577,27 +1342,12 @@
       20,
       255
     ],
+    "hsl": [
+      29.361702127659576,
+      54.02298850574713,
+      17.058823529411764
+    ],
     "image": "dark_oak_planks.png"
-  },
-  {
-    "name": "dark_oak_sapling",
-    "rgba": [
-      60,
-      90,
-      30,
-      110
-    ],
-    "image": "dark_oak_sapling.png"
-  },
-  {
-    "name": "dark_oak_trapdoor",
-    "rgba": [
-      75,
-      50,
-      23,
-      255
-    ],
-    "image": "dark_oak_trapdoor.png"
   },
   {
     "name": "dark_prismarine",
@@ -2607,47 +1357,12 @@
       76,
       255
     ],
+    "hsl": [
+      156.92307692307693,
+      27.272727272727277,
+      28.03921568627451
+    ],
     "image": "dark_prismarine.png"
-  },
-  {
-    "name": "daylight_detector_inverted_top",
-    "rgba": [
-      106,
-      109,
-      113,
-      255
-    ],
-    "image": "daylight_detector_inverted_top.png"
-  },
-  {
-    "name": "daylight_detector_side",
-    "rgba": [
-      67,
-      55,
-      36,
-      255
-    ],
-    "image": "daylight_detector_side.png"
-  },
-  {
-    "name": "daylight_detector_top",
-    "rgba": [
-      131,
-      116,
-      95,
-      255
-    ],
-    "image": "daylight_detector_top.png"
-  },
-  {
-    "name": "dead_brain_coral",
-    "rgba": [
-      134,
-      125,
-      120,
-      112
-    ],
-    "image": "dead_brain_coral.png"
   },
   {
     "name": "dead_brain_coral_block",
@@ -2657,27 +1372,12 @@
       114,
       255
     ],
+    "hsl": [
+      24.000000000000018,
+      4.201680672268904,
+      46.666666666666664
+    ],
     "image": "dead_brain_coral_block.png"
-  },
-  {
-    "name": "dead_brain_coral_fan",
-    "rgba": [
-      134,
-      126,
-      120,
-      95
-    ],
-    "image": "dead_brain_coral_fan.png"
-  },
-  {
-    "name": "dead_bubble_coral",
-    "rgba": [
-      132,
-      124,
-      120,
-      133
-    ],
-    "image": "dead_bubble_coral.png"
   },
   {
     "name": "dead_bubble_coral_block",
@@ -2687,37 +1387,12 @@
       119,
       255
     ],
+    "hsl": [
+      23.07692307692304,
+      5.0193050193050235,
+      49.21568627450981
+    ],
     "image": "dead_bubble_coral_block.png"
-  },
-  {
-    "name": "dead_bubble_coral_fan",
-    "rgba": [
-      141,
-      134,
-      129,
-      112
-    ],
-    "image": "dead_bubble_coral_fan.png"
-  },
-  {
-    "name": "dead_bush",
-    "rgba": [
-      107,
-      78,
-      39,
-      78
-    ],
-    "image": "dead_bush.png"
-  },
-  {
-    "name": "dead_fire_coral",
-    "rgba": [
-      135,
-      128,
-      123,
-      109
-    ],
-    "image": "dead_fire_coral.png"
   },
   {
     "name": "dead_fire_coral_block",
@@ -2727,27 +1402,12 @@
       120,
       255
     ],
+    "hsl": [
+      19.999999999999975,
+      4.65116279069768,
+      49.411764705882355
+    ],
     "image": "dead_fire_coral_block.png"
-  },
-  {
-    "name": "dead_fire_coral_fan",
-    "rgba": [
-      123,
-      119,
-      114,
-      105
-    ],
-    "image": "dead_fire_coral_fan.png"
-  },
-  {
-    "name": "dead_horn_coral",
-    "rgba": [
-      142,
-      135,
-      130,
-      100
-    ],
-    "image": "dead_horn_coral.png"
   },
   {
     "name": "dead_horn_coral_block",
@@ -2757,27 +1417,12 @@
       122,
       255
     ],
+    "hsl": [
+      20,
+      4.724409448818897,
+      50.19607843137255
+    ],
     "image": "dead_horn_coral_block.png"
-  },
-  {
-    "name": "dead_horn_coral_fan",
-    "rgba": [
-      132,
-      124,
-      122,
-      94
-    ],
-    "image": "dead_horn_coral_fan.png"
-  },
-  {
-    "name": "dead_tube_coral",
-    "rgba": [
-      118,
-      111,
-      108,
-      153
-    ],
-    "image": "dead_tube_coral.png"
   },
   {
     "name": "dead_tube_coral_block",
@@ -2787,37 +1432,27 @@
       120,
       255
     ],
+    "hsl": [
+      18.000000000000032,
+      3.8461538461538436,
+      49.01960784313725
+    ],
     "image": "dead_tube_coral_block.png"
   },
   {
-    "name": "dead_tube_coral_fan",
+    "name": "deepslate_top",
     "rgba": [
-      129,
-      122,
-      119,
-      79
-    ],
-    "image": "dead_tube_coral_fan.png"
-  },
-  {
-    "name": "debug",
-    "rgba": [
-      134,
-      148,
-      152,
+      87,
+      87,
+      89,
       255
     ],
-    "image": "debug.png"
-  },
-  {
-    "name": "debug2",
-    "rgba": [
-      124,
-      120,
-      118,
-      255
+    "hsl": [
+      240,
+      1.1363636363636325,
+      34.509803921568626
     ],
-    "image": "debug2.png"
+    "image": "deepslate_top.png"
   },
   {
     "name": "deepslate",
@@ -2826,6 +1461,11 @@
       80,
       83,
       255
+    ],
+    "hsl": [
+      240,
+      1.8404907975460145,
+      31.960784313725487
     ],
     "image": "deepslate.png"
   },
@@ -2837,6 +1477,11 @@
       71,
       255
     ],
+    "hsl": [
+      0,
+      0,
+      27.84313725490196
+    ],
     "image": "deepslate_bricks.png"
   },
   {
@@ -2846,6 +1491,11 @@
       74,
       76,
       255
+    ],
+    "hsl": [
+      240,
+      1.3333333333333286,
+      29.411764705882355
     ],
     "image": "deepslate_coal_ore.png"
   },
@@ -2857,6 +1507,11 @@
       89,
       255
     ],
+    "hsl": [
+      74.99999999999994,
+      2.197802197802198,
+      35.686274509803916
+    ],
     "image": "deepslate_copper_ore.png"
   },
   {
@@ -2866,6 +1521,11 @@
       106,
       107,
       255
+    ],
+    "hsl": [
+      182.5,
+      12.631578947368421,
+      37.254901960784316
     ],
     "image": "deepslate_diamond_ore.png"
   },
@@ -2877,6 +1537,11 @@
       88,
       255
     ],
+    "hsl": [
+      143.07692307692307,
+      14.285714285714283,
+      35.68627450980392
+    ],
     "image": "deepslate_emerald_ore.png"
   },
   {
@@ -2886,6 +1551,11 @@
       103,
       78,
       255
+    ],
+    "hsl": [
+      40.54054054054054,
+      19.170984455958546,
+      37.84313725490196
     ],
     "image": "deepslate_gold_ore.png"
   },
@@ -2897,6 +1567,11 @@
       95,
       255
     ],
+    "hsl": [
+      24.999999999999982,
+      5.94059405940594,
+      39.6078431372549
+    ],
     "image": "deepslate_iron_ore.png"
   },
   {
@@ -2906,6 +1581,11 @@
       91,
       115,
       255
+    ],
+    "hsl": [
+      221.14285714285714,
+      17.948717948717952,
+      38.23529411764706
     ],
     "image": "deepslate_lapis_ore.png"
   },
@@ -2917,6 +1597,11 @@
       75,
       255
     ],
+    "hsl": [
+      356.25,
+      17.97752808988764,
+      34.90196078431372
+    ],
     "image": "deepslate_redstone_ore.png"
   },
   {
@@ -2927,137 +1612,12 @@
       55,
       255
     ],
+    "hsl": [
+      0,
+      0,
+      21.568627450980394
+    ],
     "image": "deepslate_tiles.png"
-  },
-  {
-    "name": "deepslate_top",
-    "rgba": [
-      87,
-      87,
-      89,
-      255
-    ],
-    "image": "deepslate_top.png"
-  },
-  {
-    "name": "destroy_stage_0",
-    "rgba": [
-      153,
-      153,
-      153,
-      5
-    ],
-    "image": "destroy_stage_0.png"
-  },
-  {
-    "name": "destroy_stage_1",
-    "rgba": [
-      115,
-      115,
-      115,
-      11
-    ],
-    "image": "destroy_stage_1.png"
-  },
-  {
-    "name": "destroy_stage_2",
-    "rgba": [
-      107,
-      107,
-      107,
-      19
-    ],
-    "image": "destroy_stage_2.png"
-  },
-  {
-    "name": "destroy_stage_3",
-    "rgba": [
-      105,
-      105,
-      105,
-      29
-    ],
-    "image": "destroy_stage_3.png"
-  },
-  {
-    "name": "destroy_stage_4",
-    "rgba": [
-      103,
-      103,
-      103,
-      42
-    ],
-    "image": "destroy_stage_4.png"
-  },
-  {
-    "name": "destroy_stage_5",
-    "rgba": [
-      104,
-      104,
-      104,
-      56
-    ],
-    "image": "destroy_stage_5.png"
-  },
-  {
-    "name": "destroy_stage_6",
-    "rgba": [
-      102,
-      102,
-      102,
-      70
-    ],
-    "image": "destroy_stage_6.png"
-  },
-  {
-    "name": "destroy_stage_7",
-    "rgba": [
-      104,
-      104,
-      104,
-      100
-    ],
-    "image": "destroy_stage_7.png"
-  },
-  {
-    "name": "destroy_stage_8",
-    "rgba": [
-      102,
-      102,
-      102,
-      129
-    ],
-    "image": "destroy_stage_8.png"
-  },
-  {
-    "name": "destroy_stage_9",
-    "rgba": [
-      102,
-      102,
-      102,
-      145
-    ],
-    "image": "destroy_stage_9.png"
-  },
-  {
-    "name": "detector_rail",
-    "rgba": [
-      123,
-      105,
-      90,
-      155
-    ],
-    "image": "detector_rail.png"
-  },
-  {
-    "name": "detector_rail_on",
-    "rgba": [
-      138,
-      103,
-      88,
-      155
-    ],
-    "image": "detector_rail_on.png"
   },
   {
     "name": "diamond_block",
@@ -3066,6 +1626,11 @@
       237,
       228,
       255
+    ],
+    "hsl": [
+      176.11510791366905,
+      79.42857142857143,
+      65.68627450980392
     ],
     "image": "diamond_block.png"
   },
@@ -3077,6 +1642,11 @@
       141,
       255
     ],
+    "hsl": [
+      180,
+      8.064516129032263,
+      51.37254901960784
+    ],
     "image": "diamond_ore.png"
   },
   {
@@ -3086,6 +1656,11 @@
       188,
       189,
       255
+    ],
+    "hsl": [
+      300,
+      0.7518796992481177,
+      73.92156862745098
     ],
     "image": "diorite.png"
   },
@@ -3097,87 +1672,12 @@
       67,
       255
     ],
+    "hsl": [
+      25.97014925373134,
+      21.682847896440133,
+      39.411764705882355
+    ],
     "image": "dirt.png"
-  },
-  {
-    "name": "dirt_path_side",
-    "rgba": [
-      136,
-      100,
-      66,
-      240
-    ],
-    "image": "dirt_path_side.png"
-  },
-  {
-    "name": "dirt_path_top",
-    "rgba": [
-      148,
-      122,
-      65,
-      255
-    ],
-    "image": "dirt_path_top.png"
-  },
-  {
-    "name": "dispenser_front",
-    "rgba": [
-      122,
-      122,
-      122,
-      255
-    ],
-    "image": "dispenser_front.png"
-  },
-  {
-    "name": "dispenser_front_vertical",
-    "rgba": [
-      99,
-      98,
-      98,
-      255
-    ],
-    "image": "dispenser_front_vertical.png"
-  },
-  {
-    "name": "dragon_egg",
-    "rgba": [
-      13,
-      9,
-      16,
-      255
-    ],
-    "image": "dragon_egg.png"
-  },
-  {
-    "name": "dried_kelp_bottom",
-    "rgba": [
-      50,
-      59,
-      39,
-      255
-    ],
-    "image": "dried_kelp_bottom.png"
-  },
-  {
-    "name": "dried_kelp_side",
-    "rgba": [
-      38,
-      49,
-      30,
-      255
-    ],
-    "image": "dried_kelp_side.png"
-  },
-  {
-    "name": "dried_kelp_top",
-    "rgba": [
-      50,
-      59,
-      39,
-      255
-    ],
-    "image": "dried_kelp_top.png"
   },
   {
     "name": "dripstone_block",
@@ -3187,27 +1687,12 @@
       93,
       255
     ],
+    "hsl": [
+      21.95121951219512,
+      14.487632508833926,
+      44.509803921568626
+    ],
     "image": "dripstone_block.png"
-  },
-  {
-    "name": "dropper_front",
-    "rgba": [
-      122,
-      122,
-      122,
-      255
-    ],
-    "image": "dropper_front.png"
-  },
-  {
-    "name": "dropper_front_vertical",
-    "rgba": [
-      98,
-      97,
-      97,
-      255
-    ],
-    "image": "dropper_front_vertical.png"
   },
   {
     "name": "emerald_block",
@@ -3216,6 +1701,11 @@
       203,
       88,
       255
+    ],
+    "hsl": [
+      137.14285714285714,
+      60.75471698113207,
+      48.0392156862745
     ],
     "image": "emerald_block.png"
   },
@@ -3227,77 +1717,12 @@
       116,
       255
     ],
+    "hsl": [
+      137.14285714285714,
+      10.526315789473683,
+      47.843137254901954
+    ],
     "image": "emerald_ore.png"
-  },
-  {
-    "name": "enchanting_table_bottom",
-    "rgba": [
-      15,
-      11,
-      25,
-      255
-    ],
-    "image": "enchanting_table_bottom.png"
-  },
-  {
-    "name": "enchanting_table_side",
-    "rgba": [
-      49,
-      46,
-      57,
-      192
-    ],
-    "image": "enchanting_table_side.png"
-  },
-  {
-    "name": "enchanting_table_top",
-    "rgba": [
-      129,
-      75,
-      85,
-      255
-    ],
-    "image": "enchanting_table_top.png"
-  },
-  {
-    "name": "end_portal_frame_eye",
-    "rgba": [
-      34,
-      69,
-      61,
-      95
-    ],
-    "image": "end_portal_frame_eye.png"
-  },
-  {
-    "name": "end_portal_frame_side",
-    "rgba": [
-      150,
-      163,
-      122,
-      208
-    ],
-    "image": "end_portal_frame_side.png"
-  },
-  {
-    "name": "end_portal_frame_top",
-    "rgba": [
-      91,
-      121,
-      97,
-      255
-    ],
-    "image": "end_portal_frame_top.png"
-  },
-  {
-    "name": "end_rod",
-    "rgba": [
-      205,
-      196,
-      187,
-      57
-    ],
-    "image": "end_rod.png"
   },
   {
     "name": "end_stone",
@@ -3306,6 +1731,11 @@
       223,
       158,
       255
+    ],
+    "hsl": [
+      63.69230769230771,
+      50.3875968992248,
+      74.70588235294117
     ],
     "image": "end_stone.png"
   },
@@ -3317,6 +1747,11 @@
       162,
       255
     ],
+    "hsl": [
+      65.80645161290323,
+      50,
+      75.68627450980392
+    ],
     "image": "end_stone_bricks.png"
   },
   {
@@ -3326,6 +1761,11 @@
       126,
       104,
       255
+    ],
+    "hsl": [
+      23.157894736842113,
+      23.265306122448976,
+      51.96078431372548
     ],
     "image": "exposed_copper.png"
   },
@@ -3337,67 +1777,12 @@
       101,
       255
     ],
+    "hsl": [
+      23.773584905660393,
+      20.784313725490193,
+      50
+    ],
     "image": "exposed_cut_copper.png"
-  },
-  {
-    "name": "farmland",
-    "rgba": [
-      143,
-      103,
-      71,
-      255
-    ],
-    "image": "farmland.png"
-  },
-  {
-    "name": "farmland_moist",
-    "rgba": [
-      82,
-      44,
-      15,
-      255
-    ],
-    "image": "farmland_moist.png"
-  },
-  {
-    "name": "fern",
-    "rgba": [
-      123,
-      123,
-      123,
-      89
-    ],
-    "image": "fern.png"
-  },
-  {
-    "name": "fire_0",
-    "rgba": [
-      211,
-      141,
-      56,
-      117
-    ],
-    "image": "fire_0.png"
-  },
-  {
-    "name": "fire_1",
-    "rgba": [
-      216,
-      156,
-      66,
-      127
-    ],
-    "image": "fire_1.png"
-  },
-  {
-    "name": "fire_coral",
-    "rgba": [
-      166,
-      37,
-      46,
-      109
-    ],
-    "image": "fire_coral.png"
   },
   {
     "name": "fire_coral_block",
@@ -3407,57 +1792,12 @@
       47,
       255
     ],
+    "hsl": [
+      354.4186046511628,
+      41.47909967845659,
+      39.01960784313726
+    ],
     "image": "fire_coral_block.png"
-  },
-  {
-    "name": "fire_coral_fan",
-    "rgba": [
-      157,
-      34,
-      46,
-      105
-    ],
-    "image": "fire_coral_fan.png"
-  },
-  {
-    "name": "fletching_table_front",
-    "rgba": [
-      173,
-      155,
-      111,
-      255
-    ],
-    "image": "fletching_table_front.png"
-  },
-  {
-    "name": "fletching_table_side",
-    "rgba": [
-      192,
-      167,
-      130,
-      255
-    ],
-    "image": "fletching_table_side.png"
-  },
-  {
-    "name": "fletching_table_top",
-    "rgba": [
-      197,
-      180,
-      133,
-      255
-    ],
-    "image": "fletching_table_top.png"
-  },
-  {
-    "name": "flower_pot",
-    "rgba": [
-      122,
-      66,
-      51,
-      50
-    ],
-    "image": "flower_pot.png"
   },
   {
     "name": "flowering_azalea_leaves",
@@ -3467,37 +1807,12 @@
       61,
       204
     ],
+    "hsl": [
+      73.20000000000002,
+      29.06976744186046,
+      33.72549019607843
+    ],
     "image": "flowering_azalea_leaves.png"
-  },
-  {
-    "name": "flowering_azalea_side",
-    "rgba": [
-      111,
-      113,
-      73,
-      153
-    ],
-    "image": "flowering_azalea_side.png"
-  },
-  {
-    "name": "flowering_azalea_top",
-    "rgba": [
-      112,
-      122,
-      64,
-      255
-    ],
-    "image": "flowering_azalea_top.png"
-  },
-  {
-    "name": "frogspawn",
-    "rgba": [
-      107,
-      89,
-      80,
-      57
-    ],
-    "image": "frogspawn.png"
   },
   {
     "name": "frosted_ice_0",
@@ -3506,6 +1821,11 @@
       181,
       252,
       190
+    ],
+    "hsl": [
+      217.69911504424778,
+      94.9579831932773,
+      76.66666666666666
     ],
     "image": "frosted_ice_0.png"
   },
@@ -3517,6 +1837,11 @@
       252,
       193
     ],
+    "hsl": [
+      218.0357142857143,
+      94.91525423728815,
+      76.86274509803923
+    ],
     "image": "frosted_ice_1.png"
   },
   {
@@ -3526,6 +1851,11 @@
       179,
       252,
       200
+    ],
+    "hsl": [
+      218.08695652173915,
+      95.04132231404958,
+      76.27450980392156
     ],
     "image": "frosted_ice_2.png"
   },
@@ -3537,47 +1867,12 @@
       252,
       212
     ],
+    "hsl": [
+      217.6271186440678,
+      95.16129032258064,
+      75.68627450980392
+    ],
     "image": "frosted_ice_3.png"
-  },
-  {
-    "name": "furnace_front",
-    "rgba": [
-      92,
-      91,
-      91,
-      255
-    ],
-    "image": "furnace_front.png"
-  },
-  {
-    "name": "furnace_front_on",
-    "rgba": [
-      121,
-      113,
-      94,
-      255
-    ],
-    "image": "furnace_front_on.png"
-  },
-  {
-    "name": "furnace_side",
-    "rgba": [
-      121,
-      120,
-      120,
-      255
-    ],
-    "image": "furnace_side.png"
-  },
-  {
-    "name": "furnace_top",
-    "rgba": [
-      110,
-      110,
-      110,
-      255
-    ],
-    "image": "furnace_top.png"
   },
   {
     "name": "gilded_blackstone",
@@ -3586,6 +1881,11 @@
       43,
       38,
       255
+    ],
+    "hsl": [
+      16.66666666666668,
+      19.148936170212767,
+      18.43137254901961
     ],
     "image": "gilded_blackstone.png"
   },
@@ -3597,37 +1897,12 @@
       219,
       65
     ],
+    "hsl": [
+      190.21276595744683,
+      39.495798319327704,
+      76.66666666666666
+    ],
     "image": "glass.png"
-  },
-  {
-    "name": "glass_pane_top",
-    "rgba": [
-      167,
-      207,
-      215,
-      32
-    ],
-    "image": "glass_pane_top.png"
-  },
-  {
-    "name": "glow_item_frame",
-    "rgba": [
-      148,
-      103,
-      64,
-      255
-    ],
-    "image": "glow_item_frame.png"
-  },
-  {
-    "name": "glow_lichen",
-    "rgba": [
-      111,
-      131,
-      121,
-      105
-    ],
-    "image": "glow_lichen.png"
   },
   {
     "name": "glowstone",
@@ -3636,6 +1911,11 @@
       131,
       84,
       255
+    ],
+    "hsl": [
+      32.04545454545453,
+      34.645669291338585,
+      50.19607843137255
     ],
     "image": "glowstone.png"
   },
@@ -3647,6 +1927,11 @@
       62,
       255
     ],
+    "hsl": [
+      47.608695652173914,
+      91.0891089108911,
+      60.392156862745104
+    ],
     "image": "gold_block.png"
   },
   {
@@ -3656,6 +1941,11 @@
       134,
       107,
       255
+    ],
+    "hsl": [
+      42.63157894736843,
+      14.728682170542633,
+      49.411764705882355
     ],
     "image": "gold_ore.png"
   },
@@ -3667,57 +1957,12 @@
       86,
       255
     ],
+    "hsl": [
+      16.190476190476186,
+      22.909090909090914,
+      46.07843137254902
+    ],
     "image": "granite.png"
-  },
-  {
-    "name": "grass",
-    "rgba": [
-      145,
-      145,
-      145,
-      140
-    ],
-    "image": "grass.png"
-  },
-  {
-    "name": "grass_block_side",
-    "rgba": [
-      127,
-      107,
-      66,
-      255
-    ],
-    "image": "grass_block_side.png"
-  },
-  {
-    "name": "grass_block_side_overlay",
-    "rgba": [
-      156,
-      156,
-      156,
-      44
-    ],
-    "image": "grass_block_side_overlay.png"
-  },
-  {
-    "name": "grass_block_snow",
-    "rgba": [
-      170,
-      151,
-      133,
-      255
-    ],
-    "image": "grass_block_snow.png"
-  },
-  {
-    "name": "grass_block_top",
-    "rgba": [
-      147,
-      147,
-      147,
-      255
-    ],
-    "image": "grass_block_top.png"
   },
   {
     "name": "gravel",
@@ -3727,27 +1972,12 @@
       127,
       255
     ],
+    "hsl": [
+      0,
+      1.9920318725099644,
+      50.78431372549019
+    ],
     "image": "gravel.png"
-  },
-  {
-    "name": "gray_candle",
-    "rgba": [
-      85,
-      97,
-      97,
-      21
-    ],
-    "image": "gray_candle.png"
-  },
-  {
-    "name": "gray_candle_lit",
-    "rgba": [
-      121,
-      121,
-      109,
-      21
-    ],
-    "image": "gray_candle_lit.png"
   },
   {
     "name": "gray_concrete",
@@ -3756,6 +1986,11 @@
       58,
       62,
       255
+    ],
+    "hsl": [
+      214.2857142857143,
+      5.982905982905979,
+      22.941176470588236
     ],
     "image": "gray_concrete.png"
   },
@@ -3767,27 +2002,12 @@
       85,
       255
     ],
+    "hsl": [
+      210,
+      4.938271604938272,
+      31.76470588235294
+    ],
     "image": "gray_concrete_powder.png"
-  },
-  {
-    "name": "gray_glazed_terracotta",
-    "rgba": [
-      83,
-      90,
-      94,
-      255
-    ],
-    "image": "gray_glazed_terracotta.png"
-  },
-  {
-    "name": "gray_shulker_box",
-    "rgba": [
-      55,
-      59,
-      62,
-      255
-    ],
-    "image": "gray_shulker_box.png"
   },
   {
     "name": "gray_stained_glass",
@@ -3797,17 +2017,12 @@
       76,
       117
     ],
-    "image": "gray_stained_glass.png"
-  },
-  {
-    "name": "gray_stained_glass_pane_top",
-    "rgba": [
-      70,
-      70,
-      70,
-      29
+    "hsl": [
+      0,
+      0,
+      29.80392156862745
     ],
-    "image": "gray_stained_glass_pane_top.png"
+    "image": "gray_stained_glass.png"
   },
   {
     "name": "gray_terracotta",
@@ -3816,6 +2031,11 @@
       42,
       36,
       255
+    ],
+    "hsl": [
+      16.363636363636363,
+      23.404255319148934,
+      18.43137254901961
     ],
     "image": "gray_terracotta.png"
   },
@@ -3827,27 +2047,12 @@
       72,
       255
     ],
+    "hsl": [
+      206.66666666666669,
+      6.666666666666663,
+      26.47058823529412
+    ],
     "image": "gray_wool.png"
-  },
-  {
-    "name": "green_candle",
-    "rgba": [
-      72,
-      97,
-      24,
-      21
-    ],
-    "image": "green_candle.png"
-  },
-  {
-    "name": "green_candle_lit",
-    "rgba": [
-      97,
-      109,
-      24,
-      21
-    ],
-    "image": "green_candle_lit.png"
   },
   {
     "name": "green_concrete",
@@ -3856,6 +2061,11 @@
       91,
       36,
       255
+    ],
+    "hsl": [
+      79.63636363636364,
+      43.30708661417323,
+      24.901960784313726
     ],
     "image": "green_concrete.png"
   },
@@ -3867,27 +2077,12 @@
       45,
       255
     ],
+    "hsl": [
+      77.83783783783784,
+      45.121951219512184,
+      32.15686274509804
+    ],
     "image": "green_concrete_powder.png"
-  },
-  {
-    "name": "green_glazed_terracotta",
-    "rgba": [
-      117,
-      142,
-      67,
-      255
-    ],
-    "image": "green_glazed_terracotta.png"
-  },
-  {
-    "name": "green_shulker_box",
-    "rgba": [
-      79,
-      101,
-      32,
-      255
-    ],
-    "image": "green_shulker_box.png"
   },
   {
     "name": "green_stained_glass",
@@ -3897,17 +2092,12 @@
       50,
       117
     ],
-    "image": "green_stained_glass.png"
-  },
-  {
-    "name": "green_stained_glass_pane_top",
-    "rgba": [
-      96,
-      123,
-      43,
-      29
+    "hsl": [
+      80,
+      23.49397590361446,
+      34.90196078431372
     ],
-    "image": "green_stained_glass_pane_top.png"
+    "image": "green_stained_glass.png"
   },
   {
     "name": "green_terracotta",
@@ -3916,6 +2106,11 @@
       83,
       42,
       255
+    ],
+    "hsl": [
+      70.2439024390244,
+      32.800000000000004,
+      24.50980392156863
     ],
     "image": "green_terracotta.png"
   },
@@ -3927,57 +2122,12 @@
       27,
       255
     ],
+    "hsl": [
+      78.07228915662651,
+      60.58394160583941,
+      26.86274509803922
+    ],
     "image": "green_wool.png"
-  },
-  {
-    "name": "grindstone_pivot",
-    "rgba": [
-      73,
-      47,
-      21,
-      59
-    ],
-    "image": "grindstone_pivot.png"
-  },
-  {
-    "name": "grindstone_round",
-    "rgba": [
-      142,
-      142,
-      142,
-      95
-    ],
-    "image": "grindstone_round.png"
-  },
-  {
-    "name": "grindstone_side",
-    "rgba": [
-      139,
-      139,
-      139,
-      143
-    ],
-    "image": "grindstone_side.png"
-  },
-  {
-    "name": "hanging_roots",
-    "rgba": [
-      161,
-      117,
-      93,
-      74
-    ],
-    "image": "hanging_roots.png"
-  },
-  {
-    "name": "hay_block_side",
-    "rgba": [
-      166,
-      137,
-      38,
-      255
-    ],
-    "image": "hay_block_side.png"
   },
   {
     "name": "hay_block_top",
@@ -3987,37 +2137,27 @@
       12,
       255
     ],
+    "hsl": [
+      49.48051948051947,
+      46.385542168674704,
+      34.90196078431372
+    ],
     "image": "hay_block_top.png"
   },
   {
-    "name": "honey_block_bottom",
+    "name": "hay_block_side",
     "rgba": [
-      241,
-      146,
-      17,
-      129
+      166,
+      137,
+      38,
+      255
     ],
-    "image": "honey_block_bottom.png"
-  },
-  {
-    "name": "honey_block_side",
-    "rgba": [
-      250,
-      188,
-      58,
-      189
+    "hsl": [
+      46.40624999999999,
+      41.830065359477125,
+      40
     ],
-    "image": "honey_block_side.png"
-  },
-  {
-    "name": "honey_block_top",
-    "rgba": [
-      250,
-      185,
-      52,
-      191
-    ],
-    "image": "honey_block_top.png"
+    "image": "hay_block_side.png"
   },
   {
     "name": "honeycomb_block",
@@ -4027,47 +2167,12 @@
       30,
       255
     ],
+    "hsl": [
+      35.57788944723618,
+      79.2828685258964,
+      50.78431372549019
+    ],
     "image": "honeycomb_block.png"
-  },
-  {
-    "name": "hopper_inside",
-    "rgba": [
-      49,
-      49,
-      53,
-      255
-    ],
-    "image": "hopper_inside.png"
-  },
-  {
-    "name": "hopper_outside",
-    "rgba": [
-      67,
-      66,
-      68,
-      255
-    ],
-    "image": "hopper_outside.png"
-  },
-  {
-    "name": "hopper_top",
-    "rgba": [
-      75,
-      74,
-      75,
-      155
-    ],
-    "image": "hopper_top.png"
-  },
-  {
-    "name": "horn_coral",
-    "rgba": [
-      209,
-      186,
-      63,
-      100
-    ],
-    "image": "horn_coral.png"
   },
   {
     "name": "horn_coral_block",
@@ -4077,17 +2182,12 @@
       66,
       255
     ],
-    "image": "horn_coral_block.png"
-  },
-  {
-    "name": "horn_coral_fan",
-    "rgba": [
-      206,
-      181,
-      59,
-      94
+    "hsl": [
+      53.6,
+      65.78947368421052,
+      55.294117647058826
     ],
-    "image": "horn_coral_fan.png"
+    "image": "horn_coral_block.png"
   },
   {
     "name": "ice",
@@ -4097,17 +2197,12 @@
       253,
       190
     ],
-    "image": "ice.png"
-  },
-  {
-    "name": "iron_bars",
-    "rgba": [
-      136,
-      138,
-      134,
-      116
+    "hsl": [
+      219.25233644859813,
+      96.39639639639641,
+      78.23529411764706
     ],
-    "image": "iron_bars.png"
+    "image": "ice.png"
   },
   {
     "name": "iron_block",
@@ -4117,27 +2212,12 @@
       220,
       255
     ],
+    "hsl": [
+      0,
+      0,
+      86.27450980392157
+    ],
     "image": "iron_block.png"
-  },
-  {
-    "name": "iron_door_bottom",
-    "rgba": [
-      196,
-      195,
-      195,
-      255
-    ],
-    "image": "iron_door_bottom.png"
-  },
-  {
-    "name": "iron_door_top",
-    "rgba": [
-      194,
-      193,
-      193,
-      207
-    ],
-    "image": "iron_door_top.png"
   },
   {
     "name": "iron_ore",
@@ -4147,117 +2227,12 @@
       123,
       255
     ],
+    "hsl": [
+      27.69230769230767,
+      5.1792828685258945,
+      50.78431372549019
+    ],
     "image": "iron_ore.png"
-  },
-  {
-    "name": "iron_trapdoor",
-    "rgba": [
-      202,
-      202,
-      202,
-      219
-    ],
-    "image": "iron_trapdoor.png"
-  },
-  {
-    "name": "item_frame",
-    "rgba": [
-      117,
-      67,
-      43,
-      255
-    ],
-    "image": "item_frame.png"
-  },
-  {
-    "name": "jack_o_lantern",
-    "rgba": [
-      215,
-      152,
-      53,
-      255
-    ],
-    "image": "jack_o_lantern.png"
-  },
-  {
-    "name": "jigsaw_bottom",
-    "rgba": [
-      34,
-      27,
-      37,
-      255
-    ],
-    "image": "jigsaw_bottom.png"
-  },
-  {
-    "name": "jigsaw_lock",
-    "rgba": [
-      45,
-      38,
-      47,
-      255
-    ],
-    "image": "jigsaw_lock.png"
-  },
-  {
-    "name": "jigsaw_side",
-    "rgba": [
-      62,
-      54,
-      63,
-      255
-    ],
-    "image": "jigsaw_side.png"
-  },
-  {
-    "name": "jigsaw_top",
-    "rgba": [
-      80,
-      70,
-      81,
-      255
-    ],
-    "image": "jigsaw_top.png"
-  },
-  {
-    "name": "jukebox_side",
-    "rgba": [
-      89,
-      59,
-      41,
-      255
-    ],
-    "image": "jukebox_side.png"
-  },
-  {
-    "name": "jukebox_top",
-    "rgba": [
-      94,
-      64,
-      47,
-      255
-    ],
-    "image": "jukebox_top.png"
-  },
-  {
-    "name": "jungle_door_bottom",
-    "rgba": [
-      158,
-      113,
-      79,
-      255
-    ],
-    "image": "jungle_door_bottom.png"
-  },
-  {
-    "name": "jungle_door_top",
-    "rgba": [
-      163,
-      119,
-      85,
-      225
-    ],
-    "image": "jungle_door_top.png"
   },
   {
     "name": "jungle_leaves",
@@ -4267,17 +2242,12 @@
       144,
       177
     ],
-    "image": "jungle_leaves.png"
-  },
-  {
-    "name": "jungle_log",
-    "rgba": [
-      85,
-      68,
-      25,
-      255
+    "hsl": [
+      46.15384615384608,
+      6.22009569377991,
+      59.01960784313726
     ],
-    "image": "jungle_log.png"
+    "image": "jungle_leaves.png"
   },
   {
     "name": "jungle_log_top",
@@ -4287,7 +2257,27 @@
       71,
       255
     ],
+    "hsl": [
+      28.86075949367088,
+      27.33564013840831,
+      43.333333333333336
+    ],
     "image": "jungle_log_top.png"
+  },
+  {
+    "name": "jungle_log",
+    "rgba": [
+      85,
+      68,
+      25,
+      255
+    ],
+    "hsl": [
+      43,
+      54.545454545454554,
+      21.56862745098039
+    ],
+    "image": "jungle_log.png"
   },
   {
     "name": "jungle_planks",
@@ -4297,67 +2287,12 @@
       81,
       255
     ],
+    "hsl": [
+      25.822784810126585,
+      29.36802973977695,
+      47.25490196078431
+    ],
     "image": "jungle_planks.png"
-  },
-  {
-    "name": "jungle_sapling",
-    "rgba": [
-      47,
-      80,
-      17,
-      86
-    ],
-    "image": "jungle_sapling.png"
-  },
-  {
-    "name": "jungle_trapdoor",
-    "rgba": [
-      153,
-      110,
-      77,
-      213
-    ],
-    "image": "jungle_trapdoor.png"
-  },
-  {
-    "name": "kelp",
-    "rgba": [
-      86,
-      135,
-      43,
-      47
-    ],
-    "image": "kelp.png"
-  },
-  {
-    "name": "kelp_plant",
-    "rgba": [
-      85,
-      127,
-      41,
-      98
-    ],
-    "image": "kelp_plant.png"
-  },
-  {
-    "name": "ladder",
-    "rgba": [
-      124,
-      96,
-      55,
-      143
-    ],
-    "image": "ladder.png"
-  },
-  {
-    "name": "lantern",
-    "rgba": [
-      106,
-      92,
-      85,
-      105
-    ],
-    "image": "lantern.png"
   },
   {
     "name": "lapis_block",
@@ -4366,6 +2301,11 @@
       67,
       140,
       255
+    ],
+    "hsl": [
+      220.1834862385321,
+      32.15339233038348,
+      33.529411764705884
     ],
     "image": "lapis_block.png"
   },
@@ -4377,127 +2317,12 @@
       141,
       255
     ],
+    "hsl": [
+      220.58823529411762,
+      12.977099236641227,
+      48.62745098039216
+    ],
     "image": "lapis_ore.png"
-  },
-  {
-    "name": "large_amethyst_bud",
-    "rgba": [
-      160,
-      127,
-      202,
-      78
-    ],
-    "image": "large_amethyst_bud.png"
-  },
-  {
-    "name": "large_fern_bottom",
-    "rgba": [
-      132,
-      132,
-      132,
-      175
-    ],
-    "image": "large_fern_bottom.png"
-  },
-  {
-    "name": "large_fern_top",
-    "rgba": [
-      125,
-      125,
-      125,
-      104
-    ],
-    "image": "large_fern_top.png"
-  },
-  {
-    "name": "lava_flow",
-    "rgba": [
-      207,
-      90,
-      19,
-      255
-    ],
-    "image": "lava_flow.png"
-  },
-  {
-    "name": "lava_still",
-    "rgba": [
-      211,
-      86,
-      17,
-      255
-    ],
-    "image": "lava_still.png"
-  },
-  {
-    "name": "lectern_base",
-    "rgba": [
-      162,
-      121,
-      74,
-      255
-    ],
-    "image": "lectern_base.png"
-  },
-  {
-    "name": "lectern_front",
-    "rgba": [
-      130,
-      101,
-      56,
-      255
-    ],
-    "image": "lectern_front.png"
-  },
-  {
-    "name": "lectern_sides",
-    "rgba": [
-      150,
-      117,
-      68,
-      255
-    ],
-    "image": "lectern_sides.png"
-  },
-  {
-    "name": "lectern_top",
-    "rgba": [
-      174,
-      138,
-      83,
-      255
-    ],
-    "image": "lectern_top.png"
-  },
-  {
-    "name": "lever",
-    "rgba": [
-      114,
-      89,
-      63,
-      20
-    ],
-    "image": "lever.png"
-  },
-  {
-    "name": "light_blue_candle",
-    "rgba": [
-      36,
-      133,
-      194,
-      21
-    ],
-    "image": "light_blue_candle.png"
-  },
-  {
-    "name": "light_blue_candle_lit",
-    "rgba": [
-      72,
-      157,
-      194,
-      21
-    ],
-    "image": "light_blue_candle_lit.png"
   },
   {
     "name": "light_blue_concrete",
@@ -4506,6 +2331,11 @@
       137,
       199,
       255
+    ],
+    "hsl": [
+      202.82208588957056,
+      59.272727272727266,
+      46.07843137254902
     ],
     "image": "light_blue_concrete.png"
   },
@@ -4517,27 +2347,12 @@
       213,
       255
     ],
+    "hsl": [
+      193.8129496402878,
+      62.33183856502242,
+      56.27450980392157
+    ],
     "image": "light_blue_concrete_powder.png"
-  },
-  {
-    "name": "light_blue_glazed_terracotta",
-    "rgba": [
-      95,
-      165,
-      209,
-      255
-    ],
-    "image": "light_blue_glazed_terracotta.png"
-  },
-  {
-    "name": "light_blue_shulker_box",
-    "rgba": [
-      49,
-      164,
-      212,
-      255
-    ],
-    "image": "light_blue_shulker_box.png"
   },
   {
     "name": "light_blue_stained_glass",
@@ -4547,17 +2362,12 @@
       215,
       117
     ],
-    "image": "light_blue_stained_glass.png"
-  },
-  {
-    "name": "light_blue_stained_glass_pane_top",
-    "rgba": [
-      96,
-      149,
-      211,
-      29
+    "hsl": [
+      213.45132743362834,
+      58.549222797927456,
+      62.15686274509804
     ],
-    "image": "light_blue_stained_glass_pane_top.png"
+    "image": "light_blue_stained_glass.png"
   },
   {
     "name": "light_blue_terracotta",
@@ -4566,6 +2376,11 @@
       109,
       138,
       255
+    ],
+    "hsl": [
+      248.27586206896552,
+      11.026615969581746,
+      48.4313725490196
     ],
     "image": "light_blue_terracotta.png"
   },
@@ -4577,27 +2392,12 @@
       217,
       255
     ],
+    "hsl": [
+      195.8490566037736,
+      67.65957446808511,
+      53.92156862745098
+    ],
     "image": "light_blue_wool.png"
-  },
-  {
-    "name": "light_gray_candle",
-    "rgba": [
-      121,
-      121,
-      109,
-      21
-    ],
-    "image": "light_gray_candle.png"
-  },
-  {
-    "name": "light_gray_candle_lit",
-    "rgba": [
-      145,
-      145,
-      121,
-      21
-    ],
-    "image": "light_gray_candle_lit.png"
   },
   {
     "name": "light_gray_concrete",
@@ -4606,6 +2406,11 @@
       125,
       115,
       255
+    ],
+    "hsl": [
+      60,
+      4.166666666666663,
+      47.05882352941176
     ],
     "image": "light_gray_concrete.png"
   },
@@ -4617,27 +2422,12 @@
       148,
       255
     ],
+    "hsl": [
+      60,
+      3.3816425120772826,
+      59.411764705882355
+    ],
     "image": "light_gray_concrete_powder.png"
-  },
-  {
-    "name": "light_gray_glazed_terracotta",
-    "rgba": [
-      144,
-      166,
-      168,
-      255
-    ],
-    "image": "light_gray_glazed_terracotta.png"
-  },
-  {
-    "name": "light_gray_shulker_box",
-    "rgba": [
-      124,
-      124,
-      115,
-      255
-    ],
-    "image": "light_gray_shulker_box.png"
   },
   {
     "name": "light_gray_stained_glass",
@@ -4647,17 +2437,12 @@
       152,
       117
     ],
-    "image": "light_gray_stained_glass.png"
-  },
-  {
-    "name": "light_gray_stained_glass_pane_top",
-    "rgba": [
-      149,
-      149,
-      149,
-      29
+    "hsl": [
+      0,
+      0,
+      59.6078431372549
     ],
-    "image": "light_gray_stained_glass_pane_top.png"
+    "image": "light_gray_stained_glass.png"
   },
   {
     "name": "light_gray_terracotta",
@@ -4666,6 +2451,11 @@
       107,
       98,
       255
+    ],
+    "hsl": [
+      14.594594594594591,
+      13.357400722021659,
+      45.68627450980392
     ],
     "image": "light_gray_terracotta.png"
   },
@@ -4677,87 +2467,12 @@
       135,
       255
     ],
+    "hsl": [
+      60,
+      3.0042918454935643,
+      54.313725490196084
+    ],
     "image": "light_gray_wool.png"
-  },
-  {
-    "name": "lightning_rod",
-    "rgba": [
-      196,
-      111,
-      85,
-      39
-    ],
-    "image": "lightning_rod.png"
-  },
-  {
-    "name": "lightning_rod_on",
-    "rgba": [
-      255,
-      255,
-      255,
-      255
-    ],
-    "image": "lightning_rod_on.png"
-  },
-  {
-    "name": "lilac_bottom",
-    "rgba": [
-      137,
-      126,
-      126,
-      89
-    ],
-    "image": "lilac_bottom.png"
-  },
-  {
-    "name": "lilac_top",
-    "rgba": [
-      153,
-      125,
-      146,
-      75
-    ],
-    "image": "lilac_top.png"
-  },
-  {
-    "name": "lily_of_the_valley",
-    "rgba": [
-      122,
-      171,
-      93,
-      52
-    ],
-    "image": "lily_of_the_valley.png"
-  },
-  {
-    "name": "lily_pad",
-    "rgba": [
-      133,
-      133,
-      133,
-      149
-    ],
-    "image": "lily_pad.png"
-  },
-  {
-    "name": "lime_candle",
-    "rgba": [
-      97,
-      170,
-      24,
-      21
-    ],
-    "image": "lime_candle.png"
-  },
-  {
-    "name": "lime_candle_lit",
-    "rgba": [
-      121,
-      182,
-      24,
-      21
-    ],
-    "image": "lime_candle_lit.png"
   },
   {
     "name": "lime_concrete",
@@ -4766,6 +2481,11 @@
       169,
       25,
       255
+    ],
+    "hsl": [
+      91.25,
+      45.56962025316456,
+      38.03921568627451
     ],
     "image": "lime_concrete.png"
   },
@@ -4777,27 +2497,12 @@
       42,
       255
     ],
+    "hsl": [
+      86.12244897959184,
+      52.68817204301075,
+      45.294117647058826
+    ],
     "image": "lime_concrete_powder.png"
-  },
-  {
-    "name": "lime_glazed_terracotta",
-    "rgba": [
-      163,
-      198,
-      55,
-      255
-    ],
-    "image": "lime_glazed_terracotta.png"
-  },
-  {
-    "name": "lime_shulker_box",
-    "rgba": [
-      100,
-      173,
-      23,
-      255
-    ],
-    "image": "lime_shulker_box.png"
   },
   {
     "name": "lime_stained_glass",
@@ -4807,17 +2512,12 @@
       26,
       117
     ],
-    "image": "lime_stained_glass.png"
-  },
-  {
-    "name": "lime_stained_glass_pane_top",
-    "rgba": [
-      123,
-      193,
-      26,
-      29
+    "hsl": [
+      85.6179775280899,
+      63.57142857142857,
+      45.09803921568628
     ],
-    "image": "lime_stained_glass_pane_top.png"
+    "image": "lime_stained_glass.png"
   },
   {
     "name": "lime_terracotta",
@@ -4826,6 +2526,11 @@
       118,
       53,
       255
+    ],
+    "hsl": [
+      72.92307692307693,
+      38.01169590643274,
+      33.529411764705884
     ],
     "image": "lime_terracotta.png"
   },
@@ -4837,17 +2542,12 @@
       26,
       255
     ],
-    "image": "lime_wool.png"
-  },
-  {
-    "name": "lodestone_side",
-    "rgba": [
-      119,
-      120,
-      123,
-      255
+    "hsl": [
+      87.54716981132076,
+      53.17725752508361,
+      41.37254901960784
     ],
-    "image": "lodestone_side.png"
+    "image": "lime_wool.png"
   },
   {
     "name": "lodestone_top",
@@ -4857,67 +2557,27 @@
       153,
       255
     ],
+    "hsl": [
+      219.9999999999998,
+      2.85714285714286,
+      58.823529411764696
+    ],
     "image": "lodestone_top.png"
   },
   {
-    "name": "loom_bottom",
+    "name": "lodestone_side",
     "rgba": [
-      76,
-      60,
-      36,
-      255
-    ],
-    "image": "loom_bottom.png"
-  },
-  {
-    "name": "loom_front",
-    "rgba": [
-      148,
       119,
-      82,
+      120,
+      123,
       255
     ],
-    "image": "loom_front.png"
-  },
-  {
-    "name": "loom_side",
-    "rgba": [
-      146,
-      101,
-      72,
-      255
+    "hsl": [
+      225.00000000000006,
+      1.6528925619834711,
+      47.45098039215686
     ],
-    "image": "loom_side.png"
-  },
-  {
-    "name": "loom_top",
-    "rgba": [
-      142,
-      119,
-      92,
-      255
-    ],
-    "image": "loom_top.png"
-  },
-  {
-    "name": "magenta_candle",
-    "rgba": [
-      157,
-      48,
-      145,
-      21
-    ],
-    "image": "magenta_candle.png"
-  },
-  {
-    "name": "magenta_candle_lit",
-    "rgba": [
-      182,
-      72,
-      157,
-      21
-    ],
-    "image": "magenta_candle_lit.png"
+    "image": "lodestone_side.png"
   },
   {
     "name": "magenta_concrete",
@@ -4926,6 +2586,11 @@
       48,
       159,
       255
+    ],
+    "hsl": [
+      304.9586776859504,
+      41.296928327645055,
+      42.549019607843135
     ],
     "image": "magenta_concrete.png"
   },
@@ -4937,27 +2602,12 @@
       185,
       255
     ],
+    "hsl": [
+      304.4036697247706,
+      46.78111587982832,
+      54.31372549019608
+    ],
     "image": "magenta_concrete_powder.png"
-  },
-  {
-    "name": "magenta_glazed_terracotta",
-    "rgba": [
-      208,
-      100,
-      192,
-      255
-    ],
-    "image": "magenta_glazed_terracotta.png"
-  },
-  {
-    "name": "magenta_shulker_box",
-    "rgba": [
-      174,
-      54,
-      164,
-      255
-    ],
-    "image": "magenta_shulker_box.png"
   },
   {
     "name": "magenta_stained_glass",
@@ -4967,17 +2617,12 @@
       215,
       117
     ],
-    "image": "magenta_stained_glass.png"
-  },
-  {
-    "name": "magenta_stained_glass_pane_top",
-    "rgba": [
-      167,
-      70,
-      211,
-      29
+    "hsl": [
+      284.0287769784173,
+      63.4703196347032,
+      57.05882352941176
     ],
-    "image": "magenta_stained_glass_pane_top.png"
+    "image": "magenta_stained_glass.png"
   },
   {
     "name": "magenta_terracotta",
@@ -4986,6 +2631,11 @@
       88,
       109,
       255
+    ],
+    "hsl": [
+      339.6774193548387,
+      22.794117647058826,
+      46.666666666666664
     ],
     "image": "magenta_terracotta.png"
   },
@@ -4997,37 +2647,12 @@
       180,
       255
     ],
+    "hsl": [
+      304.9586776859504,
+      48.20717131474104,
+      50.78431372549019
+    ],
     "image": "magenta_wool.png"
-  },
-  {
-    "name": "magma",
-    "rgba": [
-      143,
-      64,
-      32,
-      255
-    ],
-    "image": "magma.png"
-  },
-  {
-    "name": "mangrove_door_bottom",
-    "rgba": [
-      112,
-      48,
-      46,
-      255
-    ],
-    "image": "mangrove_door_bottom.png"
-  },
-  {
-    "name": "mangrove_door_top",
-    "rgba": [
-      113,
-      49,
-      47,
-      255
-    ],
-    "image": "mangrove_door_top.png"
   },
   {
     "name": "mangrove_leaves",
@@ -5037,17 +2662,12 @@
       128,
       211
     ],
-    "image": "mangrove_leaves.png"
-  },
-  {
-    "name": "mangrove_log",
-    "rgba": [
-      84,
-      67,
-      41,
-      255
+    "hsl": [
+      0,
+      0.39525691699604604,
+      50.3921568627451
     ],
-    "image": "mangrove_log.png"
+    "image": "mangrove_leaves.png"
   },
   {
     "name": "mangrove_log_top",
@@ -5057,7 +2677,27 @@
       42,
       255
     ],
+    "hsl": [
+      6.8852459016393475,
+      42.06896551724138,
+      28.431372549019606
+    ],
     "image": "mangrove_log_top.png"
+  },
+  {
+    "name": "mangrove_log",
+    "rgba": [
+      84,
+      67,
+      41,
+      255
+    ],
+    "hsl": [
+      36.27906976744187,
+      34.39999999999999,
+      24.50980392156863
+    ],
+    "image": "mangrove_log.png"
   },
   {
     "name": "mangrove_planks",
@@ -5067,87 +2707,12 @@
       49,
       255
     ],
+    "hsl": [
+      4.347826086956518,
+      41.31736526946108,
+      32.745098039215684
+    ],
     "image": "mangrove_planks.png"
-  },
-  {
-    "name": "mangrove_propagule",
-    "rgba": [
-      92,
-      177,
-      85,
-      33
-    ],
-    "image": "mangrove_propagule.png"
-  },
-  {
-    "name": "mangrove_propagule_hanging",
-    "rgba": [
-      110,
-      134,
-      72,
-      53
-    ],
-    "image": "mangrove_propagule_hanging.png"
-  },
-  {
-    "name": "mangrove_roots_side",
-    "rgba": [
-      74,
-      60,
-      38,
-      140
-    ],
-    "image": "mangrove_roots_side.png"
-  },
-  {
-    "name": "mangrove_roots_top",
-    "rgba": [
-      75,
-      59,
-      39,
-      176
-    ],
-    "image": "mangrove_roots_top.png"
-  },
-  {
-    "name": "mangrove_trapdoor",
-    "rgba": [
-      110,
-      46,
-      42,
-      223
-    ],
-    "image": "mangrove_trapdoor.png"
-  },
-  {
-    "name": "medium_amethyst_bud",
-    "rgba": [
-      160,
-      120,
-      200,
-      51
-    ],
-    "image": "medium_amethyst_bud.png"
-  },
-  {
-    "name": "melon_side",
-    "rgba": [
-      114,
-      146,
-      30,
-      255
-    ],
-    "image": "melon_side.png"
-  },
-  {
-    "name": "melon_stem",
-    "rgba": [
-      153,
-      153,
-      153,
-      35
-    ],
-    "image": "melon_stem.png"
   },
   {
     "name": "melon_top",
@@ -5157,17 +2722,27 @@
       31,
       255
     ],
+    "hsl": [
+      77.89473684210526,
+      34.131736526946106,
+      34.509803921568626
+    ],
     "image": "melon_top.png"
   },
   {
-    "name": "moss_block",
+    "name": "melon_side",
     "rgba": [
-      89,
-      110,
-      45,
+      114,
+      146,
+      30,
       255
     ],
-    "image": "moss_block.png"
+    "hsl": [
+      76.55172413793102,
+      34.73053892215569,
+      34.509803921568626
+    ],
+    "image": "melon_side.png"
   },
   {
     "name": "mossy_cobblestone",
@@ -5176,6 +2751,11 @@
       118,
       95,
       255
+    ],
+    "hsl": [
+      80.8695652173913,
+      10.798122065727702,
+      41.76470588235294
     ],
     "image": "mossy_cobblestone.png"
   },
@@ -5187,7 +2767,27 @@
       105,
       255
     ],
+    "hsl": [
+      82.49999999999997,
+      7.079646017699115,
+      44.31372549019608
+    ],
     "image": "mossy_stone_bricks.png"
+  },
+  {
+    "name": "moss_block",
+    "rgba": [
+      89,
+      110,
+      45,
+      255
+    ],
+    "hsl": [
+      79.3846153846154,
+      41.93548387096773,
+      30.3921568627451
+    ],
+    "image": "moss_block.png"
   },
   {
     "name": "mud",
@@ -5197,27 +2797,12 @@
       61,
       255
     ],
+    "hsl": [
+      284.99999999999994,
+      3.389830508474576,
+      23.137254901960784
+    ],
     "image": "mud.png"
-  },
-  {
-    "name": "mud_bricks",
-    "rgba": [
-      137,
-      104,
-      79,
-      255
-    ],
-    "image": "mud_bricks.png"
-  },
-  {
-    "name": "muddy_mangrove_roots_side",
-    "rgba": [
-      68,
-      59,
-      48,
-      255
-    ],
-    "image": "muddy_mangrove_roots_side.png"
   },
   {
     "name": "muddy_mangrove_roots_top",
@@ -5227,17 +2812,42 @@
       45,
       255
     ],
+    "hsl": [
+      33.599999999999994,
+      21.73913043478261,
+      22.54901960784314
+    ],
     "image": "muddy_mangrove_roots_top.png"
   },
   {
-    "name": "mushroom_block_inside",
+    "name": "muddy_mangrove_roots_side",
     "rgba": [
-      202,
-      170,
-      120,
+      68,
+      59,
+      48,
       255
     ],
-    "image": "mushroom_block_inside.png"
+    "hsl": [
+      33.00000000000001,
+      17.24137931034483,
+      22.745098039215687
+    ],
+    "image": "muddy_mangrove_roots_side.png"
+  },
+  {
+    "name": "mud_bricks",
+    "rgba": [
+      137,
+      104,
+      79,
+      255
+    ],
+    "hsl": [
+      25.86206896551724,
+      19.727891156462583,
+      42.35294117647059
+    ],
+    "image": "mud_bricks.png"
   },
   {
     "name": "mushroom_stem",
@@ -5247,117 +2857,12 @@
       186,
       255
     ],
+    "hsl": [
+      38.823529411764774,
+      14.049586776859499,
+      76.27450980392156
+    ],
     "image": "mushroom_stem.png"
-  },
-  {
-    "name": "mycelium_side",
-    "rgba": [
-      114,
-      88,
-      72,
-      255
-    ],
-    "image": "mycelium_side.png"
-  },
-  {
-    "name": "mycelium_top",
-    "rgba": [
-      111,
-      99,
-      101,
-      255
-    ],
-    "image": "mycelium_top.png"
-  },
-  {
-    "name": "nether_bricks",
-    "rgba": [
-      44,
-      22,
-      26,
-      255
-    ],
-    "image": "nether_bricks.png"
-  },
-  {
-    "name": "nether_gold_ore",
-    "rgba": [
-      115,
-      55,
-      42,
-      255
-    ],
-    "image": "nether_gold_ore.png"
-  },
-  {
-    "name": "nether_portal",
-    "rgba": [
-      89,
-      12,
-      192,
-      191
-    ],
-    "image": "nether_portal.png"
-  },
-  {
-    "name": "nether_quartz_ore",
-    "rgba": [
-      118,
-      66,
-      62,
-      255
-    ],
-    "image": "nether_quartz_ore.png"
-  },
-  {
-    "name": "nether_sprouts",
-    "rgba": [
-      16,
-      148,
-      131,
-      31
-    ],
-    "image": "nether_sprouts.png"
-  },
-  {
-    "name": "nether_wart_block",
-    "rgba": [
-      115,
-      3,
-      2,
-      255
-    ],
-    "image": "nether_wart_block.png"
-  },
-  {
-    "name": "nether_wart_stage0",
-    "rgba": [
-      115,
-      17,
-      23,
-      44
-    ],
-    "image": "nether_wart_stage0.png"
-  },
-  {
-    "name": "nether_wart_stage1",
-    "rgba": [
-      115,
-      17,
-      19,
-      119
-    ],
-    "image": "nether_wart_stage1.png"
-  },
-  {
-    "name": "nether_wart_stage2",
-    "rgba": [
-      111,
-      17,
-      19,
-      160
-    ],
-    "image": "nether_wart_stage2.png"
   },
   {
     "name": "netherite_block",
@@ -5366,6 +2871,11 @@
       61,
       64,
       255
+    ],
+    "hsl": [
+      324.00000000000006,
+      3.937007874015751,
+      24.901960784313726
     ],
     "image": "netherite_block.png"
   },
@@ -5377,7 +2887,72 @@
       38,
       255
     ],
+    "hsl": [
+      0,
+      44.117647058823536,
+      26.666666666666668
+    ],
     "image": "netherrack.png"
+  },
+  {
+    "name": "nether_bricks",
+    "rgba": [
+      44,
+      22,
+      26,
+      255
+    ],
+    "hsl": [
+      349.09090909090907,
+      33.333333333333336,
+      12.941176470588234
+    ],
+    "image": "nether_bricks.png"
+  },
+  {
+    "name": "nether_gold_ore",
+    "rgba": [
+      115,
+      55,
+      42,
+      255
+    ],
+    "hsl": [
+      10.684931506849317,
+      46.4968152866242,
+      30.784313725490197
+    ],
+    "image": "nether_gold_ore.png"
+  },
+  {
+    "name": "nether_quartz_ore",
+    "rgba": [
+      118,
+      66,
+      62,
+      255
+    ],
+    "hsl": [
+      4.285714285714293,
+      31.11111111111111,
+      35.294117647058826
+    ],
+    "image": "nether_quartz_ore.png"
+  },
+  {
+    "name": "nether_wart_block",
+    "rgba": [
+      115,
+      3,
+      2,
+      255
+    ],
+    "hsl": [
+      0.5309734513274336,
+      96.58119658119656,
+      22.941176470588236
+    ],
+    "image": "nether_wart_block.png"
   },
   {
     "name": "note_block",
@@ -5387,27 +2962,12 @@
       41,
       255
     ],
+    "hsl": [
+      22.500000000000004,
+      36.92307692307692,
+      25.49019607843137
+    ],
     "image": "note_block.png"
-  },
-  {
-    "name": "oak_door_bottom",
-    "rgba": [
-      139,
-      108,
-      62,
-      255
-    ],
-    "image": "oak_door_bottom.png"
-  },
-  {
-    "name": "oak_door_top",
-    "rgba": [
-      140,
-      110,
-      66,
-      207
-    ],
-    "image": "oak_door_top.png"
   },
   {
     "name": "oak_leaves",
@@ -5417,17 +2977,12 @@
       144,
       171
     ],
-    "image": "oak_leaves.png"
-  },
-  {
-    "name": "oak_log",
-    "rgba": [
-      109,
-      85,
-      51,
-      255
+    "hsl": [
+      0,
+      0,
+      56.470588235294116
     ],
-    "image": "oak_log.png"
+    "image": "oak_leaves.png"
   },
   {
     "name": "oak_log_top",
@@ -5437,87 +2992,27 @@
       73,
       255
     ],
+    "hsl": [
+      37.6923076923077,
+      27.272727272727277,
+      43.92156862745098
+    ],
     "image": "oak_log_top.png"
   },
   {
-    "name": "oak_planks",
+    "name": "oak_log",
     "rgba": [
-      162,
-      131,
-      79,
+      109,
+      85,
+      51,
       255
     ],
-    "image": "oak_planks.png"
-  },
-  {
-    "name": "oak_sapling",
-    "rgba": [
-      78,
-      105,
-      41,
-      111
+    "hsl": [
+      35.172413793103445,
+      36.24999999999999,
+      31.372549019607842
     ],
-    "image": "oak_sapling.png"
-  },
-  {
-    "name": "oak_trapdoor",
-    "rgba": [
-      124,
-      98,
-      57,
-      219
-    ],
-    "image": "oak_trapdoor.png"
-  },
-  {
-    "name": "observer_back",
-    "rgba": [
-      72,
-      70,
-      70,
-      255
-    ],
-    "image": "observer_back.png"
-  },
-  {
-    "name": "observer_back_on",
-    "rgba": [
-      76,
-      68,
-      68,
-      255
-    ],
-    "image": "observer_back_on.png"
-  },
-  {
-    "name": "observer_front",
-    "rgba": [
-      104,
-      103,
-      103,
-      255
-    ],
-    "image": "observer_front.png"
-  },
-  {
-    "name": "observer_side",
-    "rgba": [
-      70,
-      69,
-      69,
-      255
-    ],
-    "image": "observer_side.png"
-  },
-  {
-    "name": "observer_top",
-    "rgba": [
-      98,
-      98,
-      98,
-      255
-    ],
-    "image": "observer_top.png"
+    "image": "oak_log.png"
   },
   {
     "name": "obsidian",
@@ -5527,17 +3022,12 @@
       25,
       255
     ],
-    "image": "obsidian.png"
-  },
-  {
-    "name": "ochre_froglight_side",
-    "rgba": [
-      245,
-      233,
-      182,
-      255
+    "hsl": [
+      257.1428571428571,
+      38.88888888888889,
+      7.0588235294117645
     ],
-    "image": "ochre_froglight_side.png"
+    "image": "obsidian.png"
   },
   {
     "name": "ochre_froglight_top",
@@ -5547,27 +3037,27 @@
       207,
       255
     ],
+    "hsl": [
+      51.81818181818185,
+      84.61538461538451,
+      89.80392156862744
+    ],
     "image": "ochre_froglight_top.png"
   },
   {
-    "name": "orange_candle",
+    "name": "ochre_froglight_side",
     "rgba": [
-      218,
-      97,
-      12,
-      21
+      245,
+      233,
+      182,
+      255
     ],
-    "image": "orange_candle.png"
-  },
-  {
-    "name": "orange_candle_lit",
-    "rgba": [
-      218,
-      133,
-      24,
-      21
+    "hsl": [
+      48.571428571428555,
+      75.90361445783134,
+      83.72549019607844
     ],
-    "image": "orange_candle_lit.png"
+    "image": "ochre_froglight_side.png"
   },
   {
     "name": "orange_concrete",
@@ -5576,6 +3066,11 @@
       97,
       1,
       255
+    ],
+    "hsl": [
+      25.82959641255605,
+      78.24561403508771,
+      44.11764705882353
     ],
     "image": "orange_concrete.png"
   },
@@ -5587,27 +3082,12 @@
       32,
       255
     ],
+    "hsl": [
+      30.769230769230774,
+      77.68924302788844,
+      50.78431372549019
+    ],
     "image": "orange_concrete_powder.png"
-  },
-  {
-    "name": "orange_glazed_terracotta",
-    "rgba": [
-      154,
-      147,
-      92,
-      255
-    ],
-    "image": "orange_glazed_terracotta.png"
-  },
-  {
-    "name": "orange_shulker_box",
-    "rgba": [
-      234,
-      106,
-      9,
-      255
-    ],
-    "image": "orange_shulker_box.png"
   },
   {
     "name": "orange_stained_glass",
@@ -5617,17 +3097,12 @@
       50,
       117
     ],
-    "image": "orange_stained_glass.png"
-  },
-  {
-    "name": "orange_stained_glass_pane_top",
-    "rgba": [
-      211,
-      123,
-      43,
-      29
+    "hsl": [
+      28.363636363636363,
+      67.3469387755102,
+      51.96078431372548
     ],
-    "image": "orange_stained_glass_pane_top.png"
+    "image": "orange_stained_glass.png"
   },
   {
     "name": "orange_terracotta",
@@ -5637,17 +3112,12 @@
       38,
       255
     ],
-    "image": "orange_terracotta.png"
-  },
-  {
-    "name": "orange_tulip",
-    "rgba": [
-      93,
-      143,
-      31,
-      41
+    "hsl": [
+      22.258064516129036,
+      39.99999999999999,
+      39.21568627450981
     ],
-    "image": "orange_tulip.png"
+    "image": "orange_terracotta.png"
   },
   {
     "name": "orange_wool",
@@ -5657,17 +3127,12 @@
       20,
       255
     ],
-    "image": "orange_wool.png"
-  },
-  {
-    "name": "oxeye_daisy",
-    "rgba": [
-      180,
-      200,
-      145,
-      51
+    "hsl": [
+      26.60633484162896,
+      88.75502008032127,
+      51.17647058823529
     ],
-    "image": "oxeye_daisy.png"
+    "image": "orange_wool.png"
   },
   {
     "name": "oxidized_copper",
@@ -5676,6 +3141,11 @@
       162,
       133,
       255
+    ],
+    "hsl": [
+      158.25,
+      30.075187969924805,
+      47.843137254901954
     ],
     "image": "oxidized_copper.png"
   },
@@ -5687,6 +3157,11 @@
       126,
       255
     ],
+    "hsl": [
+      157.8082191780822,
+      26.35379061371841,
+      45.68627450980392
+    ],
     "image": "oxidized_cut_copper.png"
   },
   {
@@ -5696,6 +3171,11 @@
       180,
       250,
       255
+    ],
+    "hsl": [
+      218.88888888888889,
+      91.52542372881352,
+      76.86274509803921
     ],
     "image": "packed_ice.png"
   },
@@ -5707,17 +3187,12 @@
       80,
       255
     ],
-    "image": "packed_mud.png"
-  },
-  {
-    "name": "pearlescent_froglight_side",
-    "rgba": [
-      235,
-      225,
-      228,
-      255
+    "hsl": [
+      26.129032258064516,
+      21.52777777777778,
+      43.529411764705884
     ],
-    "image": "pearlescent_froglight_side.png"
+    "image": "packed_mud.png"
   },
   {
     "name": "pearlescent_froglight_top",
@@ -5727,47 +3202,27 @@
       240,
       255
     ],
+    "hsl": [
+      0,
+      25,
+      95.29411764705881
+    ],
     "image": "pearlescent_froglight_top.png"
   },
   {
-    "name": "peony_bottom",
+    "name": "pearlescent_froglight_side",
     "rgba": [
-      87,
-      102,
-      92,
-      140
+      235,
+      225,
+      228,
+      255
     ],
-    "image": "peony_bottom.png"
-  },
-  {
-    "name": "peony_top",
-    "rgba": [
-      129,
-      125,
-      139,
-      110
+    "hsl": [
+      341.9999999999999,
+      19.999999999999964,
+      90.19607843137254
     ],
-    "image": "peony_top.png"
-  },
-  {
-    "name": "pink_candle",
-    "rgba": [
-      206,
-      97,
-      145,
-      21
-    ],
-    "image": "pink_candle.png"
-  },
-  {
-    "name": "pink_candle_lit",
-    "rgba": [
-      218,
-      133,
-      145,
-      21
-    ],
-    "image": "pink_candle_lit.png"
+    "image": "pearlescent_froglight_side.png"
   },
   {
     "name": "pink_concrete",
@@ -5776,6 +3231,11 @@
       101,
       143,
       255
+    ],
+    "hsl": [
+      337.6991150442478,
+      57.948717948717956,
+      61.76470588235294
     ],
     "image": "pink_concrete.png"
   },
@@ -5787,47 +3247,12 @@
       181,
       255
     ],
+    "hsl": [
+      337.89473684210526,
+      59.375000000000014,
+      74.90196078431373
+    ],
     "image": "pink_concrete_powder.png"
-  },
-  {
-    "name": "pink_glazed_terracotta",
-    "rgba": [
-      235,
-      155,
-      182,
-      255
-    ],
-    "image": "pink_glazed_terracotta.png"
-  },
-  {
-    "name": "pink_petals",
-    "rgba": [
-      245,
-      180,
-      217,
-      103
-    ],
-    "image": "pink_petals.png"
-  },
-  {
-    "name": "pink_petals_stem",
-    "rgba": [
-      170,
-      170,
-      170,
-      3
-    ],
-    "image": "pink_petals_stem.png"
-  },
-  {
-    "name": "pink_shulker_box",
-    "rgba": [
-      230,
-      122,
-      158,
-      255
-    ],
-    "image": "pink_shulker_box.png"
   },
   {
     "name": "pink_stained_glass",
@@ -5837,17 +3262,12 @@
       165,
       117
     ],
-    "image": "pink_stained_glass.png"
-  },
-  {
-    "name": "pink_stained_glass_pane_top",
-    "rgba": [
-      228,
-      123,
-      158,
-      29
+    "hsl": [
+      340.8620689655172,
+      84.05797101449278,
+      72.94117647058825
     ],
-    "image": "pink_stained_glass_pane_top.png"
+    "image": "pink_stained_glass.png"
   },
   {
     "name": "pink_terracotta",
@@ -5857,17 +3277,12 @@
       79,
       255
     ],
-    "image": "pink_terracotta.png"
-  },
-  {
-    "name": "pink_tulip",
-    "rgba": [
-      99,
-      155,
-      80,
-      41
+    "hsl": [
+      359.2857142857143,
+      31.111111111111107,
+      47.05882352941176
     ],
-    "image": "pink_tulip.png"
+    "image": "pink_terracotta.png"
   },
   {
     "name": "pink_wool",
@@ -5877,267 +3292,12 @@
       172,
       255
     ],
+    "hsl": [
+      340.82474226804123,
+      74.04580152671755,
+      74.31372549019608
+    ],
     "image": "pink_wool.png"
-  },
-  {
-    "name": "piston_bottom",
-    "rgba": [
-      97,
-      97,
-      97,
-      255
-    ],
-    "image": "piston_bottom.png"
-  },
-  {
-    "name": "piston_inner",
-    "rgba": [
-      97,
-      97,
-      97,
-      255
-    ],
-    "image": "piston_inner.png"
-  },
-  {
-    "name": "piston_side",
-    "rgba": [
-      110,
-      105,
-      96,
-      255
-    ],
-    "image": "piston_side.png"
-  },
-  {
-    "name": "piston_top",
-    "rgba": [
-      153,
-      128,
-      85,
-      255
-    ],
-    "image": "piston_top.png"
-  },
-  {
-    "name": "piston_top_sticky",
-    "rgba": [
-      123,
-      149,
-      92,
-      255
-    ],
-    "image": "piston_top_sticky.png"
-  },
-  {
-    "name": "pitcher_crop_bottom",
-    "rgba": [
-      101,
-      58,
-      37,
-      143
-    ],
-    "image": "pitcher_crop_bottom.png"
-  },
-  {
-    "name": "pitcher_crop_bottom_stage_1",
-    "rgba": [
-      144,
-      155,
-      88,
-      46
-    ],
-    "image": "pitcher_crop_bottom_stage_1.png"
-  },
-  {
-    "name": "pitcher_crop_bottom_stage_2",
-    "rgba": [
-      114,
-      129,
-      81,
-      85
-    ],
-    "image": "pitcher_crop_bottom_stage_2.png"
-  },
-  {
-    "name": "pitcher_crop_bottom_stage_3",
-    "rgba": [
-      104,
-      125,
-      75,
-      71
-    ],
-    "image": "pitcher_crop_bottom_stage_3.png"
-  },
-  {
-    "name": "pitcher_crop_bottom_stage_4",
-    "rgba": [
-      103,
-      125,
-      94,
-      81
-    ],
-    "image": "pitcher_crop_bottom_stage_4.png"
-  },
-  {
-    "name": "pitcher_crop_side",
-    "rgba": [
-      178,
-      127,
-      80,
-      60
-    ],
-    "image": "pitcher_crop_side.png"
-  },
-  {
-    "name": "pitcher_crop_top",
-    "rgba": [
-      193,
-      165,
-      102,
-      100
-    ],
-    "image": "pitcher_crop_top.png"
-  },
-  {
-    "name": "pitcher_crop_top_stage_3",
-    "rgba": [
-      142,
-      185,
-      139,
-      66
-    ],
-    "image": "pitcher_crop_top_stage_3.png"
-  },
-  {
-    "name": "pitcher_crop_top_stage_4",
-    "rgba": [
-      122,
-      143,
-      188,
-      119
-    ],
-    "image": "pitcher_crop_top_stage_4.png"
-  },
-  {
-    "name": "podzol_side",
-    "rgba": [
-      123,
-      88,
-      57,
-      255
-    ],
-    "image": "podzol_side.png"
-  },
-  {
-    "name": "podzol_top",
-    "rgba": [
-      92,
-      63,
-      24,
-      255
-    ],
-    "image": "podzol_top.png"
-  },
-  {
-    "name": "pointed_dripstone_down_base",
-    "rgba": [
-      129,
-      102,
-      89,
-      229
-    ],
-    "image": "pointed_dripstone_down_base.png"
-  },
-  {
-    "name": "pointed_dripstone_down_frustum",
-    "rgba": [
-      129,
-      102,
-      89,
-      165
-    ],
-    "image": "pointed_dripstone_down_frustum.png"
-  },
-  {
-    "name": "pointed_dripstone_down_middle",
-    "rgba": [
-      130,
-      103,
-      90,
-      185
-    ],
-    "image": "pointed_dripstone_down_middle.png"
-  },
-  {
-    "name": "pointed_dripstone_down_tip",
-    "rgba": [
-      134,
-      110,
-      91,
-      53
-    ],
-    "image": "pointed_dripstone_down_tip.png"
-  },
-  {
-    "name": "pointed_dripstone_down_tip_merge",
-    "rgba": [
-      136,
-      112,
-      94,
-      86
-    ],
-    "image": "pointed_dripstone_down_tip_merge.png"
-  },
-  {
-    "name": "pointed_dripstone_up_base",
-    "rgba": [
-      129,
-      102,
-      90,
-      229
-    ],
-    "image": "pointed_dripstone_up_base.png"
-  },
-  {
-    "name": "pointed_dripstone_up_frustum",
-    "rgba": [
-      129,
-      103,
-      89,
-      165
-    ],
-    "image": "pointed_dripstone_up_frustum.png"
-  },
-  {
-    "name": "pointed_dripstone_up_middle",
-    "rgba": [
-      130,
-      103,
-      90,
-      185
-    ],
-    "image": "pointed_dripstone_up_middle.png"
-  },
-  {
-    "name": "pointed_dripstone_up_tip",
-    "rgba": [
-      134,
-      110,
-      96,
-      53
-    ],
-    "image": "pointed_dripstone_up_tip.png"
-  },
-  {
-    "name": "pointed_dripstone_up_tip_merge",
-    "rgba": [
-      139,
-      112,
-      94,
-      86
-    ],
-    "image": "pointed_dripstone_up_tip_merge.png"
   },
   {
     "name": "polished_andesite",
@@ -6147,17 +3307,12 @@
       134,
       255
     ],
-    "image": "polished_andesite.png"
-  },
-  {
-    "name": "polished_basalt_side",
-    "rgba": [
-      89,
-      88,
-      92,
-      255
+    "hsl": [
+      180,
+      0.8196721311475381,
+      52.156862745098046
     ],
-    "image": "polished_basalt_side.png"
+    "image": "polished_andesite.png"
   },
   {
     "name": "polished_basalt_top",
@@ -6167,7 +3322,27 @@
       101,
       255
     ],
+    "hsl": [
+      240,
+      0.9999999999999963,
+      39.21568627450981
+    ],
     "image": "polished_basalt_top.png"
+  },
+  {
+    "name": "polished_basalt_side",
+    "rgba": [
+      89,
+      88,
+      92,
+      255
+    ],
+    "hsl": [
+      254.99999999999994,
+      2.2222222222222223,
+      35.29411764705882
+    ],
+    "image": "polished_basalt_side.png"
   },
   {
     "name": "polished_blackstone",
@@ -6176,6 +3351,11 @@
       48,
       57,
       255
+    ],
+    "hsl": [
+      273.3333333333333,
+      8.571428571428577,
+      20.588235294117645
     ],
     "image": "polished_blackstone.png"
   },
@@ -6187,6 +3367,11 @@
       50,
       255
     ],
+    "hsl": [
+      285,
+      8.695652173913043,
+      18.03921568627451
+    ],
     "image": "polished_blackstone_bricks.png"
   },
   {
@@ -6196,6 +3381,11 @@
       72,
       73,
       255
+    ],
+    "hsl": [
+      240,
+      0.6896551724137907,
+      28.431372549019606
     ],
     "image": "polished_deepslate.png"
   },
@@ -6207,6 +3397,11 @@
       194,
       255
     ],
+    "hsl": [
+      240,
+      0.8130081300812978,
+      75.88235294117646
+    ],
     "image": "polished_diorite.png"
   },
   {
@@ -6217,157 +3412,12 @@
       89,
       255
     ],
+    "hsl": [
+      16.615384615384624,
+      24.34456928838951,
+      47.647058823529406
+    ],
     "image": "polished_granite.png"
-  },
-  {
-    "name": "poppy",
-    "rgba": [
-      131,
-      65,
-      36,
-      35
-    ],
-    "image": "poppy.png"
-  },
-  {
-    "name": "potatoes_stage0",
-    "rgba": [
-      51,
-      136,
-      34,
-      15
-    ],
-    "image": "potatoes_stage0.png"
-  },
-  {
-    "name": "potatoes_stage1",
-    "rgba": [
-      68,
-      127,
-      39,
-      26
-    ],
-    "image": "potatoes_stage1.png"
-  },
-  {
-    "name": "potatoes_stage2",
-    "rgba": [
-      85,
-      130,
-      45,
-      45
-    ],
-    "image": "potatoes_stage2.png"
-  },
-  {
-    "name": "potatoes_stage3",
-    "rgba": [
-      85,
-      135,
-      47,
-      81
-    ],
-    "image": "potatoes_stage3.png"
-  },
-  {
-    "name": "potted_azalea_bush_plant",
-    "rgba": [
-      91,
-      107,
-      42,
-      78
-    ],
-    "image": "potted_azalea_bush_plant.png"
-  },
-  {
-    "name": "potted_azalea_bush_side",
-    "rgba": [
-      96,
-      118,
-      48,
-      58
-    ],
-    "image": "potted_azalea_bush_side.png"
-  },
-  {
-    "name": "potted_azalea_bush_top",
-    "rgba": [
-      99,
-      123,
-      47,
-      64
-    ],
-    "image": "potted_azalea_bush_top.png"
-  },
-  {
-    "name": "potted_flowering_azalea_bush_plant",
-    "rgba": [
-      98,
-      104,
-      55,
-      78
-    ],
-    "image": "potted_flowering_azalea_bush_plant.png"
-  },
-  {
-    "name": "potted_flowering_azalea_bush_side",
-    "rgba": [
-      109,
-      114,
-      70,
-      58
-    ],
-    "image": "potted_flowering_azalea_bush_side.png"
-  },
-  {
-    "name": "potted_flowering_azalea_bush_top",
-    "rgba": [
-      115,
-      119,
-      71,
-      64
-    ],
-    "image": "potted_flowering_azalea_bush_top.png"
-  },
-  {
-    "name": "powder_snow",
-    "rgba": [
-      248,
-      253,
-      253,
-      255
-    ],
-    "image": "powder_snow.png"
-  },
-  {
-    "name": "powered_rail",
-    "rgba": [
-      138,
-      110,
-      74,
-      171
-    ],
-    "image": "powered_rail.png"
-  },
-  {
-    "name": "powered_rail_on",
-    "rgba": [
-      155,
-      110,
-      74,
-      171
-    ],
-    "image": "powered_rail_on.png"
-  },
-  {
-    "name": "prismarine",
-    "rgba": [
-      100,
-      152,
-      147,
-      255
-    ],
-    "image": "prismarine.png"
   },
   {
     "name": "prismarine_bricks",
@@ -6377,57 +3427,12 @@
       158,
       255
     ],
+    "hsl": [
+      169.16666666666669,
+      29.999999999999993,
+      52.94117647058824
+    ],
     "image": "prismarine_bricks.png"
-  },
-  {
-    "name": "pumpkin_side",
-    "rgba": [
-      196,
-      115,
-      24,
-      255
-    ],
-    "image": "pumpkin_side.png"
-  },
-  {
-    "name": "pumpkin_stem",
-    "rgba": [
-      153,
-      153,
-      153,
-      35
-    ],
-    "image": "pumpkin_stem.png"
-  },
-  {
-    "name": "pumpkin_top",
-    "rgba": [
-      198,
-      119,
-      24,
-      255
-    ],
-    "image": "pumpkin_top.png"
-  },
-  {
-    "name": "purple_candle",
-    "rgba": [
-      109,
-      36,
-      157,
-      21
-    ],
-    "image": "purple_candle.png"
-  },
-  {
-    "name": "purple_candle_lit",
-    "rgba": [
-      121,
-      36,
-      145,
-      21
-    ],
-    "image": "purple_candle_lit.png"
   },
   {
     "name": "purple_concrete",
@@ -6436,6 +3441,11 @@
       32,
       156,
       255
+    ],
+    "hsl": [
+      272.90322580645164,
+      38.509316770186345,
+      36.86274509803922
     ],
     "image": "purple_concrete.png"
   },
@@ -6447,27 +3457,12 @@
       178,
       255
     ],
+    "hsl": [
+      277.3770491803279,
+      44.202898550724626,
+      45.88235294117647
+    ],
     "image": "purple_concrete_powder.png"
-  },
-  {
-    "name": "purple_glazed_terracotta",
-    "rgba": [
-      110,
-      48,
-      153,
-      255
-    ],
-    "image": "purple_glazed_terracotta.png"
-  },
-  {
-    "name": "purple_shulker_box",
-    "rgba": [
-      103,
-      32,
-      156,
-      255
-    ],
-    "image": "purple_shulker_box.png"
   },
   {
     "name": "purple_stained_glass",
@@ -6477,17 +3472,12 @@
       178,
       117
     ],
-    "image": "purple_stained_glass.png"
-  },
-  {
-    "name": "purple_stained_glass_pane_top",
-    "rgba": [
-      123,
-      61,
-      167,
-      29
+    "hsl": [
+      273.9130434782609,
+      42.75092936802973,
+      47.25490196078431
     ],
-    "image": "purple_stained_glass_pane_top.png"
+    "image": "purple_stained_glass.png"
   },
   {
     "name": "purple_terracotta",
@@ -6496,6 +3486,11 @@
       70,
       86,
       255
+    ],
+    "hsl": [
+      340,
+      25.53191489361702,
+      36.86274509803922
     ],
     "image": "purple_terracotta.png"
   },
@@ -6507,6 +3502,11 @@
       173,
       255
     ],
+    "hsl": [
+      276.6412213740458,
+      44.40677966101696,
+      42.15686274509804
+    ],
     "image": "purple_wool.png"
   },
   {
@@ -6517,17 +3517,12 @@
       170,
       255
     ],
-    "image": "purpur_block.png"
-  },
-  {
-    "name": "purpur_pillar",
-    "rgba": [
-      172,
-      129,
-      171,
-      255
+    "hsl": [
+      300,
+      20.560747663551393,
+      58.0392156862745
     ],
-    "image": "purpur_pillar.png"
+    "image": "purpur_block.png"
   },
   {
     "name": "purpur_pillar_top",
@@ -6537,27 +3532,27 @@
       171,
       255
     ],
+    "hsl": [
+      301.3636363636364,
+      20.95238095238096,
+      58.82352941176471
+    ],
     "image": "purpur_pillar_top.png"
   },
   {
-    "name": "quartz_block_bottom",
+    "name": "purpur_pillar",
     "rgba": [
-      237,
-      230,
-      224,
+      172,
+      129,
+      171,
       255
     ],
-    "image": "quartz_block_bottom.png"
-  },
-  {
-    "name": "quartz_block_side",
-    "rgba": [
-      236,
-      230,
-      223,
-      255
+    "hsl": [
+      301.3953488372093,
+      20.574162679425847,
+      59.01960784313726
     ],
-    "image": "quartz_block_side.png"
+    "image": "purpur_pillar.png"
   },
   {
     "name": "quartz_block_top",
@@ -6567,7 +3562,27 @@
       223,
       255
     ],
+    "hsl": [
+      32.3076923076923,
+      25.4901960784314,
+      90
+    ],
     "image": "quartz_block_top.png"
+  },
+  {
+    "name": "quartz_block_side",
+    "rgba": [
+      236,
+      230,
+      223,
+      255
+    ],
+    "hsl": [
+      32.3076923076923,
+      25.4901960784314,
+      90
+    ],
+    "image": "quartz_block_side.png"
   },
   {
     "name": "quartz_bricks",
@@ -6577,17 +3592,12 @@
       222,
       255
     ],
-    "image": "quartz_bricks.png"
-  },
-  {
-    "name": "quartz_pillar",
-    "rgba": [
-      236,
-      231,
-      224,
-      255
+    "hsl": [
+      32.30769230769236,
+      24.5283018867924,
+      89.60784313725489
     ],
-    "image": "quartz_pillar.png"
+    "image": "quartz_bricks.png"
   },
   {
     "name": "quartz_pillar_top",
@@ -6597,27 +3607,27 @@
       223,
       255
     ],
+    "hsl": [
+      35.000000000000064,
+      23.07692307692303,
+      89.80392156862744
+    ],
     "image": "quartz_pillar_top.png"
   },
   {
-    "name": "rail",
+    "name": "quartz_pillar",
     "rgba": [
-      126,
-      112,
-      89,
-      143
+      236,
+      231,
+      224,
+      255
     ],
-    "image": "rail.png"
-  },
-  {
-    "name": "rail_corner",
-    "rgba": [
-      129,
-      115,
-      89,
-      108
+    "hsl": [
+      34.99999999999998,
+      24.000000000000032,
+      90.19607843137256
     ],
-    "image": "rail_corner.png"
+    "image": "quartz_pillar.png"
   },
   {
     "name": "raw_copper_block",
@@ -6626,6 +3636,11 @@
       106,
       79,
       255
+    ],
+    "hsl": [
+      21.600000000000005,
+      27.07581227436822,
+      45.68627450980392
     ],
     "image": "raw_copper_block.png"
   },
@@ -6637,6 +3652,11 @@
       47,
       255
     ],
+    "hsl": [
+      41.82857142857142,
+      72.61410788381743,
+      52.74509803921569
+    ],
     "image": "raw_gold_block.png"
   },
   {
@@ -6647,187 +3667,12 @@
       107,
       255
     ],
+    "hsl": [
+      29.49152542372881,
+      24.894514767932492,
+      53.529411764705884
+    ],
     "image": "raw_iron_block.png"
-  },
-  {
-    "name": "red_candle",
-    "rgba": [
-      145,
-      36,
-      36,
-      21
-    ],
-    "image": "red_candle.png"
-  },
-  {
-    "name": "red_candle_lit",
-    "rgba": [
-      182,
-      60,
-      48,
-      21
-    ],
-    "image": "red_candle_lit.png"
-  },
-  {
-    "name": "red_concrete",
-    "rgba": [
-      142,
-      33,
-      33,
-      255
-    ],
-    "image": "red_concrete.png"
-  },
-  {
-    "name": "red_concrete_powder",
-    "rgba": [
-      168,
-      54,
-      51,
-      255
-    ],
-    "image": "red_concrete_powder.png"
-  },
-  {
-    "name": "red_glazed_terracotta",
-    "rgba": [
-      182,
-      60,
-      53,
-      255
-    ],
-    "image": "red_glazed_terracotta.png"
-  },
-  {
-    "name": "red_mushroom",
-    "rgba": [
-      215,
-      71,
-      71,
-      32
-    ],
-    "image": "red_mushroom.png"
-  },
-  {
-    "name": "red_mushroom_block",
-    "rgba": [
-      200,
-      47,
-      45,
-      255
-    ],
-    "image": "red_mushroom_block.png"
-  },
-  {
-    "name": "red_nether_bricks",
-    "rgba": [
-      70,
-      7,
-      9,
-      255
-    ],
-    "image": "red_nether_bricks.png"
-  },
-  {
-    "name": "red_sand",
-    "rgba": [
-      191,
-      103,
-      33,
-      255
-    ],
-    "image": "red_sand.png"
-  },
-  {
-    "name": "red_sandstone",
-    "rgba": [
-      187,
-      99,
-      29,
-      255
-    ],
-    "image": "red_sandstone.png"
-  },
-  {
-    "name": "red_sandstone_bottom",
-    "rgba": [
-      186,
-      98,
-      28,
-      255
-    ],
-    "image": "red_sandstone_bottom.png"
-  },
-  {
-    "name": "red_sandstone_top",
-    "rgba": [
-      181,
-      98,
-      31,
-      255
-    ],
-    "image": "red_sandstone_top.png"
-  },
-  {
-    "name": "red_shulker_box",
-    "rgba": [
-      140,
-      31,
-      30,
-      255
-    ],
-    "image": "red_shulker_box.png"
-  },
-  {
-    "name": "red_stained_glass",
-    "rgba": [
-      152,
-      50,
-      50,
-      117
-    ],
-    "image": "red_stained_glass.png"
-  },
-  {
-    "name": "red_stained_glass_pane_top",
-    "rgba": [
-      149,
-      43,
-      43,
-      29
-    ],
-    "image": "red_stained_glass_pane_top.png"
-  },
-  {
-    "name": "red_terracotta",
-    "rgba": [
-      143,
-      61,
-      47,
-      255
-    ],
-    "image": "red_terracotta.png"
-  },
-  {
-    "name": "red_tulip",
-    "rgba": [
-      88,
-      130,
-      31,
-      49
-    ],
-    "image": "red_tulip.png"
-  },
-  {
-    "name": "red_wool",
-    "rgba": [
-      161,
-      39,
-      35,
-      255
-    ],
-    "image": "red_wool.png"
   },
   {
     "name": "redstone_block",
@@ -6837,47 +3682,12 @@
       5,
       255
     ],
+    "hsl": [
+      7.017543859649123,
+      51.97568389057751,
+      35.490196078431374
+    ],
     "image": "redstone_block.png"
-  },
-  {
-    "name": "redstone_dust_dot",
-    "rgba": [
-      237,
-      237,
-      237,
-      29
-    ],
-    "image": "redstone_dust_dot.png"
-  },
-  {
-    "name": "redstone_dust_line0",
-    "rgba": [
-      242,
-      242,
-      242,
-      20
-    ],
-    "image": "redstone_dust_line0.png"
-  },
-  {
-    "name": "redstone_dust_line1",
-    "rgba": [
-      243,
-      243,
-      243,
-      22
-    ],
-    "image": "redstone_dust_line1.png"
-  },
-  {
-    "name": "redstone_dust_overlay",
-    "rgba": [
-      0,
-      0,
-      0,
-      0
-    ],
-    "image": "redstone_dust_overlay.png"
   },
   {
     "name": "redstone_lamp",
@@ -6886,6 +3696,11 @@
       55,
       30,
       255
+    ],
+    "hsl": [
+      23.07692307692308,
+      51.99999999999999,
+      24.50980392156863
     ],
     "image": "redstone_lamp.png"
   },
@@ -6897,6 +3712,11 @@
       61,
       255
     ],
+    "hsl": [
+      30.000000000000007,
+      26.797385620915033,
+      40
+    ],
     "image": "redstone_lamp_on.png"
   },
   {
@@ -6907,197 +3727,132 @@
       110,
       255
     ],
+    "hsl": [
+      0,
+      11.538461538461542,
+      49.01960784313726
+    ],
     "image": "redstone_ore.png"
   },
   {
-    "name": "redstone_torch",
+    "name": "red_concrete",
     "rgba": [
-      166,
-      78,
-      39,
-      26
-    ],
-    "image": "redstone_torch.png"
-  },
-  {
-    "name": "redstone_torch_off",
-    "rgba": [
-      102,
-      63,
-      38,
-      20
-    ],
-    "image": "redstone_torch_off.png"
-  },
-  {
-    "name": "reinforced_deepslate_bottom",
-    "rgba": [
-      79,
-      82,
-      80,
-      255
-    ],
-    "image": "reinforced_deepslate_bottom.png"
-  },
-  {
-    "name": "reinforced_deepslate_side",
-    "rgba": [
-      102,
-      109,
-      101,
-      255
-    ],
-    "image": "reinforced_deepslate_side.png"
-  },
-  {
-    "name": "reinforced_deepslate_top",
-    "rgba": [
-      80,
-      83,
-      79,
-      255
-    ],
-    "image": "reinforced_deepslate_top.png"
-  },
-  {
-    "name": "repeater",
-    "rgba": [
-      160,
-      157,
-      156,
-      255
-    ],
-    "image": "repeater.png"
-  },
-  {
-    "name": "repeater_on",
-    "rgba": [
-      169,
-      157,
-      156,
-      255
-    ],
-    "image": "repeater_on.png"
-  },
-  {
-    "name": "repeating_command_block_back",
-    "rgba": [
-      129,
-      110,
-      167,
-      255
-    ],
-    "image": "repeating_command_block_back.png"
-  },
-  {
-    "name": "repeating_command_block_conditional",
-    "rgba": [
-      128,
-      109,
-      172,
-      255
-    ],
-    "image": "repeating_command_block_conditional.png"
-  },
-  {
-    "name": "repeating_command_block_front",
-    "rgba": [
-      130,
-      111,
-      176,
-      255
-    ],
-    "image": "repeating_command_block_front.png"
-  },
-  {
-    "name": "repeating_command_block_side",
-    "rgba": [
-      129,
-      111,
-      171,
-      255
-    ],
-    "image": "repeating_command_block_side.png"
-  },
-  {
-    "name": "respawn_anchor_bottom",
-    "rgba": [
+      142,
       33,
-      10,
-      60,
+      33,
       255
     ],
-    "image": "respawn_anchor_bottom.png"
+    "hsl": [
+      0,
+      32.53731343283582,
+      34.31372549019608
+    ],
+    "image": "red_concrete.png"
   },
   {
-    "name": "respawn_anchor_side0",
+    "name": "red_concrete_powder",
     "rgba": [
-      39,
-      24,
-      63,
+      168,
+      54,
+      51,
       255
     ],
-    "image": "respawn_anchor_side0.png"
-  },
-  {
-    "name": "respawn_anchor_side1",
-    "rgba": [
-      42,
-      26,
-      64,
-      255
+    "hsl": [
+      1.5384615384615368,
+      40.20618556701031,
+      42.94117647058824
     ],
-    "image": "respawn_anchor_side1.png"
+    "image": "red_concrete_powder.png"
   },
   {
-    "name": "respawn_anchor_side2",
+    "name": "red_mushroom_block",
     "rgba": [
-      45,
-      28,
-      66,
-      255
-    ],
-    "image": "respawn_anchor_side2.png"
-  },
-  {
-    "name": "respawn_anchor_side3",
-    "rgba": [
+      200,
       47,
-      30,
-      67,
+      45,
       255
     ],
-    "image": "respawn_anchor_side3.png"
+    "hsl": [
+      0.7741935483870969,
+      58.490566037735846,
+      48.03921568627451
+    ],
+    "image": "red_mushroom_block.png"
   },
   {
-    "name": "respawn_anchor_side4",
+    "name": "red_nether_bricks",
     "rgba": [
+      70,
+      7,
+      9,
+      255
+    ],
+    "hsl": [
+      358.0952380952381,
+      81.81818181818181,
+      15.098039215686276
+    ],
+    "image": "red_nether_bricks.png"
+  },
+  {
+    "name": "red_sand",
+    "rgba": [
+      191,
+      103,
+      33,
+      255
+    ],
+    "hsl": [
+      26.58227848101266,
+      55.244755244755254,
+      43.92156862745098
+    ],
+    "image": "red_sand.png"
+  },
+  {
+    "name": "red_stained_glass",
+    "rgba": [
+      152,
       50,
-      32,
-      68,
-      255
+      50,
+      117
     ],
-    "image": "respawn_anchor_side4.png"
+    "hsl": [
+      0,
+      33.116883116883116,
+      39.6078431372549
+    ],
+    "image": "red_stained_glass.png"
   },
   {
-    "name": "respawn_anchor_top",
+    "name": "red_terracotta",
     "rgba": [
-      76,
-      27,
-      144,
-      220
-    ],
-    "image": "respawn_anchor_top.png"
-  },
-  {
-    "name": "respawn_anchor_top_off",
-    "rgba": [
-      34,
-      22,
-      52,
+      143,
+      61,
+      47,
       255
     ],
-    "image": "respawn_anchor_top_off.png"
+    "hsl": [
+      8.75,
+      30,
+      37.254901960784316
+    ],
+    "image": "red_terracotta.png"
+  },
+  {
+    "name": "red_wool",
+    "rgba": [
+      161,
+      39,
+      35,
+      255
+    ],
+    "hsl": [
+      1.904761904761905,
+      40.12738853503184,
+      38.431372549019606
+    ],
+    "image": "red_wool.png"
   },
   {
     "name": "rooted_dirt",
@@ -7107,27 +3862,12 @@
       77,
       255
     ],
+    "hsl": [
+      24.179104477611943,
+      23.183391003460212,
+      43.333333333333336
+    ],
     "image": "rooted_dirt.png"
-  },
-  {
-    "name": "rose_bush_bottom",
-    "rgba": [
-      97,
-      84,
-      37,
-      178
-    ],
-    "image": "rose_bush_bottom.png"
-  },
-  {
-    "name": "rose_bush_top",
-    "rgba": [
-      131,
-      65,
-      38,
-      93
-    ],
-    "image": "rose_bush_top.png"
   },
   {
     "name": "sand",
@@ -7137,267 +3877,12 @@
       163,
       255
     ],
+    "hsl": [
+      47.14285714285715,
+      43.75,
+      74.90196078431373
+    ],
     "image": "sand.png"
-  },
-  {
-    "name": "sandstone",
-    "rgba": [
-      216,
-      203,
-      156,
-      255
-    ],
-    "image": "sandstone.png"
-  },
-  {
-    "name": "sandstone_bottom",
-    "rgba": [
-      216,
-      202,
-      154,
-      255
-    ],
-    "image": "sandstone_bottom.png"
-  },
-  {
-    "name": "sandstone_top",
-    "rgba": [
-      224,
-      214,
-      170,
-      255
-    ],
-    "image": "sandstone_top.png"
-  },
-  {
-    "name": "scaffolding_bottom",
-    "rgba": [
-      193,
-      173,
-      79,
-      112
-    ],
-    "image": "scaffolding_bottom.png"
-  },
-  {
-    "name": "scaffolding_side",
-    "rgba": [
-      192,
-      170,
-      79,
-      135
-    ],
-    "image": "scaffolding_side.png"
-  },
-  {
-    "name": "scaffolding_top",
-    "rgba": [
-      170,
-      131,
-      72,
-      231
-    ],
-    "image": "scaffolding_top.png"
-  },
-  {
-    "name": "sculk",
-    "rgba": [
-      13,
-      31,
-      37,
-      255
-    ],
-    "image": "sculk.png"
-  },
-  {
-    "name": "sculk_catalyst_bottom",
-    "rgba": [
-      89,
-      109,
-      109,
-      255
-    ],
-    "image": "sculk_catalyst_bottom.png"
-  },
-  {
-    "name": "sculk_catalyst_side",
-    "rgba": [
-      77,
-      94,
-      90,
-      255
-    ],
-    "image": "sculk_catalyst_side.png"
-  },
-  {
-    "name": "sculk_catalyst_side_bloom",
-    "rgba": [
-      77,
-      94,
-      90,
-      255
-    ],
-    "image": "sculk_catalyst_side_bloom.png"
-  },
-  {
-    "name": "sculk_catalyst_top",
-    "rgba": [
-      15,
-      32,
-      38,
-      255
-    ],
-    "image": "sculk_catalyst_top.png"
-  },
-  {
-    "name": "sculk_catalyst_top_bloom",
-    "rgba": [
-      17,
-      51,
-      57,
-      255
-    ],
-    "image": "sculk_catalyst_top_bloom.png"
-  },
-  {
-    "name": "sculk_sensor_bottom",
-    "rgba": [
-      13,
-      28,
-      34,
-      255
-    ],
-    "image": "sculk_sensor_bottom.png"
-  },
-  {
-    "name": "sculk_sensor_side",
-    "rgba": [
-      9,
-      39,
-      47,
-      128
-    ],
-    "image": "sculk_sensor_side.png"
-  },
-  {
-    "name": "sculk_sensor_tendril_active",
-    "rgba": [
-      8,
-      127,
-      127,
-      30
-    ],
-    "image": "sculk_sensor_tendril_active.png"
-  },
-  {
-    "name": "sculk_sensor_tendril_inactive",
-    "rgba": [
-      17,
-      68,
-      76,
-      30
-    ],
-    "image": "sculk_sensor_tendril_inactive.png"
-  },
-  {
-    "name": "sculk_sensor_top",
-    "rgba": [
-      7,
-      70,
-      84,
-      255
-    ],
-    "image": "sculk_sensor_top.png"
-  },
-  {
-    "name": "sculk_shrieker_bottom",
-    "rgba": [
-      13,
-      28,
-      34,
-      255
-    ],
-    "image": "sculk_shrieker_bottom.png"
-  },
-  {
-    "name": "sculk_shrieker_can_summon_inner_top",
-    "rgba": [
-      31,
-      65,
-      66,
-      255
-    ],
-    "image": "sculk_shrieker_can_summon_inner_top.png"
-  },
-  {
-    "name": "sculk_shrieker_inner_top",
-    "rgba": [
-      30,
-      54,
-      55,
-      255
-    ],
-    "image": "sculk_shrieker_inner_top.png"
-  },
-  {
-    "name": "sculk_shrieker_side",
-    "rgba": [
-      74,
-      101,
-      94,
-      194
-    ],
-    "image": "sculk_shrieker_side.png"
-  },
-  {
-    "name": "sculk_shrieker_top",
-    "rgba": [
-      196,
-      205,
-      166,
-      52
-    ],
-    "image": "sculk_shrieker_top.png"
-  },
-  {
-    "name": "sculk_vein",
-    "rgba": [
-      8,
-      50,
-      60,
-      176
-    ],
-    "image": "sculk_vein.png"
-  },
-  {
-    "name": "sea_lantern",
-    "rgba": [
-      173,
-      200,
-      190,
-      255
-    ],
-    "image": "sea_lantern.png"
-  },
-  {
-    "name": "sea_pickle",
-    "rgba": [
-      89,
-      96,
-      38,
-      216
-    ],
-    "image": "sea_pickle.png"
-  },
-  {
-    "name": "seagrass",
-    "rgba": [
-      50,
-      127,
-      6,
-      76
-    ],
-    "image": "seagrass.png"
   },
   {
     "name": "shroomlight",
@@ -7407,167 +3892,12 @@
       71,
       255
     ],
+    "hsl": [
+      26.8235294117647,
+      85.85858585858587,
+      61.1764705882353
+    ],
     "image": "shroomlight.png"
-  },
-  {
-    "name": "shulker_box",
-    "rgba": [
-      139,
-      97,
-      139,
-      255
-    ],
-    "image": "shulker_box.png"
-  },
-  {
-    "name": "slime_block",
-    "rgba": [
-      111,
-      191,
-      92,
-      180
-    ],
-    "image": "slime_block.png"
-  },
-  {
-    "name": "small_amethyst_bud",
-    "rgba": [
-      135,
-      103,
-      191,
-      32
-    ],
-    "image": "small_amethyst_bud.png"
-  },
-  {
-    "name": "small_dripleaf_side",
-    "rgba": [
-      127,
-      127,
-      63,
-      4
-    ],
-    "image": "small_dripleaf_side.png"
-  },
-  {
-    "name": "small_dripleaf_stem_bottom",
-    "rgba": [
-      94,
-      124,
-      47,
-      43
-    ],
-    "image": "small_dripleaf_stem_bottom.png"
-  },
-  {
-    "name": "small_dripleaf_stem_top",
-    "rgba": [
-      94,
-      123,
-      43,
-      35
-    ],
-    "image": "small_dripleaf_stem_top.png"
-  },
-  {
-    "name": "small_dripleaf_top",
-    "rgba": [
-      93,
-      121,
-      44,
-      63
-    ],
-    "image": "small_dripleaf_top.png"
-  },
-  {
-    "name": "smithing_table_bottom",
-    "rgba": [
-      64,
-      28,
-      24,
-      255
-    ],
-    "image": "smithing_table_bottom.png"
-  },
-  {
-    "name": "smithing_table_front",
-    "rgba": [
-      56,
-      37,
-      38,
-      255
-    ],
-    "image": "smithing_table_front.png"
-  },
-  {
-    "name": "smithing_table_side",
-    "rgba": [
-      55,
-      35,
-      36,
-      255
-    ],
-    "image": "smithing_table_side.png"
-  },
-  {
-    "name": "smithing_table_top",
-    "rgba": [
-      57,
-      59,
-      71,
-      255
-    ],
-    "image": "smithing_table_top.png"
-  },
-  {
-    "name": "smoker_bottom",
-    "rgba": [
-      107,
-      106,
-      104,
-      255
-    ],
-    "image": "smoker_bottom.png"
-  },
-  {
-    "name": "smoker_front",
-    "rgba": [
-      88,
-      75,
-      58,
-      255
-    ],
-    "image": "smoker_front.png"
-  },
-  {
-    "name": "smoker_front_on",
-    "rgba": [
-      120,
-      98,
-      67,
-      255
-    ],
-    "image": "smoker_front_on.png"
-  },
-  {
-    "name": "smoker_side",
-    "rgba": [
-      103,
-      92,
-      76,
-      255
-    ],
-    "image": "smoker_side.png"
-  },
-  {
-    "name": "smoker_top",
-    "rgba": [
-      85,
-      84,
-      81,
-      255
-    ],
-    "image": "smoker_top.png"
   },
   {
     "name": "smooth_basalt",
@@ -7577,7 +3907,27 @@
       78,
       255
     ],
+    "hsl": [
+      249.99999999999997,
+      4.000000000000004,
+      29.411764705882355
+    ],
     "image": "smooth_basalt.png"
+  },
+  {
+    "name": "quartz_block_bottom",
+    "rgba": [
+      237,
+      230,
+      224,
+      255
+    ],
+    "hsl": [
+      27.692307692307704,
+      26.530612244897984,
+      90.3921568627451
+    ],
+    "image": "quartz_block_bottom.png"
   },
   {
     "name": "smooth_stone",
@@ -7586,6 +3936,11 @@
       159,
       159,
       255
+    ],
+    "hsl": [
+      0,
+      0,
+      62.35294117647059
     ],
     "image": "smooth_stone.png"
   },
@@ -7597,187 +3952,12 @@
       167,
       255
     ],
+    "hsl": [
+      0,
+      0,
+      65.49019607843137
+    ],
     "image": "smooth_stone_slab_side.png"
-  },
-  {
-    "name": "sniffer_egg_not_cracked_bottom",
-    "rgba": [
-      73,
-      24,
-      25,
-      167
-    ],
-    "image": "sniffer_egg_not_cracked_bottom.png"
-  },
-  {
-    "name": "sniffer_egg_not_cracked_east",
-    "rgba": [
-      93,
-      72,
-      49,
-      191
-    ],
-    "image": "sniffer_egg_not_cracked_east.png"
-  },
-  {
-    "name": "sniffer_egg_not_cracked_north",
-    "rgba": [
-      91,
-      76,
-      51,
-      223
-    ],
-    "image": "sniffer_egg_not_cracked_north.png"
-  },
-  {
-    "name": "sniffer_egg_not_cracked_south",
-    "rgba": [
-      92,
-      77,
-      51,
-      223
-    ],
-    "image": "sniffer_egg_not_cracked_south.png"
-  },
-  {
-    "name": "sniffer_egg_not_cracked_top",
-    "rgba": [
-      134,
-      105,
-      67,
-      167
-    ],
-    "image": "sniffer_egg_not_cracked_top.png"
-  },
-  {
-    "name": "sniffer_egg_not_cracked_west",
-    "rgba": [
-      89,
-      78,
-      52,
-      191
-    ],
-    "image": "sniffer_egg_not_cracked_west.png"
-  },
-  {
-    "name": "sniffer_egg_slightly_cracked_bottom",
-    "rgba": [
-      70,
-      24,
-      25,
-      167
-    ],
-    "image": "sniffer_egg_slightly_cracked_bottom.png"
-  },
-  {
-    "name": "sniffer_egg_slightly_cracked_east",
-    "rgba": [
-      89,
-      68,
-      46,
-      191
-    ],
-    "image": "sniffer_egg_slightly_cracked_east.png"
-  },
-  {
-    "name": "sniffer_egg_slightly_cracked_north",
-    "rgba": [
-      89,
-      72,
-      49,
-      223
-    ],
-    "image": "sniffer_egg_slightly_cracked_north.png"
-  },
-  {
-    "name": "sniffer_egg_slightly_cracked_south",
-    "rgba": [
-      90,
-      72,
-      49,
-      223
-    ],
-    "image": "sniffer_egg_slightly_cracked_south.png"
-  },
-  {
-    "name": "sniffer_egg_slightly_cracked_top",
-    "rgba": [
-      128,
-      96,
-      62,
-      167
-    ],
-    "image": "sniffer_egg_slightly_cracked_top.png"
-  },
-  {
-    "name": "sniffer_egg_slightly_cracked_west",
-    "rgba": [
-      88,
-      76,
-      50,
-      191
-    ],
-    "image": "sniffer_egg_slightly_cracked_west.png"
-  },
-  {
-    "name": "sniffer_egg_very_cracked_bottom",
-    "rgba": [
-      70,
-      24,
-      25,
-      167
-    ],
-    "image": "sniffer_egg_very_cracked_bottom.png"
-  },
-  {
-    "name": "sniffer_egg_very_cracked_east",
-    "rgba": [
-      85,
-      65,
-      45,
-      191
-    ],
-    "image": "sniffer_egg_very_cracked_east.png"
-  },
-  {
-    "name": "sniffer_egg_very_cracked_north",
-    "rgba": [
-      85,
-      67,
-      46,
-      223
-    ],
-    "image": "sniffer_egg_very_cracked_north.png"
-  },
-  {
-    "name": "sniffer_egg_very_cracked_south",
-    "rgba": [
-      84,
-      68,
-      48,
-      223
-    ],
-    "image": "sniffer_egg_very_cracked_south.png"
-  },
-  {
-    "name": "sniffer_egg_very_cracked_top",
-    "rgba": [
-      119,
-      88,
-      58,
-      167
-    ],
-    "image": "sniffer_egg_very_cracked_top.png"
-  },
-  {
-    "name": "sniffer_egg_very_cracked_west",
-    "rgba": [
-      82,
-      70,
-      48,
-      191
-    ],
-    "image": "sniffer_egg_very_cracked_west.png"
   },
   {
     "name": "snow",
@@ -7787,57 +3967,12 @@
       254,
       255
     ],
+    "hsl": [
+      180,
+      71.42857142857183,
+      98.62745098039215
+    ],
     "image": "snow.png"
-  },
-  {
-    "name": "soul_campfire_fire",
-    "rgba": [
-      86,
-      211,
-      215,
-      124
-    ],
-    "image": "soul_campfire_fire.png"
-  },
-  {
-    "name": "soul_campfire_log_lit",
-    "rgba": [
-      71,
-      111,
-      109,
-      255
-    ],
-    "image": "soul_campfire_log_lit.png"
-  },
-  {
-    "name": "soul_fire_0",
-    "rgba": [
-      68,
-      204,
-      208,
-      127
-    ],
-    "image": "soul_fire_0.png"
-  },
-  {
-    "name": "soul_fire_1",
-    "rgba": [
-      58,
-      193,
-      198,
-      117
-    ],
-    "image": "soul_fire_1.png"
-  },
-  {
-    "name": "soul_lantern",
-    "rgba": [
-      72,
-      99,
-      116,
-      105
-    ],
-    "image": "soul_lantern.png"
   },
   {
     "name": "soul_sand",
@@ -7846,6 +3981,11 @@
       62,
       51,
       255
+    ],
+    "hsl": [
+      22,
+      22.727272727272723,
+      25.882352941176467
     ],
     "image": "soul_sand.png"
   },
@@ -7857,17 +3997,12 @@
       47,
       255
     ],
-    "image": "soul_soil.png"
-  },
-  {
-    "name": "soul_torch",
-    "rgba": [
-      114,
-      114,
-      89,
-      20
+    "hsl": [
+      22.758620689655167,
+      23.57723577235772,
+      24.11764705882353
     ],
-    "image": "soul_torch.png"
+    "image": "soul_soil.png"
   },
   {
     "name": "spawner",
@@ -7876,6 +4011,11 @@
       46,
       62,
       175
+    ],
+    "hsl": [
+      216.92307692307693,
+      26.53061224489796,
+      19.215686274509803
     ],
     "image": "spawner.png"
   },
@@ -7887,47 +4027,12 @@
       75,
       255
     ],
+    "hsl": [
+      58.01652892561983,
+      50.627615062761514,
+      53.13725490196079
+    ],
     "image": "sponge.png"
-  },
-  {
-    "name": "spore_blossom",
-    "rgba": [
-      205,
-      96,
-      158,
-      124
-    ],
-    "image": "spore_blossom.png"
-  },
-  {
-    "name": "spore_blossom_base",
-    "rgba": [
-      112,
-      142,
-      50,
-      158
-    ],
-    "image": "spore_blossom_base.png"
-  },
-  {
-    "name": "spruce_door_bottom",
-    "rgba": [
-      106,
-      80,
-      49,
-      255
-    ],
-    "image": "spruce_door_bottom.png"
-  },
-  {
-    "name": "spruce_door_top",
-    "rgba": [
-      106,
-      80,
-      49,
-      255
-    ],
-    "image": "spruce_door_top.png"
   },
   {
     "name": "spruce_leaves",
@@ -7937,17 +4042,12 @@
       126,
       159
     ],
-    "image": "spruce_leaves.png"
-  },
-  {
-    "name": "spruce_log",
-    "rgba": [
-      59,
-      38,
-      17,
-      255
+    "hsl": [
+      0,
+      0,
+      49.411764705882355
     ],
-    "image": "spruce_log.png"
+    "image": "spruce_leaves.png"
   },
   {
     "name": "spruce_log_top",
@@ -7957,7 +4057,27 @@
       47,
       255
     ],
+    "hsl": [
+      31.93548387096774,
+      39.74358974358974,
+      30.58823529411765
+    ],
     "image": "spruce_log_top.png"
+  },
+  {
+    "name": "spruce_log",
+    "rgba": [
+      59,
+      38,
+      17,
+      255
+    ],
+    "hsl": [
+      29.999999999999993,
+      55.26315789473685,
+      14.901960784313726
+    ],
+    "image": "spruce_log.png"
   },
   {
     "name": "spruce_planks",
@@ -7967,27 +4087,12 @@
       49,
       255
     ],
+    "hsl": [
+      32.72727272727273,
+      40.24390243902438,
+      32.15686274509804
+    ],
     "image": "spruce_planks.png"
-  },
-  {
-    "name": "spruce_sapling",
-    "rgba": [
-      46,
-      61,
-      36,
-      83
-    ],
-    "image": "spruce_sapling.png"
-  },
-  {
-    "name": "spruce_trapdoor",
-    "rgba": [
-      104,
-      79,
-      48,
-      255
-    ],
-    "image": "spruce_trapdoor.png"
   },
   {
     "name": "stone",
@@ -7996,6 +4101,11 @@
       126,
       126,
       255
+    ],
+    "hsl": [
+      0,
+      0,
+      49.411764705882355
     ],
     "image": "stone.png"
   },
@@ -8007,57 +4117,12 @@
       122,
       255
     ],
+    "hsl": [
+      0,
+      0,
+      47.84313725490196
+    ],
     "image": "stone_bricks.png"
-  },
-  {
-    "name": "stonecutter_bottom",
-    "rgba": [
-      118,
-      118,
-      118,
-      255
-    ],
-    "image": "stonecutter_bottom.png"
-  },
-  {
-    "name": "stonecutter_saw",
-    "rgba": [
-      220,
-      220,
-      220,
-      82
-    ],
-    "image": "stonecutter_saw.png"
-  },
-  {
-    "name": "stonecutter_side",
-    "rgba": [
-      106,
-      90,
-      77,
-      144
-    ],
-    "image": "stonecutter_side.png"
-  },
-  {
-    "name": "stonecutter_top",
-    "rgba": [
-      123,
-      119,
-      111,
-      255
-    ],
-    "image": "stonecutter_top.png"
-  },
-  {
-    "name": "stripped_acacia_log",
-    "rgba": [
-      175,
-      93,
-      60,
-      255
-    ],
-    "image": "stripped_acacia_log.png"
   },
   {
     "name": "stripped_acacia_log_top",
@@ -8067,17 +4132,27 @@
       52,
       255
     ],
+    "hsl": [
+      20.526315789473685,
+      39.041095890410965,
+      42.74509803921569
+    ],
     "image": "stripped_acacia_log_top.png"
   },
   {
-    "name": "stripped_bamboo_block",
+    "name": "stripped_acacia_log",
     "rgba": [
-      193,
-      173,
-      80,
+      175,
+      93,
+      60,
       255
     ],
-    "image": "stripped_bamboo_block.png"
+    "hsl": [
+      17.217391304347824,
+      41.81818181818182,
+      46.07843137254902
+    ],
+    "image": "stripped_acacia_log.png"
   },
   {
     "name": "stripped_bamboo_block_top",
@@ -8087,17 +4162,27 @@
       73,
       255
     ],
+    "hsl": [
+      49.142857142857146,
+      40.54054054054054,
+      49.2156862745098
+    ],
     "image": "stripped_bamboo_block_top.png"
   },
   {
-    "name": "stripped_birch_log",
+    "name": "stripped_bamboo_block",
     "rgba": [
-      197,
-      176,
-      118,
+      193,
+      173,
+      80,
       255
     ],
-    "image": "stripped_birch_log.png"
+    "hsl": [
+      49.380530973451336,
+      47.679324894514764,
+      53.529411764705884
+    ],
+    "image": "stripped_bamboo_block.png"
   },
   {
     "name": "stripped_birch_log_top",
@@ -8107,17 +4192,27 @@
       116,
       255
     ],
+    "hsl": [
+      44.80000000000001,
+      36.94581280788177,
+      60.19607843137255
+    ],
     "image": "stripped_birch_log_top.png"
   },
   {
-    "name": "stripped_cherry_log",
+    "name": "stripped_birch_log",
     "rgba": [
-      215,
-      145,
-      149,
+      197,
+      176,
+      118,
       255
     ],
-    "image": "stripped_cherry_log.png"
+    "hsl": [
+      44.0506329113924,
+      40.51282051282052,
+      61.76470588235294
+    ],
+    "image": "stripped_birch_log.png"
   },
   {
     "name": "stripped_cherry_log_top",
@@ -8127,7 +4222,27 @@
       158,
       255
     ],
+    "hsl": [
+      6.66666666666667,
+      48.09160305343512,
+      74.31372549019608
+    ],
     "image": "stripped_cherry_log_top.png"
+  },
+  {
+    "name": "stripped_cherry_log",
+    "rgba": [
+      215,
+      145,
+      149,
+      255
+    ],
+    "hsl": [
+      356.57142857142856,
+      46.666666666666664,
+      70.58823529411764
+    ],
+    "image": "stripped_cherry_log.png"
   },
   {
     "name": "stripped_crimson_stem",
@@ -8136,6 +4251,11 @@
       57,
       90,
       255
+    ],
+    "hsl": [
+      335.25,
+      25.316455696202528,
+      38.03921568627451
     ],
     "image": "stripped_crimson_stem.png"
   },
@@ -8147,17 +4267,12 @@
       83,
       255
     ],
-    "image": "stripped_crimson_stem_top.png"
-  },
-  {
-    "name": "stripped_dark_oak_log",
-    "rgba": [
-      73,
-      57,
-      36,
-      255
+    "hsl": [
+      335.45454545454544,
+      37.07865168539327,
+      34.90196078431372
     ],
-    "image": "stripped_dark_oak_log.png"
+    "image": "stripped_crimson_stem_top.png"
   },
   {
     "name": "stripped_dark_oak_log_top",
@@ -8167,17 +4282,27 @@
       23,
       255
     ],
+    "hsl": [
+      29.302325581395348,
+      48.31460674157303,
+      17.450980392156865
+    ],
     "image": "stripped_dark_oak_log_top.png"
   },
   {
-    "name": "stripped_jungle_log",
+    "name": "stripped_dark_oak_log",
     "rgba": [
-      171,
-      133,
-      85,
+      73,
+      57,
+      36,
       255
     ],
-    "image": "stripped_jungle_log.png"
+    "hsl": [
+      34.05405405405406,
+      33.944954128440365,
+      21.372549019607842
+    ],
+    "image": "stripped_dark_oak_log.png"
   },
   {
     "name": "stripped_jungle_log_top",
@@ -8187,17 +4312,27 @@
       82,
       255
     ],
+    "hsl": [
+      29.28571428571428,
+      32.06106870229008,
+      48.62745098039216
+    ],
     "image": "stripped_jungle_log_top.png"
   },
   {
-    "name": "stripped_mangrove_log",
+    "name": "stripped_jungle_log",
     "rgba": [
-      120,
-      54,
-      48,
+      171,
+      133,
+      85,
       255
     ],
-    "image": "stripped_mangrove_log.png"
+    "hsl": [
+      33.488372093023266,
+      33.85826771653543,
+      50.19607843137255
+    ],
+    "image": "stripped_jungle_log.png"
   },
   {
     "name": "stripped_mangrove_log_top",
@@ -8207,17 +4342,27 @@
       43,
       255
     ],
+    "hsl": [
+      0.909090909090906,
+      43.421052631578945,
+      29.80392156862745
+    ],
     "image": "stripped_mangrove_log_top.png"
   },
   {
-    "name": "stripped_oak_log",
+    "name": "stripped_mangrove_log",
     "rgba": [
-      177,
-      144,
-      86,
+      120,
+      54,
+      48,
       255
     ],
-    "image": "stripped_oak_log.png"
+    "hsl": [
+      5,
+      42.857142857142854,
+      32.94117647058823
+    ],
+    "image": "stripped_mangrove_log.png"
   },
   {
     "name": "stripped_oak_log_top",
@@ -8227,17 +4372,27 @@
       77,
       255
     ],
+    "hsl": [
+      38.31325301204819,
+      30.402930402930405,
+      46.470588235294116
+    ],
     "image": "stripped_oak_log_top.png"
   },
   {
-    "name": "stripped_spruce_log",
+    "name": "stripped_oak_log",
     "rgba": [
-      116,
-      90,
-      52,
+      177,
+      144,
+      86,
       255
     ],
-    "image": "stripped_spruce_log.png"
+    "hsl": [
+      38.24175824175824,
+      36.84210526315789,
+      51.56862745098039
+    ],
+    "image": "stripped_oak_log.png"
   },
   {
     "name": "stripped_spruce_log_top",
@@ -8247,7 +4402,27 @@
       47,
       255
     ],
+    "hsl": [
+      33.559322033898304,
+      38.56209150326797,
+      30.000000000000004
+    ],
     "image": "stripped_spruce_log_top.png"
+  },
+  {
+    "name": "stripped_spruce_log",
+    "rgba": [
+      116,
+      90,
+      52,
+      255
+    ],
+    "hsl": [
+      35.62500000000001,
+      38.095238095238095,
+      32.94117647058823
+    ],
+    "image": "stripped_spruce_log.png"
   },
   {
     "name": "stripped_warped_stem",
@@ -8256,6 +4431,11 @@
       151,
       148,
       255
+    ],
+    "hsl": [
+      178.06451612903226,
+      30.89700996677741,
+      40.98039215686274
     ],
     "image": "stripped_warped_stem.png"
   },
@@ -8267,6 +4447,11 @@
       124,
       255
     ],
+    "hsl": [
+      176.10389610389612,
+      23.404255319148934,
+      35.49019607843137
+    ],
     "image": "stripped_warped_stem_top.png"
   },
   {
@@ -8276,6 +4461,11 @@
       74,
       90,
       255
+    ],
+    "hsl": [
+      296.24999999999994,
+      9.75609756097561,
+      32.15686274509804
     ],
     "image": "structure_block.png"
   },
@@ -8287,6 +4477,11 @@
       70,
       255
     ],
+    "hsl": [
+      290,
+      9.375000000000005,
+      25.098039215686274
+    ],
     "image": "structure_block_corner.png"
   },
   {
@@ -8296,6 +4491,11 @@
       66,
       81,
       255
+    ],
+    "hsl": [
+      292,
+      10.204081632653054,
+      28.823529411764703
     ],
     "image": "structure_block_data.png"
   },
@@ -8307,6 +4507,11 @@
       71,
       255
     ],
+    "hsl": [
+      290.7692307692308,
+      10.077519379844963,
+      25.294117647058822
+    ],
     "image": "structure_block_load.png"
   },
   {
@@ -8317,57 +4522,12 @@
       88,
       255
     ],
+    "hsl": [
+      292.5,
+      10,
+      31.372549019607842
+    ],
     "image": "structure_block_save.png"
-  },
-  {
-    "name": "sugar_cane",
-    "rgba": [
-      149,
-      193,
-      102,
-      140
-    ],
-    "image": "sugar_cane.png"
-  },
-  {
-    "name": "sunflower_back",
-    "rgba": [
-      53,
-      127,
-      34,
-      52
-    ],
-    "image": "sunflower_back.png"
-  },
-  {
-    "name": "sunflower_bottom",
-    "rgba": [
-      58,
-      134,
-      31,
-      57
-    ],
-    "image": "sunflower_bottom.png"
-  },
-  {
-    "name": "sunflower_front",
-    "rgba": [
-      245,
-      196,
-      53,
-      52
-    ],
-    "image": "sunflower_front.png"
-  },
-  {
-    "name": "sunflower_top",
-    "rgba": [
-      49,
-      131,
-      24,
-      31
-    ],
-    "image": "sunflower_top.png"
   },
   {
     "name": "suspicious_gravel_0",
@@ -8376,6 +4536,11 @@
       125,
       124,
       255
+    ],
+    "hsl": [
+      9.999999999999977,
+      2.3437499999999973,
+      49.80392156862745
     ],
     "image": "suspicious_gravel_0.png"
   },
@@ -8387,6 +4552,11 @@
       123,
       255
     ],
+    "hsl": [
+      9.999999999999977,
+      2.3255813953488342,
+      49.411764705882355
+    ],
     "image": "suspicious_gravel_1.png"
   },
   {
@@ -8396,6 +4566,11 @@
       121,
       120,
       255
+    ],
+    "hsl": [
+      9.999999999999952,
+      2.4390243902439055,
+      48.23529411764706
     ],
     "image": "suspicious_gravel_2.png"
   },
@@ -8407,6 +4582,11 @@
       118,
       255
     ],
+    "hsl": [
+      9.999999999999977,
+      2.4793388429752037,
+      47.45098039215686
+    ],
     "image": "suspicious_gravel_3.png"
   },
   {
@@ -8416,6 +4596,11 @@
       204,
       159,
       255
+    ],
+    "hsl": [
+      45.762711864406796,
+      44.3609022556391,
+      73.92156862745098
     ],
     "image": "suspicious_sand_0.png"
   },
@@ -8427,6 +4612,11 @@
       157,
       255
     ],
+    "hsl": [
+      45.99999999999999,
+      44.11764705882353,
+      73.33333333333334
+    ],
     "image": "suspicious_sand_1.png"
   },
   {
@@ -8436,6 +4626,11 @@
       199,
       151,
       255
+    ],
+    "hsl": [
+      45.71428571428571,
+      43.44827586206897,
+      71.56862745098039
     ],
     "image": "suspicious_sand_2.png"
   },
@@ -8447,97 +4642,12 @@
       145,
       255
     ],
+    "hsl": [
+      43.63636363636365,
+      42.85714285714285,
+      69.80392156862744
+    ],
     "image": "suspicious_sand_3.png"
-  },
-  {
-    "name": "sweet_berry_bush_stage0",
-    "rgba": [
-      43,
-      91,
-      57,
-      53
-    ],
-    "image": "sweet_berry_bush_stage0.png"
-  },
-  {
-    "name": "sweet_berry_bush_stage1",
-    "rgba": [
-      48,
-      94,
-      57,
-      138
-    ],
-    "image": "sweet_berry_bush_stage1.png"
-  },
-  {
-    "name": "sweet_berry_bush_stage2",
-    "rgba": [
-      60,
-      88,
-      56,
-      144
-    ],
-    "image": "sweet_berry_bush_stage2.png"
-  },
-  {
-    "name": "sweet_berry_bush_stage3",
-    "rgba": [
-      68,
-      77,
-      50,
-      161
-    ],
-    "image": "sweet_berry_bush_stage3.png"
-  },
-  {
-    "name": "tall_grass_bottom",
-    "rgba": [
-      128,
-      128,
-      128,
-      186
-    ],
-    "image": "tall_grass_bottom.png"
-  },
-  {
-    "name": "tall_grass_top",
-    "rgba": [
-      150,
-      150,
-      150,
-      90
-    ],
-    "image": "tall_grass_top.png"
-  },
-  {
-    "name": "tall_seagrass_bottom",
-    "rgba": [
-      45,
-      117,
-      3,
-      134
-    ],
-    "image": "tall_seagrass_bottom.png"
-  },
-  {
-    "name": "tall_seagrass_top",
-    "rgba": [
-      59,
-      138,
-      15,
-      81
-    ],
-    "image": "tall_seagrass_top.png"
-  },
-  {
-    "name": "target_side",
-    "rgba": [
-      229,
-      176,
-      168,
-      255
-    ],
-    "image": "target_side.png"
   },
   {
     "name": "target_top",
@@ -8547,7 +4657,27 @@
       158,
       255
     ],
+    "hsl": [
+      10.588235294117636,
+      53.968253968253954,
+      75.29411764705883
+    ],
     "image": "target_top.png"
+  },
+  {
+    "name": "target_side",
+    "rgba": [
+      229,
+      176,
+      168,
+      255
+    ],
+    "hsl": [
+      7.868852459016392,
+      53.982300884955755,
+      77.84313725490196
+    ],
+    "image": "target_side.png"
   },
   {
     "name": "terracotta",
@@ -8556,6 +4686,11 @@
       94,
       68,
       255
+    ],
+    "hsl": [
+      18.571428571428577,
+      28.965517241379313,
+      43.13725490196079
     ],
     "image": "terracotta.png"
   },
@@ -8567,107 +4702,12 @@
       46,
       131
     ],
+    "hsl": [
+      285,
+      9.523809523809524,
+      16.470588235294116
+    ],
     "image": "tinted_glass.png"
-  },
-  {
-    "name": "tnt_bottom",
-    "rgba": [
-      167,
-      67,
-      53,
-      255
-    ],
-    "image": "tnt_bottom.png"
-  },
-  {
-    "name": "tnt_side",
-    "rgba": [
-      182,
-      88,
-      84,
-      255
-    ],
-    "image": "tnt_side.png"
-  },
-  {
-    "name": "tnt_top",
-    "rgba": [
-      143,
-      62,
-      54,
-      255
-    ],
-    "image": "tnt_top.png"
-  },
-  {
-    "name": "torch",
-    "rgba": [
-      140,
-      114,
-      63,
-      20
-    ],
-    "image": "torch.png"
-  },
-  {
-    "name": "torchflower",
-    "rgba": [
-      99,
-      99,
-      76,
-      97
-    ],
-    "image": "torchflower.png"
-  },
-  {
-    "name": "torchflower_crop_stage0",
-    "rgba": [
-      29,
-      98,
-      68,
-      26
-    ],
-    "image": "torchflower_crop_stage0.png"
-  },
-  {
-    "name": "torchflower_crop_stage1",
-    "rgba": [
-      63,
-      108,
-      75,
-      68
-    ],
-    "image": "torchflower_crop_stage1.png"
-  },
-  {
-    "name": "tripwire",
-    "rgba": [
-      132,
-      132,
-      132,
-      27
-    ],
-    "image": "tripwire.png"
-  },
-  {
-    "name": "tripwire_hook",
-    "rgba": [
-      144,
-      133,
-      116,
-      46
-    ],
-    "image": "tripwire_hook.png"
-  },
-  {
-    "name": "tube_coral",
-    "rgba": [
-      48,
-      83,
-      196,
-      153
-    ],
-    "image": "tube_coral.png"
   },
   {
     "name": "tube_coral_block",
@@ -8677,17 +4717,12 @@
       207,
       255
     ],
-    "image": "tube_coral_block.png"
-  },
-  {
-    "name": "tube_coral_fan",
-    "rgba": [
-      51,
-      90,
-      209,
-      79
+    "hsl": [
+      225.56962025316457,
+      62.20472440944882,
+      50.19607843137255
     ],
-    "image": "tube_coral_fan.png"
+    "image": "tube_coral_block.png"
   },
   {
     "name": "tuff",
@@ -8697,67 +4732,12 @@
       103,
       255
     ],
+    "hsl": [
+      69.99999999999997,
+      2.83018867924528,
+      41.56862745098039
+    ],
     "image": "tuff.png"
-  },
-  {
-    "name": "turtle_egg",
-    "rgba": [
-      227,
-      226,
-      191,
-      132
-    ],
-    "image": "turtle_egg.png"
-  },
-  {
-    "name": "turtle_egg_slightly_cracked",
-    "rgba": [
-      218,
-      214,
-      177,
-      132
-    ],
-    "image": "turtle_egg_slightly_cracked.png"
-  },
-  {
-    "name": "turtle_egg_very_cracked",
-    "rgba": [
-      208,
-      202,
-      166,
-      132
-    ],
-    "image": "turtle_egg_very_cracked.png"
-  },
-  {
-    "name": "twisting_vines",
-    "rgba": [
-      21,
-      143,
-      125,
-      71
-    ],
-    "image": "twisting_vines.png"
-  },
-  {
-    "name": "twisting_vines_plant",
-    "rgba": [
-      19,
-      136,
-      121,
-      90
-    ],
-    "image": "twisting_vines_plant.png"
-  },
-  {
-    "name": "verdant_froglight_side",
-    "rgba": [
-      211,
-      235,
-      208,
-      255
-    ],
-    "image": "verdant_froglight_side.png"
   },
   {
     "name": "verdant_froglight_top",
@@ -8767,67 +4747,27 @@
       228,
       255
     ],
+    "hsl": [
+      116.25000000000001,
+      42.10526315789476,
+      92.54901960784314
+    ],
     "image": "verdant_froglight_top.png"
   },
   {
-    "name": "vine",
+    "name": "verdant_froglight_side",
     "rgba": [
-      116,
-      116,
-      116,
-      145
-    ],
-    "image": "vine.png"
-  },
-  {
-    "name": "warped_door_bottom",
-    "rgba": [
-      43,
-      119,
-      112,
+      211,
+      235,
+      208,
       255
     ],
-    "image": "warped_door_bottom.png"
-  },
-  {
-    "name": "warped_door_top",
-    "rgba": [
-      45,
-      127,
-      120,
-      255
+    "hsl": [
+      113.33333333333336,
+      40.29850746268656,
+      86.86274509803921
     ],
-    "image": "warped_door_top.png"
-  },
-  {
-    "name": "warped_fungus",
-    "rgba": [
-      76,
-      107,
-      86,
-      50
-    ],
-    "image": "warped_fungus.png"
-  },
-  {
-    "name": "warped_nylium",
-    "rgba": [
-      43,
-      114,
-      101,
-      255
-    ],
-    "image": "warped_nylium.png"
-  },
-  {
-    "name": "warped_nylium_side",
-    "rgba": [
-      73,
-      62,
-      59,
-      255
-    ],
-    "image": "warped_nylium_side.png"
+    "image": "verdant_froglight_side.png"
   },
   {
     "name": "warped_planks",
@@ -8837,37 +4777,12 @@
       99,
       255
     ],
+    "hsl": [
+      174.19354838709677,
+      41.891891891891895,
+      29.01960784313725
+    ],
     "image": "warped_planks.png"
-  },
-  {
-    "name": "warped_roots",
-    "rgba": [
-      19,
-      138,
-      124,
-      92
-    ],
-    "image": "warped_roots.png"
-  },
-  {
-    "name": "warped_roots_pot",
-    "rgba": [
-      21,
-      136,
-      122,
-      71
-    ],
-    "image": "warped_roots_pot.png"
-  },
-  {
-    "name": "warped_stem",
-    "rgba": [
-      58,
-      59,
-      77,
-      255
-    ],
-    "image": "warped_stem.png"
   },
   {
     "name": "warped_stem_top",
@@ -8877,17 +4792,12 @@
       110,
       255
     ],
-    "image": "warped_stem_top.png"
-  },
-  {
-    "name": "warped_trapdoor",
-    "rgba": [
-      47,
-      119,
-      112,
-      200
+    "hsl": [
+      180,
+      34.96932515337423,
+      31.960784313725494
     ],
-    "image": "warped_trapdoor.png"
+    "image": "warped_stem_top.png"
   },
   {
     "name": "warped_wart_block",
@@ -8897,37 +4807,12 @@
       121,
       255
     ],
+    "hsl": [
+      180.6122448979592,
+      68.05555555555554,
+      28.235294117647058
+    ],
     "image": "warped_wart_block.png"
-  },
-  {
-    "name": "water_flow",
-    "rgba": [
-      170,
-      170,
-      170,
-      180
-    ],
-    "image": "water_flow.png"
-  },
-  {
-    "name": "water_overlay",
-    "rgba": [
-      164,
-      164,
-      164,
-      180
-    ],
-    "image": "water_overlay.png"
-  },
-  {
-    "name": "water_still",
-    "rgba": [
-      178,
-      178,
-      178,
-      180
-    ],
-    "image": "water_still.png"
   },
   {
     "name": "weathered_copper",
@@ -8936,6 +4821,11 @@
       153,
       110,
       255
+    ],
+    "hsl": [
+      122.66666666666669,
+      18.072289156626503,
+      51.17647058823529
     ],
     "image": "weathered_copper.png"
   },
@@ -8947,27 +4837,12 @@
       107,
       255
     ],
+    "hsl": [
+      116.84210526315792,
+      14.728682170542633,
+      49.411764705882355
+    ],
     "image": "weathered_cut_copper.png"
-  },
-  {
-    "name": "weeping_vines",
-    "rgba": [
-      100,
-      0,
-      0,
-      28
-    ],
-    "image": "weeping_vines.png"
-  },
-  {
-    "name": "weeping_vines_plant",
-    "rgba": [
-      133,
-      15,
-      11,
-      115
-    ],
-    "image": "weeping_vines_plant.png"
   },
   {
     "name": "wet_sponge",
@@ -8977,107 +4852,12 @@
       70,
       255
     ],
+    "hsl": [
+      65.40540540540542,
+      42.85714285714286,
+      49.21568627450981
+    ],
     "image": "wet_sponge.png"
-  },
-  {
-    "name": "wheat_stage0",
-    "rgba": [
-      0,
-      145,
-      0,
-      7
-    ],
-    "image": "wheat_stage0.png"
-  },
-  {
-    "name": "wheat_stage1",
-    "rgba": [
-      0,
-      127,
-      0,
-      16
-    ],
-    "image": "wheat_stage1.png"
-  },
-  {
-    "name": "wheat_stage2",
-    "rgba": [
-      7,
-      131,
-      15,
-      33
-    ],
-    "image": "wheat_stage2.png"
-  },
-  {
-    "name": "wheat_stage3",
-    "rgba": [
-      8,
-      131,
-      13,
-      58
-    ],
-    "image": "wheat_stage3.png"
-  },
-  {
-    "name": "wheat_stage4",
-    "rgba": [
-      38,
-      132,
-      19,
-      79
-    ],
-    "image": "wheat_stage4.png"
-  },
-  {
-    "name": "wheat_stage5",
-    "rgba": [
-      63,
-      127,
-      19,
-      104
-    ],
-    "image": "wheat_stage5.png"
-  },
-  {
-    "name": "wheat_stage6",
-    "rgba": [
-      141,
-      133,
-      36,
-      126
-    ],
-    "image": "wheat_stage6.png"
-  },
-  {
-    "name": "wheat_stage7",
-    "rgba": [
-      166,
-      150,
-      73,
-      139
-    ],
-    "image": "wheat_stage7.png"
-  },
-  {
-    "name": "white_candle",
-    "rgba": [
-      206,
-      218,
-      218,
-      21
-    ],
-    "image": "white_candle.png"
-  },
-  {
-    "name": "white_candle_lit",
-    "rgba": [
-      218,
-      218,
-      206,
-      21
-    ],
-    "image": "white_candle_lit.png"
   },
   {
     "name": "white_concrete",
@@ -9086,6 +4866,11 @@
       213,
       214,
       255
+    ],
+    "hsl": [
+      188.57142857142856,
+      7.865168539325844,
+      82.54901960784314
     ],
     "image": "white_concrete.png"
   },
@@ -9097,27 +4882,12 @@
       228,
       255
     ],
+    "hsl": [
+      210.00000000000043,
+      3.571428571428607,
+      89.01960784313725
+    ],
     "image": "white_concrete_powder.png"
-  },
-  {
-    "name": "white_glazed_terracotta",
-    "rgba": [
-      188,
-      212,
-      203,
-      255
-    ],
-    "image": "white_glazed_terracotta.png"
-  },
-  {
-    "name": "white_shulker_box",
-    "rgba": [
-      215,
-      220,
-      221,
-      255
-    ],
-    "image": "white_shulker_box.png"
   },
   {
     "name": "white_stained_glass",
@@ -9127,17 +4897,12 @@
       255,
       117
     ],
-    "image": "white_stained_glass.png"
-  },
-  {
-    "name": "white_stained_glass_pane_top",
-    "rgba": [
-      246,
-      246,
-      246,
-      29
+    "hsl": [
+      0,
+      0,
+      100
     ],
-    "image": "white_stained_glass_pane_top.png"
+    "image": "white_stained_glass.png"
   },
   {
     "name": "white_terracotta",
@@ -9147,17 +4912,12 @@
       161,
       255
     ],
-    "image": "white_terracotta.png"
-  },
-  {
-    "name": "white_tulip",
-    "rgba": [
-      90,
-      164,
-      68,
-      45
+    "hsl": [
+      20.81632653061224,
+      35.25179856115107,
+      72.74509803921568
     ],
-    "image": "white_tulip.png"
+    "image": "white_terracotta.png"
   },
   {
     "name": "white_wool",
@@ -9167,37 +4927,12 @@
       237,
       255
     ],
+    "hsl": [
+      199.99999999999983,
+      7.692307692307743,
+      92.3529411764706
+    ],
     "image": "white_wool.png"
-  },
-  {
-    "name": "wither_rose",
-    "rgba": [
-      41,
-      41,
-      20,
-      37
-    ],
-    "image": "wither_rose.png"
-  },
-  {
-    "name": "yellow_candle",
-    "rgba": [
-      206,
-      157,
-      48,
-      21
-    ],
-    "image": "yellow_candle.png"
-  },
-  {
-    "name": "yellow_candle_lit",
-    "rgba": [
-      218,
-      182,
-      72,
-      21
-    ],
-    "image": "yellow_candle_lit.png"
   },
   {
     "name": "yellow_concrete",
@@ -9206,6 +4941,11 @@
       175,
       21,
       255
+    ],
+    "hsl": [
+      42.00000000000001,
+      88.70967741935483,
+      51.37254901960784
     ],
     "image": "yellow_concrete.png"
   },
@@ -9217,27 +4957,12 @@
       55,
       255
     ],
+    "hsl": [
+      48.53932584269663,
+      80.18018018018017,
+      56.470588235294116
+    ],
     "image": "yellow_concrete_powder.png"
-  },
-  {
-    "name": "yellow_glazed_terracotta",
-    "rgba": [
-      234,
-      192,
-      89,
-      255
-    ],
-    "image": "yellow_glazed_terracotta.png"
-  },
-  {
-    "name": "yellow_shulker_box",
-    "rgba": [
-      248,
-      189,
-      29,
-      255
-    ],
-    "image": "yellow_shulker_box.png"
   },
   {
     "name": "yellow_stained_glass",
@@ -9247,17 +4972,12 @@
       50,
       117
     ],
-    "image": "yellow_stained_glass.png"
-  },
-  {
-    "name": "yellow_stained_glass_pane_top",
-    "rgba": [
-      219,
-      219,
-      43,
-      29
+    "hsl": [
+      60,
+      79.03930131004367,
+      55.09803921568628
     ],
-    "image": "yellow_stained_glass_pane_top.png"
+    "image": "yellow_stained_glass.png"
   },
   {
     "name": "yellow_terracotta",
@@ -9266,6 +4986,11 @@
       133,
       35,
       255
+    ],
+    "hsl": [
+      38.94039735099339,
+      52.249134948096874,
+      43.333333333333336
     ],
     "image": "yellow_terracotta.png"
   },
@@ -9276,6 +5001,11 @@
       198,
       40,
       255
+    ],
+    "hsl": [
+      45.35885167464115,
+      94.57013574660633,
+      56.666666666666664
     ],
     "image": "yellow_wool.png"
   }
