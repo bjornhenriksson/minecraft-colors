@@ -8,3 +8,5 @@ The original dataset and images was taken from [https://github.com/PrismarineJS/
 I used HSL to easily calculate triadic colors.
 
 (its very WIP)
+
+## Try it: [https://bjornhenriksson.github.io/minecraft-colors/](https://bjornhenriksson.github.io/minecraft-colors/)
