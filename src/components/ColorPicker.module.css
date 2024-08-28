@@ -1,0 +1,14 @@
+.picker {
+  background: none;
+  border-color: transparent;
+  border-radius: var(--action-border-radius);
+  padding: 0;
+  height: 3rem;
+  width: 4.5rem;
+}
+
+.picker::-webkit-color-swatch {
+  border: var(--action-border-color);
+  border-radius: var(--action-border-radius);
+  padding: 0;
+}

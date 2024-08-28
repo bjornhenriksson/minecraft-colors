@@ -4,14 +4,34 @@ import styles from "./Blocks.module.css";
 
 interface BlocksProps {
   blocks: BlockType[];
+  label: string;
+  columns?: number;
+  span?: string;
 }
 
-export function Blocks({ blocks }: BlocksProps) {
+export function Blocks({
+  blocks,
+  label,
+  columns = 3,
+  span = "auto",
+}: BlocksProps) {
   return (
-    <div className={styles.blocks}>
-      {blocks.map((block, index) => (
-        <Block key={index} block={block} />
-      ))}
+    <div
+      style={{
+        gridColumn: span,
+      }}
+    >
+      <h2>{label}</h2>
+      <div
+        className={styles.blocks}
+        style={{
+          gridTemplateColumns: `repeat(${columns}, 1fr)`,
+        }}
+      >
+        {blocks.map((block, index) => (
+          <Block key={index} block={block} />
+        ))}
+      </div>
     </div>
   );
 }

@@ -3,9 +3,11 @@ import { createCanvas, loadImage } from "canvas";
 import * as fs from "node:fs/promises";
 import models from "./blocks_models.json";
 
-async function getDominantColor(image: string) {
-  const canvas = createCanvas(1, 1);
-  const ctx = canvas.getContext("2d");
+/**
+ * Lazy method of getting dominant color via rendering
+ * image as 1x1 pixel and letting canvas decide
+ * what the dominant color is. */
+async function lazyDominantColorHSL(image: string) {
   const imgPath = `./public/blocks/${image}`;
 
   try {
@@ -15,9 +17,11 @@ async function getDominantColor(image: string) {
       throw new Error(`Image ${image} is not square`);
     }
 
+    const canvas = createCanvas(1, 1);
+    const ctx = canvas.getContext("2d");
     ctx.drawImage(image, 0, 0, 1, 1);
     const { data } = ctx.getImageData(0, 0, 1, 1);
-    return Array.from(data);
+    return rgbToHsl(data[0], data[1], data[2]);
   } catch (error) {
     console.error(error);
   }
@@ -52,13 +56,11 @@ async function run() {
     for (const uri of Object.values(block.textures)) {
       const name = uri.split("/")[1];
       const image = `${name}.png`;
-      const rgba = await getDominantColor(image);
-
+      const hsl = await lazyDominantColorHSL(image);
       const isNameExist = colors.find((color) => color.name === name);
 
-      if (rgba && !isNameExist) {
-        const hsl = rgbToHsl(rgba[0], rgba[1], rgba[2]);
-        colors.push({ name, rgba, hsl, image });
+      if (hsl && !isNameExist) {
+        colors.push({ name, hsl, image });
       }
     }
   }
