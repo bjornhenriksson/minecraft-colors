@@ -3,25 +3,32 @@ img {
 }
 
 .app {
-  display: grid;
-  grid-template-columns: [sidebar] 1fr [main] 3fr;
-  width: 100vw;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1rem 3rem;
+  box-sizing: border-box;
 }
 
-.sidebar {
-  position: sticky;
+.bar {
   top: 0;
+  padding: 5rem 0 1rem;
   display: grid;
-  gap: 1rem;
   height: fit-content;
-  padding: 2rem;
 }
 
 .main {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
-  padding: 2rem;
-  border-left: 3px solid var(--action-background);
-  /* background-color: var(--action-background); */
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+.sub {
+  font-size: 1.2rem;
+}
+
+@media screen and (min-width: 768px) {
+  .main {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }

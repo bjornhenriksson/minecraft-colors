@@ -3,7 +3,7 @@ import { BlockType } from "../types";
 export const eucDistance = ([x0, y0, z0]: number[], [x1, y1, z1]: number[]) =>
   Math.hypot(x1 - x0, y1 - y0, z1 - z0);
 
-const defaultOptions = { threshold: 5, limit: 5 };
+const defaultOptions = { threshold: 5, limit: 12 };
 
 export const searchByHSL = (
   hsl: number[],
@@ -20,7 +20,8 @@ export const searchByHSL = (
       distance: eucDistance(hsl, block.hsl),
     }))
     .filter((block) => block.distance! < threshold)
-    .sort((a, b) => a.distance! - b.distance!);
+    .sort((a, b) => a.distance! - b.distance!)
+    .slice(0, limit);
 
   if (results.length < limit) {
     return searchByHSL(hsl, blocks, {

@@ -12,7 +12,7 @@ interface BlocksProps {
 export function Blocks({
   blocks,
   label,
-  columns = 3,
+  columns = 4,
   span = "auto",
 }: BlocksProps) {
   return (

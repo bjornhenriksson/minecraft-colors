@@ -3,8 +3,8 @@
   align-items: center;
   justify-content: space-between;
   box-sizing: border-box;
-  width: 100%;
   text-align: left;
+  gap: 0.5rem;
   color: #213547;
   border-radius: var(--action-border-radius);
   border: var(--action-border-width) var(--action-border-type)
@@ -46,6 +46,4 @@
   background-color: hsl(from var(--action-background) h s calc(l * 0.98));
   border: var(--action-border-width) var(--action-border-type)
     hsl(from var(--action-border-color) h s calc(l * 0.98));
-
-  box-shadow: 0px 4px 6px var(--action-background);
 }

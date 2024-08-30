@@ -1,11 +1,11 @@
 .pickers {
-  display: grid;
-  gap: 0.5rem;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 
 label {
   display: inline-flex;
-  flex-wrap: wrap;
   gap: 0.5rem;
   align-items: center;
   font-size: 1rem;
