@@ -46,6 +46,10 @@ export const filterData = [
     children: [
       { key: "mushroom", label: "Mushroom" },
       { key: "wart", label: "Wart" },
+      { key: "moss_block", label: "Moss Block" },
+      { key: "melon", label: "Melon" },
+      { key: "pumpkin", label: "Pumpkin" },
+      { key: "sponge", label: "Sponge" },
     ],
   },
 ];
