@@ -14,6 +14,10 @@
   background-color: black;
 }
 
+.block:hover span {
+  visibility: visible;
+}
+
 .block span {
   position: absolute;
   top: 0;
@@ -32,4 +36,6 @@
   text-overflow: ellipsis;
   font-size: 0.75rem;
   font-weight: bold;
+
+  visibility: hidden;
 }

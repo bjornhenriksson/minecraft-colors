@@ -9,8 +9,12 @@ interface BlockPickerProps {
   onPick: (hsl: number[]) => void;
 }
 
-const Button = forwardRef<HTMLButtonElement, SelectRootSlotProps<{}, boolean>>(
-  ({ children, ownerState: _, ...props }, ref) => {
+const Button = forwardRef<
+  HTMLButtonElement,
+  SelectRootSlotProps<object, boolean>
+>(
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  ({ children, ownerState, ...props }, ref) => {
     return (
       <button {...props} ref={ref}>
         {children} <MdOutlineUnfoldMore />
@@ -22,8 +26,7 @@ const Button = forwardRef<HTMLButtonElement, SelectRootSlotProps<{}, boolean>>(
 export function BlockPicker({ onPick }: BlockPickerProps) {
   const [selected, setSelected] = useState("diamond_block");
 
-  const onChange = (_: any, value: string | null) => {
-    console.log(_);
+  const onChange = (_: unknown, value: string | null) => {
     if (!value) return;
     setSelected(value);
     const block = blocks.find((b) => b.name === value)!;
@@ -38,6 +41,7 @@ export function BlockPicker({ onPick }: BlockPickerProps) {
       slots={{ root: Button }}
       slotProps={{
         listbox: { className: styles.listbox },
+        popup: { className: styles.popup },
       }}
     >
       {blocks.map((block, index) => (

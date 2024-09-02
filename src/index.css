@@ -1,33 +1,48 @@
 :root {
+  --base-hue: 212;
+  --base-color: hsl(var(--base-hue), 100%, 50%);
+
+  --action-background-color: hsl(var(--base-hue), 18%, 96%);
+  --action-background-color-hover: hsl(var(--base-hue), 18%, 92%);
+  --action-background-color-selected: hsl(var(--base-hue), 18%, 88%);
+  --action-border-radius: 8px;
+  --action-border-width: 1px;
+  --action-border-type: solid;
+  --action-border-color: transparent;
+  --action-border-color-hover: hsl(var(--base-hue), 100%, 70%);
+  --action-text-color: hsl(var(--base-hue), 3%, 35%);
+  --action-outline-color: var(--action-border-color-hover);
+  --action-outline-width: 1px;
+  --action-outline: var(--action-outline-width) auto var(--action-outline-color);
+
+  --box-border-color: hsl(var(--base-hue) 13.5% 91.47%);
+  --box-border: 1px solid var(--box-border-color);
+
+  --text-color-primary: hsl(var(--base-hue), 20%, 5%);
+  --text-color-secondary: hsl(var(--base-hue), 5%, 55%);
+  --text-color-inverted: hsl(var(--base-hue), 5%, 95%);
+
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
-  color: #0a0c0f;
+  color: var(--text-color-primary);
   background-color: #ffffff;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
-  --action-background: hsl(220, 18%, 98%);
-  --action-border-radius: 8px;
-  --action-border-width: 1px;
-  --action-border-type: solid;
-  --action-border-color: hsl(0deg 13.5% 91.47%);
-  --action-border-color-hover: #646cff;
-  --action-outline: 4px auto --action-border-color-hover;
 }
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: var(--base-color);
   text-decoration: inherit;
 }
 
 a:hover {
-  color: #747bff;
+  color: hsl(var(--base-color), 100%, 73%);
 }
 
 body {
@@ -58,7 +73,7 @@ button {
   border-radius: var(--action-border-radius);
   border: var(--action-border-width) var(--action-border-type)
     var(--action-border-color);
-  background-color: var(--action-background);
+  background-color: var(--action-background-color);
   padding: 0.6rem 1.2rem;
   font-size: 1rem;
   font-weight: 500;
@@ -72,4 +87,14 @@ button:hover {
 button:focus,
 button:focus-visible {
   outline: var(--action-outline);
+}
+
+label {
+  display: inline-flex;
+  gap: 0.5rem;
+  align-items: center;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.25s;
 }

@@ -1,0 +1,33 @@
+.pill {
+  background-color: var(--action-background-color);
+  border-radius: var(--action-border-radius);
+  color: var(--action-text-color);
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  cursor: pointer;
+  position: relative;
+  text-wrap: nowrap;
+}
+
+.pill:hover {
+  background-color: var(--action-background-color-hover);
+}
+
+.pill:focus {
+  outline: var(--action-outline);
+}
+
+.pill.checked {
+  background-color: var(--base-color);
+  color: var(--text-color-inverted);
+}
+
+/* this stays hidden but covers all */
+.pill input {
+  cursor: inherit;
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  z-index: 3;
+  margin: 0;
+}

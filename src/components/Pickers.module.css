@@ -3,13 +3,3 @@
   flex-wrap: wrap;
   gap: 1rem;
 }
-
-label {
-  display: inline-flex;
-  gap: 0.5rem;
-  align-items: center;
-  font-size: 1rem;
-  font-weight: 500;
-  cursor: pointer;
-  transition: background-color 0.25s;
-}

@@ -9,7 +9,7 @@
   border-radius: var(--action-border-radius);
   border: var(--action-border-width) var(--action-border-type)
     var(--action-border-color);
-  background-color: var(--action-background);
+  background-color: var(--action-background-color);
   padding: 0.6rem 1.2rem;
   font-size: 1rem;
   font-weight: 500;
@@ -22,16 +22,13 @@
   cursor: default;
 }
 
-.option:hover {
-  background-color: hsl(from var(--action-background) h s calc(l * 1.1));
-}
-
+.option:not(.highlighted):hover,
 .highlighted {
-  background-color: var(--action-background);
+  background-color: var(--action-background-color-hover);
 }
 
-.selected:not(.highlighted) {
-  background-color: hsl(from var(--action-background) h s calc(l * 0.95));
+.selected {
+  background-color: var(--action-background-color-selected);
 }
 
 .listbox {
@@ -43,7 +40,10 @@
   outline: 0;
   min-width: 100%;
   height: 200px;
-  background-color: hsl(from var(--action-background) h s calc(l * 0.98));
-  border: var(--action-border-width) var(--action-border-type)
-    hsl(from var(--action-border-color) h s calc(l * 0.98));
+  background-color: var(--action-background-color);
+  border: none;
+}
+
+.popup {
+  z-index: 3;
 }

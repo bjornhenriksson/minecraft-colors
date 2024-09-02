@@ -1,0 +1,19 @@
+.filterSet {
+  border: var(--box-border);
+  border-radius: var(--action-border-radius);
+  align-items: center;
+  padding-bottom: 1rem;
+}
+
+.filters {
+  display: flex;
+  gap: 0.25rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+legend {
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--text-color-secondary);
+}

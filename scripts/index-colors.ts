@@ -1,4 +1,3 @@
-console.log("HELLO");
 import { createCanvas, loadImage } from "canvas";
 import * as fs from "node:fs/promises";
 import models from "./blocks_models.json";

@@ -1,14 +1,20 @@
 .picker {
-  background: none;
-  border-color: transparent;
+  box-sizing: content-box;
+  background: var(--action-background-color);
+  border: none;
   border-radius: var(--action-border-radius);
-  padding: 0;
-  height: 3rem;
-  width: 4.5rem;
+  padding: 6px;
+  position: relative;
 }
 
 .picker::-webkit-color-swatch {
-  border: var(--action-border-color);
   border-radius: var(--action-border-radius);
+  border: none;
   padding: 0;
+  margin: 0;
+}
+
+.picker::-webkit-color-swatch-wrapper {
+  padding: 0;
+  margin: 0;
 }
