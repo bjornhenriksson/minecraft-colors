@@ -6,6 +6,7 @@ import { searchByHSL, SearchOptions } from "./lib/similarity";
 import { Blocks } from "./components/Blocks";
 import { BlockType } from "./types";
 import { Filters, FilterState } from "./components/Filters";
+import { FaGithubAlt, FaHeart } from "react-icons/fa";
 
 const makeExclude = (keywords: string[]) => (block: BlockType) =>
   !keywords.some((f) => block.name.includes(f));
@@ -68,6 +69,28 @@ function App() {
           label="Double Complementary Palette"
         />
       </div>
+
+      <footer className={styles.footer}>
+        <p>
+          Made by a fan <FaHeart color="hotpink" />{" "}
+          <a
+            href="https://github.com/bjornhenriksson/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            @bjornhenriksson
+          </a>
+        </p>
+        <p>
+          <a
+            href="https://github.com/bjornhenriksson/minecraft-colors"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            See the code on Github <FaGithubAlt />
+          </a>
+        </p>
+      </footer>
     </div>
   );
 }

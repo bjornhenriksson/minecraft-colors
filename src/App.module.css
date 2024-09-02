@@ -27,6 +27,15 @@ img {
   font-size: 1.2rem;
 }
 
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer svg {
+  vertical-align: middle;
+}
+
 @media screen and (min-width: 768px) {
   .main {
     grid-template-columns: repeat(2, 1fr);
