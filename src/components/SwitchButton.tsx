@@ -16,7 +16,7 @@ export const SwitchButton = ({
   labels,
 }: SwitchButtonProps) => {
   return (
-    <span
+    <label
       className={clsx(styles.switch, {
         [styles.checked]: checked,
       })}
@@ -25,7 +25,12 @@ export const SwitchButton = ({
       <span className={styles.label}>{labels.second}</span>
 
       <span className={styles.thumb} />
-      <input type="checkbox" className={styles.input} onChange={onChange} />
-    </span>
+      <input
+        type="checkbox"
+        className={styles.input}
+        checked={checked}
+        onChange={onChange}
+      />
+    </label>
   );
 };

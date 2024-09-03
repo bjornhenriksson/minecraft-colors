@@ -80,6 +80,12 @@ function App() {
           >
             @bjornhenriksson
           </a>
+          <br />
+          With special thanks to{" "}
+          <a href="https://www.youtube.com/c/HenriPacca" target="_blank">
+            @HenriPacca
+          </a>{" "}
+          for fantastic input and feedback.
         </p>
         <p>
           <a
